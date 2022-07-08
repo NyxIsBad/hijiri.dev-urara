@@ -122,13 +122,16 @@ export const theme: ThemeConfig = [
 export const head: HeadConfig = {}
 
 export const header: HeaderConfig = {
+  search: {
+    provider: 'duckduckgo'
+  },
   nav: [
     {
-      text: 'Get Started',
+      text: 'Personal Life',
       link: '/hello-world'
     },
     {
-      text: 'Elements',
+      text: 'Developer Things',
       link: '/hello-world/elements'
     }
   ]
@@ -150,7 +153,7 @@ export const footer: FooterConfig = {
 export const date: DateConfig = {
   locales: 'en-US',
   options: {
-    year: '2-digit',
+    year: 'numeric',
     weekday: 'long',
     month: 'short',
     day: 'numeric'
