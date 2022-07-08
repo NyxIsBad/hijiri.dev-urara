@@ -11,3 +11,4 @@ build/
 .env.**.local
 *.config.js
 urara.js
+.vercel
