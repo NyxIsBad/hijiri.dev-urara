@@ -128,11 +128,19 @@ export const header: HeaderConfig = {
   nav: [
     {
       text: 'Personal Life',
-      link: '/hello-world'
+      link: '/site-index/personal'
     },
     {
-      text: 'Developer Things',
-      link: '/hello-world/elements'
+      text: 'Coding Things',
+      link: '/site-index/dev'
+    },
+    {
+      text: 'Translations',
+      link: '/site-index/tl'
+    },
+    {
+      text: 'About Me',
+      link: '/about-me'
     }
   ]
 }

@@ -11,7 +11,14 @@ export const site: SiteConfig = {
     name: 'Nyx',
     photo: 'picture.jpg',
     status: '🌸',
-    bio: 'Some random 17 year old'
+    bio: 'Some random 17 year old at the University of Maryland'
+    metadata: [
+      {
+        text: 'NyxIsBad',
+        icon: 'i-simple-icons-github',
+        link: 'https://github.com/nyxisbad'
+      }
+    ]
   },
   themeColor: '#3D4451'
 }

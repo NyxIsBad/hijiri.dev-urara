@@ -6,6 +6,8 @@ tags:
   - 'Hello World'
   - 'Urara'
 cover: '/hello-world/cover.webp'
+flags: 
+  - unlisted
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.
