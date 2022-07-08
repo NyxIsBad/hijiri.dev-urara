@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     name: 'Nyx',
     photo: 'picture.jpg',
     status: '🌸',
-    bio: 'Some random 17 year old at the University of Maryland'
+    bio: 'Some random 17 year old at the University of Maryland',
     metadata: [
       {
         text: 'NyxIsBad',

@@ -140,7 +140,7 @@ export const header: HeaderConfig = {
     },
     {
       text: 'About Me',
-      link: '/about-me'
+      link: '/about-me/about-me'
     }
   ]
 }
