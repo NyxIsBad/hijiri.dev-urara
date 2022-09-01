@@ -9,13 +9,13 @@ export const site: SiteConfig = {
   description: 'Powered by SvelteKit/Urara',
   author: {
     name: 'Nyx',
-    photo: 'picture.jpg',
+    photo: '/assets/picture.jpg',
     status: '🌸',
-    bio: 'Some random 17 year old at the University of Maryland',
+    bio: 'Some random 17 year old on the internet at the University of Maryland',
     metadata: [
       {
         text: 'NyxIsBad',
-        icon: 'i-simple-icons-github',
+        icon: '/assets/github.svg',
         link: 'https://github.com/nyxisbad'
       }
     ]

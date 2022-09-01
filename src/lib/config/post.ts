@@ -8,7 +8,7 @@ export const post: PostConfig = {
         use: ['Webmention', 'Giscus'],
         style: 'boxed',
         webmention: {
-            username: 'kwaa.dev',
+            username: 'hijiri.dev',
             sortBy: 'created',
             sortDir: 'down',
             form: true,
@@ -16,12 +16,12 @@ export const post: PostConfig = {
         },
         giscus: {
             // src: 'https://giscus.kwaa.dev/client.js',
-            repo: 'kwaa/comments',
-            repoID: 'MDEwOlJlcG9zaXRvcnkyODI2MDcyMDI=',
+            repo: 'nyxisbad/comments',
+            repoID: 'R_kgDOHoUU3g=',
             category: 'General',
-            categoryID: 'DIC_kwDOENg-Ys4CAvDm',
+            categoryID: 'DIC_kwDOHoUU3s4CQHk8',
             reactionsEnabled: true,
-            lang: 'zh-CN',
+            lang: 'en',
             // theme: 'urara'
             theme: 'preferred_color_scheme'
         }
