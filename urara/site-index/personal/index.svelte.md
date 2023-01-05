@@ -10,4 +10,4 @@ flags:
 
 ### Personal Posts (ordered by date descending)
 
-1. 
+1. [Trip to Korea](/koreatrip/)
