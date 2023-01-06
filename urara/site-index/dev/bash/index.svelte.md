@@ -45,4 +45,4 @@ The executor program is relatively simple,
 
 Seems pretty simple, yea? Unfortunately, this took me the better part of my winter break. I started as soon as I got off school 2022-12-20 and now its 2023-01-05 and I'm finally showing this off. 
 
-![](/bash/20_43_42_000247.png)
+![](/site-index/dev/bash/20_43_42_000247.png)
