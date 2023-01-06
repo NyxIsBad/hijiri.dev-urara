@@ -3,7 +3,8 @@ title: A July Trip to Korea
 date: 2022-09-01
 tags: 
   - PersonalPost
-summary: A Description of my trip to Korea
+summary: A description of my trip to Korea
+image: /koreatrip/bunni.jpg
 ---
 
 # Intro
@@ -38,11 +39,17 @@ All in all, entry was super smooth. Just make sure to do your K-ETA and Q-Code a
 
 **Night: Cheonggyecheon Stream**, and got dinner at Burger King because nothing else was open. This was a lesson - a lot of places in Korea don't stay open late past like 20:00, and they don't open until late too, until 8:00 to 10:00. 
 
+![Under the rainbow bridge](/koreatrip/IMG_20220711_232350.jpg)
+
 **July 12**: **Morning: Hyundai Dept Store Seoul, I-Seoul-U sign. Afternoon: Myeongdong Shopping Street, DDP.** Holy crap what a day, I was awfully tired. Noodles for dinner on tired feet was a good feeling. Not much to say, shopping and architecture, other than Myeongdong being destroyed by COVID. Oh, and we picked up our SIM card here. It's very far from the airport, but the benefits are unlimited call/text/data for just [like 29 USD. We got the Lite plan - 300mb of fast data, but the "slow" data is still 3mbps, good enough for most everything](https://www.trazy.com/experience/detail/prepaid-data-sim-card-long-term).
 
 **July 13**: **Morning/afternoon: Starfield COEX Mall/Library** (pronounced Liberry by my sister). **Night:** **~~Lotte Tower~~** **Rained on!** Went back to the hotel and found a local museum to go to, walked around some shops. COEX was pretty fun! We ran around the place buying things, and although most of the food places were closed, was pretty fun. Dad bought a lot of kitchenware to take home.
 
 **July 14: Morning: Gyeongbukgung Palace. Afternoon: Hanok Village** (construction! pretty hard to explore, gave up after not being able to find a good way in). **Night: Naksan Park.** Probably one of the prettiest views of the trip, except the mosquitoes were outrageous. Everyone was flailing around, it was pretty funny, but the view was worth it. I got bit 3 times, while wearing a jacket and jeans; my dad and sister fared worse. Another thing you'll learn in Korea is there's a million couples everywhere in Seoul. Everywhere is couples. My sister and I got mistaken for one on more than one occasion. Gyeongbukgung doesn't actually begin selling tickets until 9, but going a bit early allows you to get super nice pictures of the first courtyard area.
+
+![The Palace](/koreatrip/IMG_20220714_093259.jpg)
+![The town below Naksan Park](/koreatrip/IMG_20220714_203014.jpg)
+![On top of the walls](/koreatrip/IMG_20220714_201321.jpg)
 
 **July 15: Morning: War memorial**, pretty solemn. **Afternoon: Goto mall** (giant thing), **Gangnam**. **Night: Banpo Bridge**, except we waited 3 hours and the show never happened. We were confused, everyone else there was confused, and after the last showing was meant to happen we just left. It was still fun though, because there were some nice people singing and having fun at the center circular stage.
 
@@ -62,11 +69,15 @@ All in all, entry was super smooth. Just make sure to do your K-ETA and Q-Code a
 
 **July 23: Morning: Amethyst Cavern Park + Temple + Zoo. Afternoon: Petroglyphs in Cheonjeon-ri**. Probably one of my favorite days of the trip. Gosh, Amethyst Cavern was pretty good. Not much english signage but the mountains were pretty, the view was pretty, the caves were pretty, etc. The petroglyphs hike was also fun, and the temple was very interesting, although to be honest we were slightly intimidated by the scale and tone of it. We had KyoChon chicken for dinner. Much recommend. Lots of chains in Korea, get it sometime.
 
+![Brilliant rolling hills in front of the Amethyst Cavern Park](/koreatrip/IMG_20220723_123643.jpg)
+
 **July 24: Morning: Train to Incheon (actually, Seoul and then train to Incheon) Afternoon: Songdo Central Park**. Songdo Park at night is very beautiful. You can tell everyone living around loves it too
 
 **July 25: Morning: Shrimp Tower, Chinatown. Afternoon: Some kind of supercomplex Homeplus + E-Mart + Mall all in one**. Yes, we went to go see a 2 story tower with absolutely nothing special with the exception of being shaped like a shrimp. In Korean it's called 소래포구 새우 타워. Go see it. It's funny.
 
 **July 26: Morning: Local walk, parks. Afternoon: FLIGHT!!!** We brought luggage onto a bus obviously not meant for carrying luggage. This is when I was glad that we packed light, because our small carry ons slipped into the footwells and all was well
+
+![Donuts we got in ICN](/koreatrip/IMG_20220726_171312.jpg)
 
 **July 27:** **Home (and here I am)!** I won't write much here other than that Vancouver transfer security is horrid, and that leaving Incheon was very smooth. All the food in Incheon is in floor 1, B1 (mostly B1), or the Transport hub. The US has literally no entry requirements for vaccinated travelers, and I know you guys don't want to hear about country specific exit requirements, because it won't even apply to you. God help Canadian airport wait times. Please. Open another lane. I beg. Half the people in my line were late for connecting flights because of you :grr:
 
@@ -77,5 +88,3 @@ The tourist places were pretty well populated, although not by tourists, even th
 If any of you have questions about my entry experience or the rest of the trip, feel free to leave them below and I'll try my best to respond to it! I heard that some entry requirements have changed in this short 2 week timespan, like *now you have to upload your post arrival negative covid test to Q-Code.*
 
 A lot of u/Sybernova11's post [here](https://www.reddit.com/r/koreatravel/comments/w2uxc7/korea_trip_report_july_1117/) explains public transportation way better than I did!
-
-Edits: some extra info, whoopsie moments
