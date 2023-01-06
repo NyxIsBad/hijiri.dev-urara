@@ -4,7 +4,7 @@ date: 2022-07-08
 tags: 
   - Clearvision
   - DevPost
-image: /clearvision/6-stable479.png
+image: /site-index/dev/clearvision/6-stable479.png
 ---
 - [Description](#description)
 - [Support](#support)
