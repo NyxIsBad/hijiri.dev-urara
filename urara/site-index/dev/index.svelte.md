@@ -10,4 +10,4 @@ flags:
 
 ### Developer Posts (ordered by date descending)
 
-1. [The Clearvision Project](/clearvision/)
+1. [The Clearvision Project](./clearvision/)
