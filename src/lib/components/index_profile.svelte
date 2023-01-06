@@ -31,7 +31,7 @@
               class="btn btn-sm btn-ghost normal-case gap-2 u-url"
               target="_blank">
               {#if icon}
-                <span class="u-photo !w-5 !h-5" src={icon} />
+                <img class="u-photo !w-5 !h-5" src={icon} />
               {/if}
               {#if text}
                 {text}
@@ -40,7 +40,7 @@
           {:else}
             <button class:btn-square={!text} class="btn btn-sm btn-ghost normal-case gap-2" {rel}>
               {#if icon}
-                <span class="u-photo !w-5 !h-5" src={icon} />
+                <img class="u-photo !w-5 !h-5" src={icon} />
               {/if}
               {#if text}
                 {text}

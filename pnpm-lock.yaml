@@ -1,9 +1,6 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@iconify-json/heroicons-outline': ^1.1.4
-  '@iconify-json/heroicons-solid': ^1.1.5
-  '@iconify-json/simple-icons': ^1.1.34
   '@sveltejs/adapter-auto': 1.0.0-next.50
   '@sveltejs/adapter-node': 1.0.0-next.78
   '@sveltejs/adapter-static': 1.0.0-next.34
@@ -49,9 +46,6 @@ specifiers:
   workbox-window: ^6.5.3
 
 devDependencies:
-  '@iconify-json/heroicons-outline': 1.1.5
-  '@iconify-json/heroicons-solid': 1.1.6
-  '@iconify-json/simple-icons': 1.1.34
   '@sveltejs/adapter-auto': 1.0.0-next.50
   '@sveltejs/adapter-node': 1.0.0-next.78
   '@sveltejs/adapter-static': 1.0.0-next.34
@@ -106,8 +100,8 @@ packages:
       '@jridgewell/trace-mapping': 0.3.14
     dev: true
 
-  /@antfu/install-pkg/0.1.0:
-    resolution: {integrity: sha512-VaIJd3d1o7irZfK1U0nvBsHMyjkuyMP3HKYVV53z8DKyulkHKmjhhtccXO51WSPeeSHIeoJEoNOKavYpS7jkZw==}
+  /@antfu/install-pkg/0.1.1:
+    resolution: {integrity: sha512-LyB/8+bSfa0DFGC06zpCEfs89/XoWZwws5ygEa5D+Xsm3OfI+aXQ86VgVG7Acyef+rSZ5HE7J8rrxzrQeM3PjQ==}
     dependencies:
       execa: 5.1.1
       find-up: 5.0.0
@@ -1300,24 +1294,6 @@ packages:
     resolution: {integrity: sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==}
     dev: true
 
-  /@iconify-json/heroicons-outline/1.1.5:
-    resolution: {integrity: sha512-GjxxpqgwPUYwFedLLdtd20sm6fFKpdVeQKRK7l04q7VzYgfcYTwd+G7VTWjmJbhykdBlFh963PoU2fvbEMGKtg==}
-    dependencies:
-      '@iconify/types': 1.1.0
-    dev: true
-
-  /@iconify-json/heroicons-solid/1.1.6:
-    resolution: {integrity: sha512-akzICPMJ4TIQ13RxprpBNtSYl7M3+k4c5bAivtvK62B18wHS6yT1qWEFH9Q3+n08EQm2E99uHZ9yl2Wam8uMuQ==}
-    dependencies:
-      '@iconify/types': 1.1.0
-    dev: true
-
-  /@iconify-json/simple-icons/1.1.34:
-    resolution: {integrity: sha512-PxcCSyMuj1sZrUYIbrzAvcLL6DIjKPb+ilzUTxHUAT7rQS/stbgSDdXurptHlU30h7J/Fa5ShFhR7FI+C9pljg==}
-    dependencies:
-      '@iconify/types': 1.1.0
-    dev: true
-
   /@iconify/types/1.1.0:
     resolution: {integrity: sha512-Jh0llaK2LRXQoYsorIH8maClebsnzTcve+7U3rQUSnC11X4jtPnFuyatqFLvMxZ8MLG8dB4zfHsbPfuvxluONw==}
     dev: true
@@ -1325,12 +1301,12 @@ packages:
   /@iconify/utils/1.0.33:
     resolution: {integrity: sha512-vGeAqo7aGPxOQmGdVoXFUOuyN+0V7Lcrx2EvaiRjxUD1x6Om0Tvq2bdm7E24l2Pz++4S0mWMCVFXe/17EtKImQ==}
     dependencies:
-      '@antfu/install-pkg': 0.1.0
+      '@antfu/install-pkg': 0.1.1
       '@antfu/utils': 0.5.2
       '@iconify/types': 1.1.0
       debug: 4.3.4
-      kolorist: 1.5.1
-      local-pkg: 0.4.1
+      kolorist: 1.6.0
+      local-pkg: 0.4.2
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -3868,8 +3844,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /kolorist/1.5.1:
-    resolution: {integrity: sha512-lxpCM3HTvquGxKGzHeknB/sUjuVoUElLlfYnXZT73K8geR9jQbroGlSCFBax9/0mpGoD3kzcMLnOlGQPJJNyqQ==}
+  /kolorist/1.6.0:
+    resolution: {integrity: sha512-dLkz37Ab97HWMx9KTes3Tbi3D1ln9fCAy2zr2YVExJasDRPGRaKcoE4fycWNtnCAJfjFqe0cnY+f8KT2JePEXQ==}
     dev: true
 
   /leven/3.1.0:
@@ -3900,8 +3876,8 @@ packages:
       strip-bom: 3.0.0
     dev: true
 
-  /local-pkg/0.4.1:
-    resolution: {integrity: sha512-lL87ytIGP2FU5PWwNDo0w3WhIo2gopIAxPg9RxDYF7m4rr5ahuZxP22xnJHIvaLTe4Z9P6uKKY2UHiwyB4pcrw==}
+  /local-pkg/0.4.2:
+    resolution: {integrity: sha512-mlERgSPrbxU3BP4qBqAvvwlgW4MTg78iwJdGGnv7kibKjWcJksrG3t6LB5lXI93wXRDvG4NpUgJFmTG4T6rdrg==}
     engines: {node: '>=14'}
     dev: true
 

@@ -4,11 +4,9 @@ date: 2022-09-01
 tags: 
   - PersonalPost
 summary: A Description of my trip to Korea
-flags: 
-  - unlisted
 ---
 
-\--------------------------------------------------------------------Intro--------------------------------------------------------------------
+# Intro
 
 **Hello! I got a lot of help from about entry requirements and skimming places to go on various online forums, so I figured I'd share my experiences and maybe help allay some travel concerns for anyone planning to go to Korea late summer**. I went with my father and younger sister, both of us Asian but not Korean (with zero Korean speaking skills - this was hilarious)... we also booked super annoying flights (not so hilarious)
 
@@ -16,7 +14,7 @@ We are US Citizens, routing through Canada, but with no landside stop. *This wou
 
 Other notes: 1.) we came during the supposed height of monsoon season, but we only got rained on a single afternoon despite every "next day's" forecast being rain. Lucky. 2.) ***ALWAYS CARRY YOUR PASSPORTS! They are your only form of legal ID and are super useful***. 3.) This trip was kind of supposed to mix a bit of "daily life in Korea" into the mix, so we looked at a lot of not-typical things, like huge HomePlus stores, the Costcos there, the local markets. My dad's friend showed us around Suwon, his apartment, the workplace, and his son showed us around the schools, recreation, etc. It's very cool.
 
-\--------------------------------------------------------------------Entry--------------------------------------------------------------------
+# Entry
 
 **July -** **(Before Trip)**: Filled out K-ETA. *We're American. Got approved within 20 minutes. Made sure to specify hotel address, and email is important!! Didn't have a Korean number immediately so filled in my US one, but you will want to have an email for all your entry things to keep them together before you pick up a sim card.* Downloaded Naver Maps (in english mode) and Kakao T, and made an account for Kakao T. Google maps is inadequate (it draws walking lines through buildings, has weird transit directions sometimes, and has completely wrong operating hours for most businesses/places) and Kakao T is horribly important when you leave a major city. We packed somewhat light so we didn't need the taxis to get to and from airports.
 
@@ -36,7 +34,7 @@ We bought 3 T-Money cards from the Transportation Center for 4000 won each (late
 
 All in all, entry was super smooth. Just make sure to do your K-ETA and Q-Code and you should be fine.
 
-\--------------------------------------------------------------------Trip--------------------------------------------------------------------
+# Trip
 
 **Night: Cheonggyecheon Stream**, and got dinner at Burger King because nothing else was open. This was a lesson - a lot of places in Korea don't stay open late past like 20:00, and they don't open until late too, until 8:00 to 10:00. 
 
@@ -72,9 +70,9 @@ All in all, entry was super smooth. Just make sure to do your K-ETA and Q-Code a
 
 **July 27:** **Home (and here I am)!** I won't write much here other than that Vancouver transfer security is horrid, and that leaving Incheon was very smooth. All the food in Incheon is in floor 1, B1 (mostly B1), or the Transport hub. The US has literally no entry requirements for vaccinated travelers, and I know you guys don't want to hear about country specific exit requirements, because it won't even apply to you. God help Canadian airport wait times. Please. Open another lane. I beg. Half the people in my line were late for connecting flights because of you :grr:
 
-\---------------------------------------------------------------Final Remarks---------------------------------------------------------------
+# Final Remarks
 
-Korea was an absolute blast. The tourist places were pretty well populated, although not by tourists, even though I saw a few milling around the popular places in Seoul. Most places (and all in places like Ulsan) were mostly filled by domestic tourism, which seems to be booming. Almost everything is up and operating just fine, although you'll occasionally find the shuttered place. Be sure to use Naver for directions. Google maps just doesn't cut it for the reasons above, although it can be good for searching for tourist places in english (and fast food, which you can't search for generally in Naver)
+The tourist places were pretty well populated, although not by tourists, even though I saw a few milling around the popular places in Seoul. Most places (and all in places like Ulsan) were mostly filled by domestic tourism, which seems to be booming. Almost everything is up and operating just fine, although you'll occasionally find the shuttered place. Be sure to use Naver for directions. Google maps just doesn't cut it for the reasons above, although it can be good for searching for tourist places in english (and fast food, which you can't search for generally in Naver)
 
 If any of you have questions about my entry experience or the rest of the trip, feel free to leave them below and I'll try my best to respond to it! I heard that some entry requirements have changed in this short 2 week timespan, like *now you have to upload your post arrival negative covid test to Q-Code.*
 

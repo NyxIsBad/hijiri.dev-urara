@@ -4,6 +4,7 @@ date: 2022-07-08
 tags: 
   - Clearvision
   - DevPost
+image: /clearvision/6-stable.4.7.9.png
 ---
 - [Description](#description)
 - [Support](#support)
@@ -11,9 +12,9 @@ tags:
 ~this blog is WIP and so is this page~
 ## Description
 
-[Clearvision](https://github.com/ClearVision) is a project created by myself and other members of the ClearVision organization, or the ClearVision Team. It is designed to customize discord, a chatting platform 
+Initially made by Zerthox, [Clearvision](https://github.com/ClearVision) is a project created by myself and other members of the ClearVision organization, or the ClearVision Team. It is designed to customize discord, a chatting platform.
 
-It's a theme written in scss and hosted on github. You can install it via any discord injector that supports .theme.css files, such as [BetterDiscord](https://betterdiscord.app/) or [Powercord](https://powercord.dev/).
+It's a theme written in scss and hosted on github. You can install it via any discord injector that supports .theme.css files, such as [BetterDiscord](https://betterdiscord.app/), [Powercord](https://powercord.dev/), Vizality, Replugged, etc etc.
 
 ## Support
 

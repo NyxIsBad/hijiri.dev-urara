@@ -11,11 +11,11 @@ export const site: SiteConfig = {
     name: 'Nyx',
     photo: '/assets/picture.jpg',
     status: '🌸',
-    bio: 'Some random 18 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in Networking, Computer Systems, and for some reason Web Dev',
+    bio: 'Some random 18 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in Networking, Computer Systems, and for some reason Web Dev?',
     metadata: [
       {
         text: 'NyxIsBad',
-        icon: '/assets/github.svg',
+        icon: 'https://api.iconify.design/mdi/github.svg?color=white',
         link: 'https://github.com/nyxisbad'
       }
     ]
