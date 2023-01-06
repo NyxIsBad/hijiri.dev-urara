@@ -4,7 +4,7 @@ date: 2022-09-01
 tags: 
   - PersonalPost
 summary: And some pictures
-image: /site-index/personal/koreatrip/bunni.jpg
+cover: /site-index/personal/koreatrip/bunni.jpg
 ---
 
 # Intro
