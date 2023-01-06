@@ -15,7 +15,7 @@ export const site: SiteConfig = {
     metadata: [
       {
         text: 'NyxIsBad',
-        icon: 'i-mdi-github',
+        icon: 'mdi:github',
         link: 'https://github.com/nyxisbad'
       }
     ]
