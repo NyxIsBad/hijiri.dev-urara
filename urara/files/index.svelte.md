@@ -11,7 +11,7 @@ flags:
 
 ### Files
 
-1. [Braun Diff EQ](./Braun.pdf)
-2. [Cullen Lin Alg](./Cullen.pdf)
-3. [Ross Probability](./Ross.pdf)
-4. [Reek C](./Reek.pdf)
+1. [Braun Diff EQ](./files/Braun.pdf)
+2. [Cullen Lin Alg](./files/Cullen.pdf)
+3. [Ross Probability](./files/Ross.pdf)
+4. [Reek C](./files/Reek.pdf)
