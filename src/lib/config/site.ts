@@ -11,12 +11,17 @@ export const site: SiteConfig = {
     name: 'Nyx',
     photo: '/assets/picture.jpg',
     status: '🌸',
-    bio: 'Some random 18 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in Networking, Computer Systems, and for some reason Web Dev?',
+    bio: 'Some random 19 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in Networking, Computer Systems, and for some reason Web Dev?',
     metadata: [
       {
         text: 'NyxIsBad',
         icon: 'mdi:github',
         link: 'https://github.com/nyxisbad'
+      },
+      {
+        text: 'Nyx',
+        icon: 'mdi:youtube',
+        link: 'https://www.youtube.com/channel/UCx747M7g2UAN1LP7T5OaS2w'
       }
     ]
   },

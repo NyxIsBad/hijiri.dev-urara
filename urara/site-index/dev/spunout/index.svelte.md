@@ -6,17 +6,17 @@ tags:
   - Python
   - Sheets
   - DevPost
-cover: /site-index/dev/clearvision/6-stable479.png
+cover: /site-index/dev/spunout/thumb.png
 ---
-- [Story Intro](#intro)
-- [Technical Stuff](#technical-stuff)
-- [Google Sheet](#the-sheet)
+- [Intro](#intro)
+- [Technical stuff](#technical-stuff)
+- [The Sheet](#the-sheet)
 
 # Intro
 
 So I play this game called osu!, which is pretty cool and could probably warrant a post in my personal section by itself. Regardless, I basically play a really rare (and objectively pointless, but subjectively cool) mod called Spunout, which makes the game basically no different than before, aside from removing an object called the spinner. The gameplay details of the mod can be left out, however - the points I need to make are first, that players in osu! sometimes ""main"" a mod (in which they play the majority of the game with that mod), and additionally that Spunout is incredibly rare. 
 
-I used to be part of a discord server with 5 or 6 people in it where we all played Spunout. It was created purely from just *knowing* people who you knew played the game. But it died... years ago. I recently met a player called [renyoo](https://osu.ppy.sh/users/27209874) while reffing a tournament, and I had seen them around the mod leaderboards lately, so I struck up a conversation, and found out that they were really interested in the idea of a spunout server. So we made one, except I wanted to get everyone this time, and not just the few people who we knew. So we wrote a script! Also, for those interested, [here is the csv file I used for the countries, since I couldn't find a complete list of the osu! countries online that was accurate](countries.csv)
+I used to be part of a discord server with 5 or 6 people in it where we all played Spunout. It was created purely from just *knowing* people who you knew played the game. But it died... years ago. I recently met a player called [renyoo](https://osu.ppy.sh/users/27209874) while reffing a tournament, and I had seen them around the mod leaderboards lately, so I struck up a conversation, and found out that they were really interested in the idea of a spunout server. So we made one, except I wanted to get everyone this time, and not just the few people who we knew. So we wrote a script! Also, for those interested, [here is the csv file I used for the countries, since I couldn't find a complete list of the osu! countries online that was accurate](/site-index/dev/spunout/countries.csv)
 
 # Technical stuff
 
@@ -104,4 +104,40 @@ Well, I wrote a short script to check players too, before realizing that the scr
 
 # The Sheet
 
-I wanted to create a google sheet where you could .. and it's [finished, and at this link](https://docs.google.com/spreadsheets/d/1e7UGhOZ74jO7eVVq5Y6mv4w304djXanQbpF-XpXduJU/edit)
+I wanted to create a google sheet where you could see all the spunout players and their stats and how they rank against each other, and it's [finished, and at this link](https://docs.google.com/spreadsheets/d/1e7UGhOZ74jO7eVVq5Y6mv4w304djXanQbpF-XpXduJU/edit). But this one was also an adventure too! To detail, I did this using an apps script, which uses the list of Spunout players by ID that Kuwume and I generated in the previous bits. However, using Google Sheets' App Script to update the sheet (which, in hindsight, might have been easier if I had simply just hosted the leaderboard on this website) was really troublesome due to the Sheets rate limits. I couldn't call the API many times per minute, so I had to add delay into the script. I couldn't update the sheet a certain amount of times per day, so I set it to only update every 6 hours. I couldn't expose my API key, while Apps Scripts are public to literally everyone who can make a copy of the sheet, so I had to create a private sheet and a public sheet where I would do all the processing and filtering and raw data manipulation on the private sheet, and then use the `IMPORTRANGE()` function to get them onto the public sheet.
+
+Since I didn't want to write JS, I ended up asking someone who had created a similar script if I could have the code for how he was calling the API from Apps Script, and then modified that code accordingly for my needs. 
+
+But that created a problem, since the `IMPORTRANGE()` function doesn't literally import the cells, but rather makes a shallow copy of the data presented to the viewer. Thus, I couldn't import any functions (or images!), so I ended up writing the script in a really funny way to split up things and then using `ARRAYFORMULA()` nonsense to regenerate the images/etc. This was an adventure for me, where I learned all about conditional formatting, all the verious quirks of google sheet formulas, etc. I also had to write in a lot of forumula checks to make sure that I was actually generating on a person to prevent errors too! I ended up designating a "reference cell" range where I'd calculate some numbers that were important to formulas, such as how many players I had, and then reference those later. But this ended up in some funny formulas, like `=QUERY(IMPORTRANGE("1cmqKgZdvNmdPWVgm5HYK4m5jjXe4W1fp_8DYLTNsGH4","Raw Data!B1:O"&IMPORTRANGE("1cmqKgZdvNmdPWVgm5HYK4m5jjXe4W1fp_8DYLTNsGH4","Raw Data!P21")),"select * order by Col4 ASC")` where you can see I was using the reference cell for the number of players.
+
+Regardless, I think the end sheet looks pretty good! And here is the apps script snippet responsible for getting people:
+
+```js
+// takes an array of user ids and returns the corresponding user objects from the API
+function getUsers(userids, token) {
+  let headers = {
+    'Authorization': `${token.token_type} ${token.access_token}`
+  };
+  let reqs = userids.map(user => ({
+    'url': `${ENDPOINT}/users/${user}/osu?key=id`,
+    'method': 'get',
+    'headers': headers,
+    'muteHttpExceptions': true,
+  }));
+
+  let responses = UrlFetchApp.fetchAll(reqs);
+  let userObjects = responses
+                    .map(e => JSON.parse(e.getContentText()))
+                    .map(e => {
+                      if (e.error !== undefined) {
+                        let user = Object.assign({}, defaultUser);
+                        return user;
+                      } else {
+                        return e;
+                      }
+                    });
+  return userObjects;
+}
+```
+
+with similar code used to check the top 100 plays of each user for spunout occurrence. 
