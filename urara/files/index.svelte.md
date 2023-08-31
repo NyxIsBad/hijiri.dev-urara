@@ -1,10 +1,6 @@
 ---
 title: Files
 date: 2023-08-31
-tags: 
-  - Bash
-  - Linux
-  - DevPost
 flags:
   - unlisted
 ---
