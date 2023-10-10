@@ -10,4 +10,4 @@ flags:
 
 ### Translation Posts (ordered by date descending)
 
-1. 
+1. [Music TL and Yorushika](./tl/yorushika)
