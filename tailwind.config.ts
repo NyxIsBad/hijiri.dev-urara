@@ -1,63 +1,30 @@
-// tailwind config type
-import type { TailwindConfig } from 'tailwindcss/tailwind-config'
-// @ts-ignore TS2305: Module 'tailwindcss/plugin' has no exported member 'TailwindPluginWithoutOptions'.
-import type { TailwindPluginWithoutOptions } from 'tailwindcss/plugin'
-// tailwind plugins
+import type { Config } from 'tailwindcss'
 import typography from '@tailwindcss/typography'
 import daisyui from 'daisyui'
 
-interface Config extends TailwindConfig {
-  daisyui?: {
-    styled?: boolean
-    themes?: boolean | string[]
-    base?: boolean
-    utils?: boolean
-    logs?: boolean
-    rtl?: boolean
-    darkTheme?: string
-    prefix?: string
-  }
-}
+import { theme } from './src/lib/config/general'
 
-const defineConfig = (config: Config) => config
-
-export default defineConfig({
+export default {
   content: ['./src/**/*.{html,md,js,svelte,ts}'],
   theme: {
-    extend: {}
+    extend: {
+      typography: {
+        DEFAULT: {
+          css: {
+            'ul:has(li):has(input[type="checkbox"])': {
+              padding: 0
+            },
+            'ul > li:has(input[type="checkbox"])': {
+              listStyle: 'none'
+            },
+            'ul > li:has(input[type="checkbox"]) ul li': {
+              paddingLeft: 30
+            }
+          }
+        }
+      }
+    }
   },
-  plugins: [typography as TailwindPluginWithoutOptions, daisyui as TailwindPluginWithoutOptions],
-  daisyui: {
-    themes: [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter'
-    ]
-  }
-})
+  plugins: [typography, daisyui],
+  daisyui: { themes: theme.map(({ name }) => name) }
+} satisfies Config
