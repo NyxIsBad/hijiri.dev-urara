@@ -10,7 +10,7 @@ flags:
 
 ### Developer Posts (ordered by date descending)
 
-1. [The Clearvision Project](./dev/clearvision/)
-2. [Recreating Bash](./dev/bash)
-3. [The Spunout Server](./dev/spunout)
-4. [Polyomino](./dev/polyomino)
+1. [The Clearvision Project](./clearvision/)
+2. [Recreating Bash](./bash)
+3. [The Spunout Server](./spunout)
+4. [Polyomino](./polyomino)

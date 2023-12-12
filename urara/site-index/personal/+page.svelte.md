@@ -10,5 +10,5 @@ flags:
 
 ### Personal Posts (ordered by date descending)
 
-1. [Trip to Korea](./personal/koreatrip/)
-2. [WSL and Cygwin](./personal/wsl/)
+1. [Trip to Korea](./koreatrip/)
+2. [WSL and Cygwin](./wsl/)

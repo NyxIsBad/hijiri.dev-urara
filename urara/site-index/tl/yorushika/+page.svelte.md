@@ -11,6 +11,14 @@ tags:
 # Intro
 I am not great at translating or at Japanese or Chinese specifically. I do, however, have some layman's understanding of both, and my family background helps a lot with that (since I'm Chinese). So when I noticed that a certain [Yorushika song](https://www.youtube.com/watch?v=J6eih31MaQ8) wasn't translated, I hopped on the chance to get some practice in and translate it.
 
+<script>
+  import { YouTube, Spotify, SoundCloud } from 'sveltekit-embed'
+</script>
+
+<YouTube youTubeId="J6eih31MaQ8" />
+
+<br />
+
 As it turns out, no one had ever translated it before, and the video has become somewhat popular, getting 820k views at the time of writing. It has buoyed me into trying other translations, and I've made 2 more, one for an advertisement (yes, an advertisement) whose animation I found particularly compelling, and a nao song. They've been incredibly interesting, and I wanted to talk about the benefits of doing song translation and how I did it.
 
 # What I think

@@ -7,9 +7,9 @@ flags:
 
 ### Files
 
-1. [Braun](./files/Braun.pdf)
-2. [Cullen](./files/Cullen.pdf)
-3. [Ross](./files/Ross.pdf)
-4. [Reek](./files/Reek.pdf)
-5. [Fraleigh](./files/Fraleigh.pdf)
-6. [Hernstein](./files/Herstein.pdf)
+1. [Braun](./Braun.pdf)
+2. [Cullen](./Cullen.pdf)
+3. [Ross](./Ross.pdf)
+4. [Reek](./Reek.pdf)
+5. [Fraleigh](./Fraleigh.pdf)
+6. [Hernstein](./Herstein.pdf)

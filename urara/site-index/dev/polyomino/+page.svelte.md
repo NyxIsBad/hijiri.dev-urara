@@ -20,7 +20,7 @@ flags:
 
 I present to you today the Polyomino problem from an AtCoder contest I did. This was the prompt provided
 
-![Prompt](/site-index/dev/398L/prompt.png)
+![Prompt](./prompt.png)
 
 The problem immediately struck me as being relatively complex, and I wanted to walk through the interesting approaches made to solve it. For those interested in the final solution, you may want to consider skipping ahead.
 
