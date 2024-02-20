@@ -13,3 +13,4 @@ flags:
 4. [Reek](./Reek.pdf)
 5. [Fraleigh](./Fraleigh.pdf)
 6. [Hernstein](./Herstein.pdf)
+7. [Fitzpatrick](./Fitzpatrick.pdf)
