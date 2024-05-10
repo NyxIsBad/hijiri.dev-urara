@@ -33,7 +33,7 @@ An underline means that we're looking at a subpackage. Stars are for what I perc
 | ⭐Proof of Mission | 5 | Y |
 | Level 40 Box | 1 | Y | 
 
-The proof of mission is an item that gives you +20\% quest xp for an hour. 
+The proof of mission is an item that gives you +20% quest xp for an hour. 
 
 ## Level 40
 
