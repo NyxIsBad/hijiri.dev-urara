@@ -1,5 +1,5 @@
 ---
-title: Aura Kingdom Guides
+title: Aura Kingdom Archive Lag Fix
 created: 2024-05-10
 tags: 
   - PersonalPost

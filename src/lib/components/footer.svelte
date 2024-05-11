@@ -28,7 +28,7 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Powered by
+      Based on by
       <a
         rel="noopener noreferrer external"
         target="_blank"
@@ -36,7 +36,7 @@
         data-tip="🌸 [δ] - Based on MDsveX & SvelteKit 🌸"
         href="https://github.com/importantimport/urara">
         Urara
-      </a>
+      </a> by importantimport. 
       {#if footerConfig.html}
         <br />
         {@html footerConfig.html}

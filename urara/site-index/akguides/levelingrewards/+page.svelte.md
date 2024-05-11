@@ -1,5 +1,5 @@
 ---
-title: Aura Kingdom Guides
+title: X-Legend Character Leveling Rewards
 created: 2024-05-05
 tags: 
   - PersonalPost
@@ -7,14 +7,16 @@ flags:
   - unlisted
 ---
 
-# New X-Legend Level Bonuses [ In Progress ] 
+# New X-Legend Level Bonuses
 
 Article isn't done yet, lol
 
 ## New Character Bonuses
-Since X-Legend took over AK, the Envoy cube has pretty much been scrapped in favor of giving each character on your account a special type of "box" with goodies for each level up milestone inside. **Here, NW denotes not storable in shared warehouse. ALL items are NT (Not Tradeable)** 
+Since X-Legend took over AK, the Envoy cube has been supplemented by giving each character on your account a special type of "box" with goodies for each level up milestone inside. You still receive the Envoy Cube, but those are once per account, as opposed to once per character. As a reminder, each account has many character slots.
 
-That is, a "Y" for "NW" means you cannot store that item in the shared warehouse. This is to keep you from transferring items between characters, but a lot of items aren't marked this way and so you can get away with moving a lot of stuff.
+**Here, NW denotes not storable in shared warehouse. ALL items are NT (Not Tradeable)**.
+
+That is, a "✔️" for "NW" means you cannot store that item in the shared warehouse. This is to keep you from transferring items between characters, but a lot of items aren't marked this way and so you can get away with moving a lot of stuff.
 
 An underline means that we're looking at a subpackage. Stars are for what I perceive to be the most important.
 
@@ -22,16 +24,16 @@ An underline means that we're looking at a subpackage. Stars are for what I perc
 
 | Item | Count | NW |
 | ---- | ----- | -- |
-| Revive Feather | 5 | Y |
-| Green Weapon Fort | 10 | Y |
-| Green Armor Fort | 20 | Y |
-| Crest of Light | 10 | N |
-| Auction Card | 25 | N |
-| Warehouse Card | 25 | Y |
-| Warp Card | 50 | N |
-| Hero's Emblem | 1 | N |
-| ⭐Proof of Mission | 5 | Y |
-| Level 40 Box | 1 | Y | 
+| Revive Feather | 5 | ✔️ |
+| Green Weapon Fort | 10 | ✔️ |
+| Green Armor Fort | 20 | ✔️ |
+| Crest of Light | 10 | ❌ |
+| Auction Card | 25 | ❌ |
+| Warehouse Card | 25 | ✔️ |
+| Warp Card | 50 | ❌ |
+| Hero's Emblem | 1 | ❌ |
+| ⭐Proof of Mission | 5 | ✔️ |
+| Level 40 Box | 1 | ✔️ | 
 
 The proof of mission is an item that gives you +20% quest xp for an hour. 
 
@@ -39,20 +41,20 @@ The proof of mission is an item that gives you +20% quest xp for an hour.
 
 | Item | Count | NW |
 | ---- | ----- | -- |
-| Revive Feather | 5 | Y |
-| Green Weapon Fort | 10 | Y |
-| Green Armor Fort | 50 | Y |
-| 1,000 Fragments | 5 | N |
-| Small Eido Crystals | 10 | N |
-| Origin Weapon Exchange Voucher | 1 | Y |
-| Proof of Mission | 10 | Y |
-| ⭐<u>Advanced Origin Growth Equipment</u> | 1 | Y |
-| - ⭐Full Orange (No Core) Aura Armor | | Y |
-| ⭐<u>Level 40 Orange Armor Chest</u> | 1 | N |
-| - ⭐Full Orange (No Core) Ambusher Armor | | N |
-| - ⭐Level 50 Unrefined Armor Chest | | N |
-| - ⭐5 Superior Fortification Transfer Scrolls | 5 | N |
-| Level 50 Box | 1 | Y |
+| Revive Feather | 5 | ✔️ |
+| Green Weapon Fort | 10 | ✔️ |
+| Green Armor Fort | 50 | ✔️ |
+| 1,000 Fragments | 5 | ❌ |
+| Small Eido Crystals | 10 | ❌ |
+| Origin Weapon Exchange Voucher | 1 | ✔️ |
+| ⭐Proof of Mission | 10 | ✔️ |
+| ⭐<u>Advanced Origin Growth Equipment</u> | 1 | ✔️ |
+| - ⭐Full Orange (No Core) Aura Armor | | ✔️ |
+| ⭐<u>Level 40 Orange Armor Chest</u> | 1 | ❌ |
+| - ⭐Full Orange (No Core) Ambusher Armor | | ❌ |
+| - ⭐Level 50 Unrefined Armor Chest | | ❌ |
+| - ⭐Superior Fortification Transfer Scrolls | 5 | ❌ |
+| Level 50 Box | 1 | ✔️ |
 
 __Set Bonuses:__
 - Ambusher Armor: DMG +5%, DMG to Bosses +15%
@@ -68,19 +70,86 @@ The Armor Set box will have its own rank progression, giving you a level 50 ches
 
 | Item | Count | NW |
 | ---- | ----- | -- |
-| Revive Feather | 5 | Y |
-| ⭐7-Day VIP Sprite | 1 | Y |
-| Green Weapon Fort | 10 | Y |
-| Green Armor Fort | 20 | Y |
-| 10k Dragon Points | 1 | N |
-| ⭐Proof of Mission | 10 | Y |
-| ⭐<u>Level 50 Unrefined Armor Chest</u> | 1 | Y |
-| - ⭐Full Orange (No Core) Aria Armor | | N |
-| - ⭐Level 60 Unrefined Armor Chest | | N |
-| - ⭐5 Superior Fortification Transfer Scrolls | 5 | N |
-| Level 60 Box | 1 | Y |
+| Revive Feather | 5 | ✔️ |
+| ⭐7-Day VIP Sprite | 1 | ✔️ |
+| Green Weapon Fort | 10 | ✔️ |
+| Green Armor Fort | 20 | ✔️ |
+| 10k Dragon Points | 1 | ❌ |
+| ⭐Proof of Mission | 10 | ✔️ |
+| ⭐<u>Level 50 Unrefined Armor Chest</u> | 1 | ✔️ |
+| - ⭐Full Orange (No Core) Aria Armor | | ❌ |
+| - ⭐Level 60 Unrefined Armor Chest | | ❌ |
+| - ⭐Superior Fortification Transfer Scrolls | 5 | ❌ |
+| Level 60 Box | 1 | ✔️ |
+
+## Level 60
+
+| Item | Count | NW |
+| ---- | ----- | -- |
+| ⭐<u>Level 60 Unrefined Armor Chest</u> | 1 | ✔️ |
+| - [[Incomplete]]
+
+#todo: armor chest, rest of box
+
+## Level 70
+
+| Item | Count | NW |
+| ---- | ----- | -- |
+| Revive Feather | 5 | ✔️ |
+| ⭐7-Day VIP Sprite | 10 | ✔️ |
+| Green Weapon Fort | 10 | ✔️ |
+| Green Armor Fort | 20 | ✔️ |
+| ⭐Proof of Mission | 10 | ✔️ |
+| ⭐<u>Level 70 Unrefined Armor Chest</u> | 1 | ✔️ |
+| - [[Incomplete]]
+| Level 80 Box | 1 | ✔️ |
+
+#todo: armor chest
+
+## Level 80
+
+| Item | Count | NW |
+| ---- | ----- | -- |
+| Revive Feather | 20 | ✔️ |
+| ⭐7-Day VIP Sprite | 1 | ✔️ |
+| 1,000 Fragments | 20 | ❌ |
+| 5k Dragon Points | 1 | ❌ |
+| Soulchant Materials Box | 2 | ❌ |
+| - Wind Ore | 60 | ❌ |
+| - Glitterdust | 30 | ❌ |
+| - Soulsucker | 10 | ❌ |
+| Time Materials Box | 5 | ❌ |
+| - Wind Ore | 60 | ❌ |
+| - Ancient Creature Remains | 30 | ❌ |
+| - Timesilk | 10 | ❌ |
+| Chaos Materials Box | 3 | ❌ |
+| - Wind Ore | 60 | ❌ |
+| - Mana Blood Crystal | 30 | ❌ |
+| - Seer's Willow | 10 | ❌ |
+| Level 80 Intermediate Weapon Enchantment | 1 | ❌ |
+| Level 80 Intermediate Helmet Enchantment | 1 | ❌ |
+| Level 80 Intermediate Armor Enchantment | 1 | ❌ |
+| Level 80 Intermediate Glove Enchantment | 1 | ❌ |
+| Level 80 Intermediate Boots Enchantment | 1 | ❌ |
+| Level 80 Intermediate Belt Enchantment | 1 | ❌ |
+| Level 90 Box | 1 | ✔️ |
+
+#todo: armor chest (if there is one), make sure there's no proof of mission
+
+## Level 90
+
+| Item | Count | NW |
+| ---- | ----- | -- |
+
+#todo: rest of box, armor chest (if there is one)
+
+## Level s1
+
+| Item | Count | NW |
+| ---- | ----- | -- |
+
 
 ## Summary:
 This is basically just a gaia cube replacement. Notable items include the 30% XP bonus from the Aura Armor, the 5 superior fortification transfer scrolls every 10 levels, Proof of Missions, 7-Day VIP Sprite.
 
-I'm kind of miffed about the inability to transfer the Advanced Aura Armor over to the main account. It's a really powerful item that would be great for dungeon leeching, and it gives new players a 20% XP edge for leeching over older players (whose best option is the old blue Aura set, and then transferring the 2 level 40 weapons over). Granted, leeching is a really niche thing, so this honestly shouldn't be very important.
+Newer players have an easier time leeching + catching up with quests because of the proof of mission and Aura set, which are character locked. The superior fortification transfer scrolls are account locked, so you can farm them on your alts and transfer them over to your main account if you messed up crafting something and want to transfer the fortification over.
