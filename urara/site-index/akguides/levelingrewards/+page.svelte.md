@@ -9,7 +9,7 @@ flags:
 
 # New X-Legend Level Bonuses
 
-Article isn't done yet, lol
+I'm currently still missing the level 60 armor box contents, but the rest is complete. I'll update this post as I get more information.
 
 ## New Character Bonuses
 Since X-Legend took over AK, the Envoy cube has been supplemented by giving each character on your account a special type of "box" with goodies for each level up milestone inside. You still receive the Envoy Cube, but those are once per account, as opposed to once per character. As a reminder, each account has many character slots.
@@ -86,10 +86,18 @@ The Armor Set box will have its own rank progression, giving you a level 50 ches
 
 | Item | Count | NW |
 | ---- | ----- | -- |
+| Green Weapon Fort | 10 | ✔️ |
+| Green Armor Fort | 20 | ✔️ |
+| Vulture's Vale Crest | 12 | ❌ |
+| Blizzard Berg Crest | 12 | ❌ |
+| Sky Tower Sigil | 2 | ❌ |
+| Otherworldly Sigil | 5 | ❌ |
+| Power of the Ancients | 1440 | ❌ |
+| 10k Dragon Points | 2 | ❌ |
+| 5k Dragon Points | 1 | ❌ |
 | ⭐<u>Level 60 Unrefined Armor Chest</u> | 1 | ✔️ |
 | - [[Incomplete]]
-
-#todo: armor chest, rest of box
+| Level 70 Box | 1 | ✔️ |
 
 ## Level 70
 
@@ -101,10 +109,9 @@ The Armor Set box will have its own rank progression, giving you a level 50 ches
 | Green Armor Fort | 20 | ✔️ |
 | ⭐Proof of Mission | 10 | ✔️ |
 | ⭐<u>Level 70 Unrefined Armor Chest</u> | 1 | ✔️ |
-| - [[Incomplete]]
+| - ⭐Full Orange (No Core) Sniper Armor | | ❌ |
+| - Superior Fortification Transfer Scrolls | 5 | ❌ |
 | Level 80 Box | 1 | ✔️ |
-
-#todo: armor chest
 
 ## Level 80
 
@@ -134,20 +141,7 @@ The Armor Set box will have its own rank progression, giving you a level 50 ches
 | Level 80 Intermediate Belt Enchantment | 1 | ❌ |
 | Level 90 Box | 1 | ✔️ |
 
-#todo: armor chest (if there is one), make sure there's no proof of mission
-
-## Level 90
-
-| Item | Count | NW |
-| ---- | ----- | -- |
-
-#todo: rest of box, armor chest (if there is one)
-
-## Level s1
-
-| Item | Count | NW |
-| ---- | ----- | -- |
-
+Note: There is no level 80 armor box. If you're interested in using higher level gear, you're forced to make it yourself.
 
 ## Summary:
 This is basically just a gaia cube replacement. Notable items include the 30% XP bonus from the Aura Armor, the 5 superior fortification transfer scrolls every 10 levels, Proof of Missions, 7-Day VIP Sprite.
