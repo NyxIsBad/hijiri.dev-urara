@@ -9,7 +9,7 @@ flags:
 ### Guide Posts (ordered by date descending)
 
 1. [X-Legend Leveling Rewards (WIP)](./levelingrewards/)
-2. [Archive Lag Fix](./archivelagfix/)
+2. [Archive Lag Fix](./dungeonlagfix/)
 
 ### External Links
 

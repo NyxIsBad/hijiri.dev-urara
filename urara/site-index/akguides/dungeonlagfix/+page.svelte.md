@@ -1,5 +1,5 @@
 ---
-title: Aura Kingdom Archive Lag Fix
+title: Aura Kingdom Dungeon Lag Fix
 created: 2024-05-10
 tags: 
   - PersonalPost
@@ -7,8 +7,8 @@ flags:
   - unlisted
 ---
 
-# Archive Lag
-Archive lag is that dumb thing that happens when you are in a dungeon/instance and you get massive lag spikes. If you are playing Dawn Passage or something and can't get up carts, this is why.
+# Dungeon Lag
+Dungeon lag is that dumb thing that happens when you are in a dungeon/instance and you get massive lag spikes. If you are playing Dawn Passage or something and can't get up carts, this is why.
 
 ## Fix
 1. Find Aura Kingdom. For me this is in `C:\X-Legend\AKOnlineEN`
