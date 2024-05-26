@@ -9,9 +9,9 @@ flags:
 
 I'll cook all foods, but the price depends on which food, common foods below. We don't cook foods below 80 because they're generally too expensive for how bad they are (and low leveled players really don't need them)
 
-First number is if you don't bring the blue (or gathered) mats, second is if you do. 
+First number is if you don't bring the blue (or gathered) mats, second is if you do. You may notice that prices are really odd. This is because I'm using a formula to determine prices of food, then rounding to the nearest tenth.
 
-If you put in an order it may take a while. Plz don't resell, this is meant to be a relatively cheap price for guildies.
+If you put in an order it may take a while. Plz don't resell, this is meant to be a relatively cheap price for guildies. If you're not a member of Transcendent, add 3g to the price of each item.
 
 ## Please note that there may be translation errors in the game! 
 For instance, golden latte is well known by the community to actually give 12% Detail Damage, not 12% Damage. If a food is not well known, its true effects may also be unknown to me since I've never used them.
@@ -29,26 +29,26 @@ For instance, golden latte is well known by the community to actually give 12% D
 ## Common Foods
 | Item | Level | Main Benefit | Stats | Price/per | Price/per with mats |
 | ---- | ----- | ------------ | ----- |--------- | ------------------- |
-| [Ancient Beef Noodles](https://www.aurakingdom-db.com/item/18153-ancient-beef-noodles) | 80 | 15% Mspd | Def, Eva | 6.8g | 2.8g | 
-| [Cheesy Tomato Ciabatta](https://www.aurakingdom-db.com/item/19099-cheesy-tomato-ciabatta) | 80 | 10% Mspd, 5% XP | HP, Def | 6.5g | 5g | 
-| ⭐[Creamy Chicken Pie](https://www.aurakingdom-db.com/item/19270-creamy-chicken-pie) | 90 | 12% Triple Strike | Crit, Spd | 5.5g | 2.8g |
-| [Oriental Beauty Steamed Milk](https://www.aurakingdom-db.com/item/21048-oriental-beauty-steamed-milk) | s1 | 15% D-Dmg | Dmg, Spd | 5.2g | 3g | 
-| [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) | s10 | 15% Mspd, 5% XP | Def, Eva | 7.4g | 3.4g | 
-| [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) | s10 | 15% Triple Strike | Crit, Spd | 5.4g | 3.4g |
+| [Ancient Beef Noodles](https://www.aurakingdom-db.com/item/18153-ancient-beef-noodles) | 80 | 15% Mspd | Def, Eva | 5.6g | 3.3g | 
+| [Cheesy Tomato Ciabatta](https://www.aurakingdom-db.com/item/19099-cheesy-tomato-ciabatta) | 80 | 10% Mspd, 5% XP | HP, Def | 6.3g | 5.2g | 
+| ⭐[Creamy Chicken Pie](https://www.aurakingdom-db.com/item/19270-creamy-chicken-pie) | 90 | 12% Triple Strike | Crit, Spd | 5g | 3.4g |
+| [Oriental Beauty Steamed Milk](https://www.aurakingdom-db.com/item/21048-oriental-beauty-steamed-milk) | s1 | 15% D-Dmg | Dmg, Spd | 5.2g | 3.9g | 
+| [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) | s10 | 15% Mspd, 5% XP | Def, Eva | 6.2g | 4.2g | 
+| [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) | s10 | 15% Triple Strike | Crit, Spd | 4.8g | 4.2g |
 
 ## Common Drinks
 | Item | Level | Main Benefit | Stats | Price/per | Price/per with mats |
 | ---- | ----- | ------------ | ----- |--------- | ------------------- |
-| [Golden Latte](https://www.aurakingdom-db.com/item/18157-golden-latte) | 80 | 12% D-Dmg | Dmg, Spd | 5g | 3g |
-| ⭐[Petal Water](https://www.aurakingdom-db.com/item/19282-petal-water) | 90 | 10% Mounted Mspd, 5% XP | Def, Eva | 5g | 3g |
-| [Spicy Ginger Soup](https://www.aurakingdom-db.com/item/21052-spicy-ginger-soup) | s1 | 15% Mspd, 15% CDR | HP, Def | 4g | 3g |
-| [Sunshine Iced Tea](https://www.aurakingdom-db.com/item/19662-sunshine-iced-tea) | s1 | 15% Mspd, 13% CDR | Crit, Spd | 6g | 3g |
-| [Healthy Pure Tea](https://www.aurakingdom-db.com/item/19646-healthy-pure-tea) | s1 | 12% Triple Strike | Dmg, Spd | 8g | 3g |
-| [Gold Essence Tea](https://www.aurakingdom-db.com/item/21060-gold-essence-tea) | s1 | 15% Triple Strike | Dmg, Crit | 9g | 3g |
-| [Lime Roasted Coffee](https://www.aurakingdom-db.com/item/21857-lime-roasted-coffee) | s10 | 10% Acc, 10% D-Dmg | Dmg, Crit | 7.4g | 3.4g |
-| [King Tree Juice](https://www.aurakingdom-db.com/item/22447-king-tree-juice) | s10 | 15% Triple Strike | Dmg, Spd | 4.7g | 3.2g |
-| [Tropical Style Pear Flowery Tea](https://www.aurakingdom-db.com/item/21841-tropical-style-pear-flowery-tea) | s10 | 15% Mspd, 7% P-Healing | Def, Eva | 4.7g | 3.2g |
-| [Fantasy Noble Herbal Tea](https://www.aurakingdom-db.com/item/22459-fantasy-noble-herbal-tea) | s10 | 15% D-Dmg | Dmg, Spd | 4.2g | 3.2g |
+| [Golden Latte](https://www.aurakingdom-db.com/item/18157-golden-latte) | 80 | 12% D-Dmg | Dmg, Spd | 5.1g | 3.4g |
+| ⭐[Petal Water](https://www.aurakingdom-db.com/item/19282-petal-water) | 90 | 10% Mounted Mspd, 5% XP | Def, Eva | 4.9g | 3.6g |
+| [Spicy Ginger Soup](https://www.aurakingdom-db.com/item/21052-spicy-ginger-soup) | s1 | 15% Mspd, 15% CDR | HP, Def | 4.3g | 3.7g |
+| [Sunshine Iced Tea](https://www.aurakingdom-db.com/item/19662-sunshine-iced-tea) | s1 | 15% Mspd, 13% CDR | Crit, Spd | 5.7g | 3.7g |
+| [Healthy Pure Tea](https://www.aurakingdom-db.com/item/19646-healthy-pure-tea) | s1 | 12% Triple Strike | Dmg, Spd | 7.1g | 4.1g |
+| [Gold Essence Tea](https://www.aurakingdom-db.com/item/21060-gold-essence-tea) | s1 | 15% Triple Strike | Dmg, Crit | 8.8g | 4.1g |
+| [Lime Roasted Coffee](https://www.aurakingdom-db.com/item/21857-lime-roasted-coffee) | s10 | 10% Acc, 10% D-Dmg | Dmg, Crit | 6.2g | 4.2g |
+| [King Tree Juice](https://www.aurakingdom-db.com/item/22447-king-tree-juice) | s10 | 15% Triple Strike | Dmg, Spd | 4.9g | 3.9g |
+| [Tropical Style Pear Flowery Tea](https://www.aurakingdom-db.com/item/21841-tropical-style-pear-flowery-tea) | s10 | 15% Mspd, 7% P-Healing | Def, Eva | 4.9g | 3.9g |
+| [Fantasy Noble Herbal Tea](https://www.aurakingdom-db.com/item/22459-fantasy-noble-herbal-tea) | s10 | 15% D-Dmg | Dmg, Spd | 4.6g | 3.9g |
 
 
 

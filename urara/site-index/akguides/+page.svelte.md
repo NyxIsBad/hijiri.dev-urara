@@ -10,6 +10,7 @@ flags:
 
 1. [X-Legend Leveling Rewards (WIP)](./levelingrewards/)
 2. [Dungeon Lag Fix](./dungeonlagfix/)
+3. [Food Shop & Reference](./shop)
 
 ### External Links
 
