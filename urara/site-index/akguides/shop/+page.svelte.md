@@ -79,6 +79,12 @@ The below foods don't have a stipulated price because they're not as common. If 
 | [Satay BBQ Wild Vegetable Rolls](https://www.aurakingdom-db.com/item/22455-satay-bbq-wild-vegetable-rolls) | s10 | 20% Damage to Dark | Crit, Spd |
 | [Chocolate Cream Puff](https://www.aurakingdom-db.com/item/21861-chocolate-cream-puff) | s10 | 7% P-Healing, -15% CDR | HP, Eva |
 | [Warm and Healthy Snow Mushroom Soup](https://www.aurakingdom-db.com/item/21853-warm-and-healthy-snow-mushroom-soup) | s10 | 7% Crit Rate, 10% Acc | Dmg, Spd |
+| [Huge Rock Rice Stew](https://www.aurakingdom-db.com/item/22889-huge-rock-rice-stew) | s20 | 10% Acc, 10% Dmg | Def, Eva |
+| [Sakura Honey Lava Cheese](https://www.aurakingdom-db.com/item/22897-sakura-honey-lava-cheese) | s20 | 15% Triple Strike | Dmg, Eva |
+| [Salted Sakura Stuffed Mochi](https://www.aurakingdom-db.com/item/22893-salted-sakura-stuffed-mochi) | s20 | 15% D-Dmg | Crit, HP |
+| [Thick Cheese Star Order Pizza](https://www.aurakingdom-db.com/item/35042-thick-cheese-star-order-pizza) | s25 | 15% Mspd, -15% CDR | Crit, Eva |
+| [Double Delight Star Flower Grilled Beef Burger](https://www.aurakingdom-db.com/item/35046-double-delight-star-flower-grilled-beef-burger) | s25 | 13% HP, 15% D-Dmg | Dmg, HP |
+| [Fresh Mushroom and Gourd Beef Stew](https://www.aurakingdom-db.com/item/35034-fresh-mushroom-and-gourd-beef-stew) | s25 | 20% Damage to Fire | Spd, Def |
 
 ## Drinks
 | Item | Level | Main Benefit | Stats |
@@ -97,26 +103,6 @@ The below foods don't have a stipulated price because they're not as common. If 
 | [Chilly Crispy Soup](https://www.aurakingdom-db.com/item/19666-chilly-crispy-soup) | s1 | 10% HP, 30% Damage Reflect | HP, Eva |
 | [Rose and Honey-flavored Bubbly Water](https://www.aurakingdom-db.com/item/21845-rose-and-honey-flavored-bubbly-water) | s10 | 13% HP, -5% Damage Taken | HP, Def |
 | [Dream Mushroom Soup](https://www.aurakingdom-db.com/item/22451-dream-mushroom-soup) | s10 | 7% P-Healing, 30% Damage Reflect | HP, Def |
-
-
-# Uncookable
-The food below I'm currently too low level to cook and are listed here for reference reasons. It will be added to the shop if I ever get to that level.
-
-## Foods
-
-| Item | Level | Main Benefit | Stats |
-| ---- | ----- | ------------ | ----- |
-| [Huge Rock Rice Stew](https://www.aurakingdom-db.com/item/22889-huge-rock-rice-stew) | s20 | 10% Acc, 10% Dmg | Def, Eva |
-| [Sakura Honey Lava Cheese](https://www.aurakingdom-db.com/item/22897-sakura-honey-lava-cheese) | s20 | 15% Triple Strike | Dmg, Eva |
-| [Salted Sakura Stuffed Mochi](https://www.aurakingdom-db.com/item/22893-salted-sakura-stuffed-mochi) | s20 | 15% D-Dmg | Crit, HP |
-| [Thick Cheese Star Order Pizza](https://www.aurakingdom-db.com/item/35042-thick-cheese-star-order-pizza) | s25 | 15% Mspd, -15% CDR | Crit, Eva |
-| [Double Delight Star Flower Grilled Beef Burger](https://www.aurakingdom-db.com/item/35046-double-delight-star-flower-grilled-beef-burger) | s25 | 13% HP, 15% D-Dmg | Dmg, HP |
-| [Fresh Mushroom and Gourd Beef Stew](https://www.aurakingdom-db.com/item/35034-fresh-mushroom-and-gourd-beef-stew) | s25 | 20% Damage to Fire | Spd, Def |
-
-## Drinks
-
-| Item | Level | Main Benefit | Stats |
-| ---- | ----- | ------------ | ----- |
 | [Shennong Herbal Tea](https://www.aurakingdom-db.com/item/22901-shennong-herbal-tea) | s20 | 13% HP, 30% Damage Reflect | Dmg, Spd |
 | [Medicinal Herbal Stone Forest Cold Soup](https://www.aurakingdom-db.com/item/22885-medicinal-herbal-stone-forest-cold-soup) | s20 | 7% P-healing, -15% CDR | Spd, Eva |
 | [Herbal Peppermint Sparkling Water](https://www.aurakingdom-db.com/item/22881-herbal-peppermint-sparkling-water) | s20 | 15% Mspd, 7% Crit Rate | Crit, Def |
