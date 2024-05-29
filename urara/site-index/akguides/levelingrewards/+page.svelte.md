@@ -9,8 +9,6 @@ flags:
 
 # New X-Legend Level Bonuses
 
-I'm currently still missing the level 60 armor box contents, but the rest is complete. I'll update this post as I get more information.
-
 ## New Character Bonuses
 Since X-Legend took over AK, the Envoy cube has been supplemented by giving each character on your account a special type of "box" with goodies for each level up milestone inside. You still receive the Envoy Cube, but those are once per account, as opposed to once per character. As a reminder, each account has many character slots.
 
@@ -96,7 +94,9 @@ The Armor Set box will have its own rank progression, giving you a level 50 ches
 | 10k Dragon Points | 2 | ❌ |
 | 5k Dragon Points | 1 | ❌ |
 | ⭐<u>Level 60 Unrefined Armor Chest</u> | 1 | ✔️ |
-| - [[Incomplete]]
+| - ⭐Full Orange (No Core) Devourer Armor | | ❌ |
+| - ⭐Level 70 Unrefined Armor Chest | | ❌ |
+| - ⭐Superior Fortification Transfer Scrolls | 5 | ❌ |
 | Level 70 Box | 1 | ✔️ |
 
 ## Level 70
