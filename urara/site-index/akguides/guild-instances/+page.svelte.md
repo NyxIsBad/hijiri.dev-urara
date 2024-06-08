@@ -24,7 +24,9 @@ The rewards are not the most significant but given how little time this takes, i
 
 ![Guild UI](https://i.imgur.com/v7FOlrg.png)
 
-This will give you guild funds. Those guild funds can then be used at the guild shop to buy various rewards, like crafting materials, in Navea between the portal and blacksmith.
+and then going to Special Donations.
+
+This will give you guild funds. Those guild funds can then be used at the guild shop (\<Navea\>(760,363)) to buy various rewards, like crafting materials, in Navea between the portal and blacksmith.
 
 # Instances
 
