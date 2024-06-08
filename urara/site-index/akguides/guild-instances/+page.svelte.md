@@ -8,7 +8,7 @@ flags:
 ---
 
 # Guild Instances
-The guild instances, accessible in the guild panel -> guild instance tab, are a series of dungeons that can be run by guild members. They are a great way to get some extra rewards, and can be run every week.
+The guild instances, accessible in the guild panel -> guild instance tab, are a series of dungeons that can be run by guild members. They are a great way to get some extra rewards, and can be run every week per character.
 
 ![Location in UI](https://i.imgur.com/PGr1Kdb.png)
 
