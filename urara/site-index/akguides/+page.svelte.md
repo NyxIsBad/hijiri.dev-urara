@@ -8,9 +8,10 @@ flags:
 
 ### Guide Posts (ordered by date descending)
 
-1. [X-Legend Leveling Rewards (WIP)](./levelingrewards/)
+1. [X-Legend Leveling Rewards](./levelingrewards/)
 2. [Dungeon Lag Fix](./dungeonlagfix/)
 3. [Food Shop & Reference](./shop)
+4. [Guild Instance Guide](./guild-instances/)
 
 ### External Links
 
