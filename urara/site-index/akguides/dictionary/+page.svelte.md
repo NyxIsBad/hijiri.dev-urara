@@ -29,7 +29,7 @@ Note that this dictionary is a little messy, is not in alphabetical order, is no
 | Nuke | Kill as fast as possible |
 | Slow | Do some damage to tap the boss and claim credit but then don't damage it further | Tap |
 | Gold Cap | A unit of currency denoting 100k gold. Rarely can also mean 60k gold |
-| WB | World Boss. Commonly used to refer to Goat, but can also refer to plenty of other ones, like [Harmonia](https://www.aurakingdom-db.com/npc/61305-light-of-spring-harmonia) in SIF. These spawn on a regular timer. |
+| WB | World Boss. Commonly used to refer to Goat, but can also refer to plenty of other ones, like [Harmonia](https://www.aurakingdom-db.com/npc/61305-light-of-spring-harmonia) in SIF. These spawn on a regular timer. None of them are at all relevant and you can just kill/ignore/do anything with them with the exception of goats. Don't touch the goats. They are part of community led raids. |
 | Goat | World bosses that drop a lot of LP that spawn in Vulture's Vale and Blizzard Berg. The only WB where [Raids](https://tinyurl.com/olympus-wb) are led. |
 | AKDB | The glorious [Aura Kingdom Database](https://www.aurakingdom-db.com) |
 | OS | Original Server, or our global server |
