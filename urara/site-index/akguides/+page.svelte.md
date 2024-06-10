@@ -12,6 +12,7 @@ flags:
 2. [Dungeon Lag Fix](./dungeonlagfix/)
 3. [Food Shop & Reference](./shop)
 4. [Guild Instance Guide](./guild-instances/)
+5. [WIP Dictionary](./dictionary/)
 
 ### External Links
 
@@ -23,3 +24,5 @@ flags:
    - A collection of various information about the game, including but not limited to: How to run ST, eido stats, where to find stuff, etc.
 4. [Aura Kingdom DB](https://www.aurakingdom-db.com/)
    - A database of all items, monsters, and quests in the game. Has useful timers
+5. [Lind's Optimization Theory](https://docs.google.com/document/d/1b-M2polFzj3pV454YmjxTUDkkX6pY1-72HnwiTJgOw8/edit?usp=sharing) 
+   - While the formulas provided are not precisely accurate, the general idea is correct and gives you a very good idea of how to optimiez your gear. 
