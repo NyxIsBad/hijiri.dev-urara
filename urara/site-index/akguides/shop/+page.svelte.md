@@ -26,7 +26,7 @@ For instance, golden latte is well known by the community to actually give 12% D
 
 # Cooking Prices (80+)
 
-## Common Foods
+### Common Foods
 | Item | Level | Main Benefit | Stats | Price/per | Price/per with mats |
 | ---- | ----- | ------------ | ----- |--------- | ------------------- |
 | [Ancient Beef Noodles](https://www.aurakingdom-db.com/item/18153-ancient-beef-noodles) | 80 | 15% Mspd | Def, Eva | 5.6g | 3.3g | 
@@ -36,7 +36,7 @@ For instance, golden latte is well known by the community to actually give 12% D
 | [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) | s10 | 15% Mspd, 5% XP | Def, Eva | 6.2g | 4.2g | 
 | [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) | s10 | 15% Triple Strike | Crit, Spd | 4.8g | 4.2g |
 
-## Common Drinks
+### Common Drinks
 | Item | Level | Main Benefit | Stats | Price/per | Price/per with mats |
 | ---- | ----- | ------------ | ----- |--------- | ------------------- |
 | [Golden Latte](https://www.aurakingdom-db.com/item/18157-golden-latte) | 80 | 12% D-Dmg | Dmg, Spd | 5.1g | 3.4g |
@@ -57,7 +57,7 @@ For instance, golden latte is well known by the community to actually give 12% D
 
 The below foods don't have a stipulated price because they're not as common. If you want one of these, please ask me for a price.
 
-## Foods
+### Foods
 
 | Item | Level | Main Benefit | Stats |
 | ---- | ----- | ------------ | ----- |
@@ -86,7 +86,7 @@ The below foods don't have a stipulated price because they're not as common. If 
 | [Double Delight Star Flower Grilled Beef Burger](https://www.aurakingdom-db.com/item/35046-double-delight-star-flower-grilled-beef-burger) | s25 | 13% HP, 15% D-Dmg | Dmg, HP |
 | [Fresh Mushroom and Gourd Beef Stew](https://www.aurakingdom-db.com/item/35034-fresh-mushroom-and-gourd-beef-stew) | s25 | 20% Damage to Fire | Spd, Def |
 
-## Drinks
+### Drinks
 | Item | Level | Main Benefit | Stats |
 | ---- | ----- | ------------ | ----- |
 | [Luscious Ranch Special](https://www.aurakingdom-db.com/item/17160-luscious-ranch-special) | 80 | -20% CDR | HP, Def |
