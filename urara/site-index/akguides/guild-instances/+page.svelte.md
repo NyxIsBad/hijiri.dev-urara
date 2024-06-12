@@ -101,7 +101,9 @@ Essentially, you are presented with a ton of ingredients. You talk to Zinnia to 
 
 For instance here, Zinnia wants a mushroom. You go over to Moe's pile, pick up a Mushroom (you will get a buff status that indicates you did so), and then walk over Moe, who will say a line to indicate he got it, and then Zinnia will indicate if you got it right or not. Repeat this until the noodles are done. 
 
-There's a translation bug to do with the mushrooms specifically. The "Flavoring mushroom" that Zinnia wants are not the Dew Soaked mushrooms. I'm pretty sure it's meant to be the "Fresh Mushrooms" that are in the pile. This likely stems from mushrooms and herbs having very similar names in the TW version? Not sure. Either way, getting this one wrong a few times doesn't even matter that much because its overall performance that matters.
+There's a translation bug to do with the mushrooms specifically. The "Flavoring Mushroom" that Zinnia wants are the "Fresh Mushrooms" that are in the pile. When Zinnia wants mushrooms for color, she means the "Dew Mushrooms".
+
+This likely stems from mushrooms and herbs having very similar names in the TW version? Not sure. Either way, getting this one wrong a few times doesn't even matter that much because its overall performance that matters.
 
 Then, Ancient Evil Cole will spawn, who you then kill. 
 
