@@ -107,7 +107,7 @@ Then, Ancient Evil Cole will spawn, who you then kill.
 
 ## Rescue Operation - Grass Kingdom
 
-This is an instance where you go around collecting skills to break barriers. 
+This is an instance where you go around collecting skills to break barriers. There are multiple possible "sets" of locations for the skills.
 
 ### Yeshe
 
@@ -125,7 +125,7 @@ However, they spawn in the same place every time.
 
 ### Moe
 
-After breaking the red barrier, head to coordinates `42, 215`
+After breaking the red barrier, start breaking red orbs using your 1 skill. Moe will be hidden in one of them. The coordinates are consistent every run for each character, so it may be advisable to write down the coordinates for your locations.
 
 You can find your map coordinates on the minimap in the top right corner. In the picture below I am also standing on the orb in question.
 
@@ -139,7 +139,7 @@ Talk to him, learn how to break the blue curse, and break the large blue barrier
 
 ### Rehia
 
-Then, head to coordinates `81, 146` to find Rehia.
+Then, start looking for Rehia in the new area unlocked..
 
 This is sometimes a blue orb and sometimes a red orb. If it's a red orb, go back to Yeshe and ask for the red skill. 
 
@@ -151,7 +151,7 @@ Then, break the large green barrier.
 
 ### Cole
 
-Cole is at `62, 33`. Once again, if the orb he's in is not green, just go back and get the right color. 
+Now, start looking for Cole in the new area unlocked. Once again, if the orb he's in is not green, just go back and get the right color. 
 
 ![5-6](https://i.imgur.com/C7Kp53a.png)
 
