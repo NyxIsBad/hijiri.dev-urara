@@ -25,4 +25,4 @@ flags:
 4. [Aura Kingdom DB](https://www.aurakingdom-db.com/)
    - A database of all items, monsters, and quests in the game. Has useful timers
 5. [Lind's Optimization Theory](https://docs.google.com/document/d/1b-M2polFzj3pV454YmjxTUDkkX6pY1-72HnwiTJgOw8/edit?usp=sharing) 
-   - While the formulas provided are not precisely accurate, the general idea is correct and gives you a very good idea of how to optimiez your gear. 
+   - While the formulas provided are not precisely accurate, the general idea is correct and gives you a very good idea of how to optimize your gear. 
