@@ -139,7 +139,6 @@ The Armor Set box will have its own rank progression, giving you a level 50 ches
 | Level 80 Intermediate Glove Enchantment | 1 | ❌ |
 | Level 80 Intermediate Boots Enchantment | 1 | ❌ |
 | Level 80 Intermediate Belt Enchantment | 1 | ❌ |
-| Level 90 Box | 1 | ✔️ |
 
 Note: There is no level 80 armor box. If you're interested in using higher level gear, you're forced to make it yourself.
 
