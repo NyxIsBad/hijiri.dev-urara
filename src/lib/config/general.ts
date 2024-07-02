@@ -135,6 +135,10 @@ export const header: HeaderConfig = {
       link: '/site-index/dev'
     },
     {
+      text: 'AK Things',
+      link: '/site-index/akguides'
+    },
+    {
       text: 'Translations',
       link: '/site-index/tl'
     },

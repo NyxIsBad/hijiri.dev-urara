@@ -28,7 +28,7 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Based on by
+      Based on
       <a
         rel="noopener noreferrer external"
         target="_blank"
