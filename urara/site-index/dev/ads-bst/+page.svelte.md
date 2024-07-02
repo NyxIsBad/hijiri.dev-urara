@@ -2,9 +2,9 @@
 title: Advanced Data Structures - The Binary Search Tree
 created: 2024-06-07
 tags: 
+  - unlisted
   - Data Structures
   - DevPost
-  - unlisted
 ---
 
 # Intro
