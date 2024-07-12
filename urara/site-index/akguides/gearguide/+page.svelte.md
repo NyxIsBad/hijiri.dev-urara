@@ -136,8 +136,8 @@ For the sub weapon, find a Nocturnal blue weapon by searching "Precious Chests" 
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- | 
-| [Lost Bewitching Bones](https://www.aurakingdom-db.com/item/16506-lost-bewitching-bones) | [Level 70 Guzigla's Bloodied Tooth](https://www.aurakingdom-db.com/item/14965-guziglas-bloodied-tooth) - provides 11% d-dmg. | N/A |
-| [Lost Memory Rune](https://www.aurakingdom-db.com/item/16508-lost-memory-rune) | [Level 85 Zahr-Kazaal's Icy Spine](https://www.aurakingdom-db.com/item/17459-zahr-kazaals-icy-spine) - provides an early source of defense shred. | N/A |
+| [Level 80 Lost Bewitching Bones](https://www.aurakingdom-db.com/item/16506-lost-bewitching-bones) | [Level 70 Guzigla's Bloodied Tooth](https://www.aurakingdom-db.com/item/14965-guziglas-bloodied-tooth) - provides 11% d-dmg. | N/A |
+| [Level 80 Lost Memory Rune](https://www.aurakingdom-db.com/item/16508-lost-memory-rune) | [Level 85 Zahr-Kazaal's Icy Spine](https://www.aurakingdom-db.com/item/17459-zahr-kazaals-icy-spine) - provides an early source of defense shred. | N/A |
 
 In reality, any other trophy can work here. Level 80 is a time when you are not gated by anything.
 
@@ -145,8 +145,8 @@ In reality, any other trophy can work here. Level 80 is a time when you are not 
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- | 
-| Anything | [Fallen Apostle's Set](https://www.aurakingdom-db.com/item/17845-rabisus-crystal-of-symbiosis). Can be bought from the DP shop without needing ST crests unlike the next one. | N/A |
-| Anything | [Lost Memories Set](https://www.aurakingdom-db.com/item/17311-vickis-love). Must be acquired from ST or use 20 ST sigils to get. | N/A |
+| Anything | [Level 85 Fallen Apostle's Set](https://www.aurakingdom-db.com/item/17845-rabisus-crystal-of-symbiosis). Can be bought from the DP shop without needing ST crests unlike the next one. | N/A |
+| Anything | [Level 85 Lost Memories Set](https://www.aurakingdom-db.com/item/17311-vickis-love). Must be acquired from ST or use 20 ST sigils to get. | N/A |
 
 - Fallen Apostle: This provides 8% damage taken. Most importantly, it's free! With no side currency required! 
 - Lost Memories: You'll need at least 75 ST sigils later to buy Agni's at SLv5. If you think it will take you a really long time to get to S5 and have the sigils to spare, you can get this.
@@ -196,6 +196,7 @@ This is because, if you do decide to skip 90 gear, you may find yourself forced 
 - Nalani Weapon: Almost always more powerful. For main weapon, try to get a Destroyer core as meta. Lower tier cores are acceptable, especially Deadly or Fell because you're likely lacking in Crit Damage or Accuracy at this time.
   - Ensure that it is on element. This gives you a 20% elemental damage boost for that element.
   - +20, Use level 90 weapon cards for DMG or CDMG.
+  - The core for the weapon at the moment is not the most important. Destroyer is the best, but may be particularly expensive. Just ensure it's reasonably good (Deadly is a frequent substitute I see)
 - Level 90 Nocturnal Nalani Weapon - Blacksmithing
   - If you have a level 80 orange noct weapon, you may choose to skip this. 
   - +20, Use level 90 weapon cards for DMG or CDMG.
@@ -206,7 +207,7 @@ This is because, if you do decide to skip 90 gear, you may find yourself forced 
 | ------- | ------- | -------- | 
 | N/A | (+20) [Level 90 Holy Chant](https://www.aurakingdom-db.com/item/17990-holy-spirits-hat-of-the-blazing-night) - Blacksmithing, also known as Holy Spirit | (+30) [Level 90 Holy Chant](https://www.aurakingdom-db.com/item/17990-holy-spirits-hat-of-the-blazing-night) - Blacksmithing, also known as Holy Spirit |
 
-- Holy Chant: This set is a necessity, even for poorer players, as it's the first real set you will ever make. You also receive this for free from the Envoy cube, which is awfully convenient.
+- [Level 90 Holy Chant](https://www.aurakingdom-db.com/item/17990-holy-spirits-hat-of-the-blazing-night): This set is a necessity, even for poorer players, as it's the first real set you will ever make. You also receive this for free from the Envoy cube, which is awfully convenient.
   - 12% detail damage dealt and 35% cdmg is the most powerful orange core set you can have.
   - +20 the set and use level 90 enchantment cards.
   - This is definitively better than the Magic Sundering top set! It gives 4% more detail damage. 
@@ -251,7 +252,7 @@ This is because, if you do decide to skip 90 gear, you may find yourself forced 
 | ------- | ------- | -------- | 
 | N/A | (+20) [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy) - DP book | (+30) [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy) - DP book |
 
-- Wild Howl: A gold set acquirable for 9k gdp from the DP book or by searching Hall of Philae. 
+- [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy): A gold set acquirable for 9k gdp from the DP book or by searching Hall of Philae. 
   - By far the only viable meta set because of the Bewildered status. This grants 30% Crit Damage, and 50% Max Crit Damage. This can be used until you acquire Agni's.
 
 **Mount**
@@ -295,7 +296,7 @@ Welcome to the s levels! The early awakening levels are marked by a lack of gear
 
 At this point in time, pen becomes a dominant scaling statistic. This narrows the gap between gold and orange in theory, because the real stats matter much less than how much pen it grants. s1-s5 is a very short period of time with XP curve reworks. You no longer need much power to get through, so keeping your level 90 weapon is a very viable strategy. If you're rich, you may choose to make new gear. However, I believe that no one is getting stat checked too hard as long as they have +25 or +30 level 90 weapons.
 
-Most players will choose to skip this step entirely and wait until s5 to build again.
+Most players will choose to skip this step entirely and wait until s5 to build again. At this point, cores in weapons aren't the *most* important, other than having a nocturnal sub.
 
 - If you do use s1 gear, this provides you with an extra 2% pen at least. Use the highest level enchantment cards you can.
 
@@ -309,6 +310,7 @@ Most players will choose to skip this step entirely and wait until s5 to build a
   - Forest Wound set gives 12% detail damage, 35% cdmg
   - Note that the set bonus is not better! The advantage from crafting s1 is an extra 2% penetration from higher level cards. However, the cost of acquiring cores/recipes/etc can make this very unlikely to be worth it if you're not rich. That money may be better spent fortifying armor or preparing for s5+.
   - This is the reason why I only recommend crafting Forest armor for very rich people - you would craft this exclusively for raw stats/2% pen ;D
+  - Additionally, you will have the chance to use s5 top armor, which is free, not horrible, and also provides the same pen.
 
 **Bottom Armor**
 
@@ -343,6 +345,7 @@ Most players will choose to skip this step entirely and wait until s5 to build a
   - A +35% dmg on next attack trophy. It's very strong, however requires 10% chance on a crit (which should be 100% of the time) and can occur at most every other attack.
 - [Bond Trophies](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Bond&q%5Btype_id_eq%5D=1039)
   - A collection of trophies that are pretty decent, but are extremely expensive. Provides pen and armor piercing scaling stats. Most players will not afford this set.
+  - Although bond is frequently seen as a pvp set, it is better than cultural relic + orange crafted due to it's high dmg dealt multiplier and additional d-dmg from set bonus.
   - There are multiple bond sets. The [Flower Sprite](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) set is likely the best set that's accessible, but the [Otherworld Link](https://www.aurakingdom-db.com/item/32888-bond-cyclone-link) set is theoretically not bad either. 
 - P2W sets (Genki Skyforged Set, Time & Destiny Set)
   - Probably worth hundreds of thousands of gold. Clearly better but literally only use it if you're 1.) an alt 2.) rich as heck. I think that which one is better is technical and build specific, but generally Time & Destiny set should be better in most situations.
@@ -354,7 +357,7 @@ In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to suppo
 | ------- | ------- | -------- | 
 | N/A | (+20) [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy) - DP book | (+30) [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy) - DP book |
 
-- Wild Howl: A gold set acquirable for 9k gdp from the DP book or by searching Hall of Philae. 
+- [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy): A gold set acquirable for 9k gdp from the DP book or by searching Hall of Philae. 
   - By far the only viable meta set because of the Bewildered status. This grants 30% Crit Damage, and 50% Max Crit Damage. This can be used until you acquire Agni's.
 
 **Mount**
@@ -367,23 +370,27 @@ In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to suppo
 - Reroll using reroll pots to get dmg%. Aim for the highest percent possible with current pots. dmg% rerolls (with the exception of 7% on lava main) are actually detail damage, which is an important scaling stat.
 
 **Emblem**
-- Highest ELE% possible on an emblem. Goes up to 8+17=25%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8%.
+- Highest ELE% possible on an emblem. Goes up to 8+17=25% with the base elemental emblems, but can be upgraded to be maxed out at 29%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8/12%.
 - You can choose to work on other stats as well at this point, but elemental damage will *always* be the main objective for emblems.
-- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are clearly better than the base emblems.
+- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are better than the base emblems if you need pen or armor piercing.
 
 **Holy Spirit**
 
 A new armor slot unlocked by being in awakening levels. All Holy Spirits are acquired from DT, with the exception of the gold upgrades which are unlocked from combining the former orange and a recipe dropped from nightmare dungeons. This means that you need to either run DT or buy the item from someone else.
 
+**Note**: When you create a gold holy spirit later on, you *will* lose all of the fortification levels you make on this holy spirit. Thus, if you intend to use an s5 holy spirit, DON'T fortify this holy spirit much (or only as much as you are happy with losing later)
+
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20) [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) |
-| N/A | (+20) [Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) |
+| N/A | (+20) [S1 Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [S1 Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) |
+| N/A | (+20) [S1 Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [S1 Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) |
 
-- [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn)
+- [S1 Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn)
   - Provides def shred. It's my opinion that this is better, because you should really have cap crit (even accounting for instance nerfs) at this level if you take into consideration other crit sources. Additionally, it's a decent amount of flat def shred (2.5k of it almost) over the % cap.
-- [Night Owl Arrow](https://www.aurakingdom-db.com/item/21613-night-owl-arrow)
+  - IF YOU ARE INTENDING ON UPGRADING TO GOLD, THIS BECOMES WORSE THAN NIGHT OWL ARROW!! It will lose it's def shred and the night owl arrow has better bonuses at s5 gold upgrade. Thus, only choose this if you are interested in s1 tier power only.
+- [S1 Night Owl Arrow](https://www.aurakingdom-db.com/item/21613-night-owl-arrow)
   - Provides 10% crit rate. Clearly still decent, especially if you're crit capped. 
+  - This is worse, but becomes better than Golden Horn if you upgrade it at s5.
 
 These items can be rerolled. Focus on getting good stats like dmg to dark, crit damage, etc that you're lacking.
 
@@ -420,7 +427,9 @@ A phase of intermediate gear improvement. At this point, you should be +30ing yo
 
 Weapons will continue to change relatively slowly. Orange continues to be consistently better, but the s5 gold weapon is always a not-totally-terrible option, and can bring a much needed pen boost. Many players (including me) tend to just upgrade to each gold weapon in order after this point (s5 -> s15 -> s25 ...)
 
-However, if you are very highly built eidolon archive wise, be careful of overcapping on crit damage! You may only use as much crit damage as you have cap, and orange weapons are great primarily because of their CDMG to bosses (which counts towards the cap). 
+Most gold weapons work in a class specific way by boosting a dps skill. If the dps skill is not the one you typically use, that is a good indication that it may not be reasonably good compared to orange.
+
+However, if you are very highly built eidolon archive wise, be careful of overcapping on crit damage (which the orange weapons give)! You may only use as much crit damage as you have cap, and orange weapons are great primarily because of their CDMG to bosses (which counts towards the cap). 
 
 **Top Armor**
 
@@ -431,10 +440,11 @@ However, if you are very highly built eidolon archive wise, be careful of overca
 - A comparison of the Holy Chant and Forest Wound sets:
   - The Holy Chant set gives 12% detail damage dealt and 35% cdmg is the most powerful orange core set you can have at level 90. This means you use level 90 cards.
   - Forest Wound set gives 12% detail damage, 35% cdmg
-  - Note that the set bonus is not better! The advantage from crafting s1 is an extra 2% penetration from higher level cards. However, the cost of acquiring cores/recipes/etc can make this very unlikely to be worth it if you're not rich. That money may be better spent fortifying armor or preparing for s5+.
+  - Note that the set bonus is not better! The advantage from crafting s1 is an extra 1% pen per gear item from higher level cards. However, the cost of acquiring cores/recipes/etc can make this very unlikely to be worth it if you're not rich. That money may be better spent fortifying armor or preparing for s5+.
   - This is the reason why I only recommend crafting Forest armor for very rich people - you would craft this exclusively for raw stats/2% pen ;D
 - [S5 Gazing Time](https://www.aurakingdom-db.com/item/19744-eternias-time-travel-hat) - This is a free set, which is super nice. Because you can exchange for tons of copies of this from VOE (which you should have been running), you can also easily get this to a very high star for free. Use LP to get each to 3 stars, then combine those.
-  - Provides 10% dmg%, 10% detail damage to all elements. 
+  - Provides 10% dmg%, 10% damage dealt to all elements. 
+  - Provides you the same amount of pen as s1 gear while being much cheaper
   - This upgrade loses you all of the cdmg from holy chant, along with 2% d-dmg, BUT: Allows you to use s1 enchant cards (eg more pen) and higher base stats. This makes it a compelling upgrade for those at s5 who need a minor power boost, while being almost completely free.
 
 **Bottom Armor**
@@ -453,11 +463,11 @@ Nothing changes here.
   - This set is *worse* than the level 90 set. Once again, all you get out of this is the pen from cards & slightly higher raw stats.
 - [S5 Fading Time Set](https://www.aurakingdom-db.com/item/19748-eternias-destiny-girdle)
   - This set is not recommended because of how much you lose. The set grants 10% crit rate, 20% cdmg, and 6% zeal chance. Magic Sundering has a significantly stronger set bonus. Although you could theoretically upgrade to this if you met the conditions of 1.) sufficient Crit & CDMG from external sources 2.) Need Pen, this case is *really* rare.
-  - The zeal chance can be really funny if you proc it though, and it *is* free, so it's really up to you. I leave to you the fact that it gives you no raw dps output according to dmg calc, except in very specific situations.
+  - The zeal chance can be really funny if you proc it though, and it *is* free, so it's really up to you. I leave to you the fact that it gives you <u>no raw dps output improvement over magic sundering</u> according to dmg calc, except in very specific situations.
 
 **Trophy**
 
-Very little changes here, with the exception of Fatima's Thunder Boost becoming technically better than Souler. However, this being worth building is rare due to the fort costs.
+Very little changes here, with the exception of Fatima's Thunder Boost becoming technically better than Souler. However, this being worth building is rare due to the fort costs. Additionally, you will have a strong case to build trophies at s10 anyway, so building Fatima's won't last long unless you skip s10.
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
@@ -478,6 +488,7 @@ Very little changes here, with the exception of Fatima's Thunder Boost becoming 
   - A +35% dmg on next attack trophy. It's very strong, however requires 10% chance on a crit (which should be 100% of the time) and can occur at most every other attack.
 - [Bond Trophies](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Bond&q%5Btype_id_eq%5D=1039)
   - A collection of trophies that are pretty decent, but are extremely expensive. Provides pen and armor piercing scaling stats. Most players will not afford this set.
+  - Although bond is frequently seen as a pvp set, it is better than cultural relic + orange crafted due to it's high dmg dealt multiplier and additional d-dmg from set bonus.
   - There are multiple bond sets. The [Flower Sprite](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) set is likely the best set that's accessible, but the [Otherworld Link](https://www.aurakingdom-db.com/item/32888-bond-cyclone-link) set is theoretically not bad either. 
 - P2W sets (Genki Skyforged Set, Time & Destiny Set)
   - Probably worth hundreds of thousands of gold. Clearly better but literally only use it if you're 1.) an alt 2.) rich as heck. I think that which one is better is technical and build specific, but generally Time & Destiny set should be better in most situations.
@@ -497,10 +508,10 @@ In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to suppo
   - This is *really important*. Players have a huge amount of crit damage sources, but typically only 300% base cdmg cap. You can get another 80-100 from various sources but >~400% cdmg cap is nowhere near enough to account for the 500+ that most players end up getting. Agni's is thus, for almost all high level players in almost all situations, essentially a 150% crit damage buff.
 - [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy):
   - If you do not have the crit damage to overcap your crit damage by at least 50%, wild howl is still likely better for you to *use*. However, this is typically not an excuse to not build agni's. You can continue using this, but build agni's on the side.
-- [Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
+- [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
   - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
-- [Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
+- [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
 
@@ -514,23 +525,30 @@ In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to suppo
 - Reroll using reroll pots to get dmg%. Aim for the highest percent possible with current pots. dmg% rerolls (with the exception of 7% on lava main) are actually detail damage, which is an important scaling stat.
 
 **Emblem**
-- Highest ELE% possible on an emblem. Goes up to 8+17=25%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8%.
+- Highest ELE% possible on an emblem. Goes up to 8+17=25% with the base elemental emblems, but can be upgraded to be maxed out at 29%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8/12%.
 - You can choose to work on other stats as well at this point, but elemental damage will *always* be the main objective for emblems.
-- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are clearly better than the base emblems.
+- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are better than the base emblems if you need pen or armor piercing.
 
 **Holy Spirit**
 
-A new armor slot unlocked by being in awakening levels. All Holy Spirits are acquired from DT, with the exception of the gold upgrades which are unlocked from combining the former orange and a recipe dropped from nightmare dungeons. This means that you need to either run DT or buy the item from someone else.
+At s5, you are introduced to upgraded gold tier holy spirits. They are strictly better than the base versions (and will even provide some pen at later levels). However, they require you to grind nightmare dungeons for the recipe (although they may be bought off of AH for relatively cheap and they have a high drop rate), AND a crafting cost of 1000g. Consequently, treat these upgrades as easy to access, but expensive in nature. 
+
+**Note**: You need an orange base holy spirit to upgrade. Presumably, you are using your s1 holy spirit. However, the upgrade will wipe out any fortifications you have. Thus, if you have significant fortifications on your s1 HS, you may choose not to upgrade here.
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20) [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) |
-| N/A | (+20) [Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) |
+| N/A | (+20) [S5 Night Owl Arrow](https://www.aurakingdom-db.com/item/21617-night-owl-arrow-of-the-fierce-soul) | (+30) [S5 Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver) |
+| N/A | (+20) [S5 Golden Horn](https://www.aurakingdom-db.com/item/21616-golden-horn-of-the-warrior-soul) | (+30) [S5 Night Owl Arrow](https://www.aurakingdom-db.com/item/21617-night-owl-arrow-of-the-fierce-soul) |
 
-- [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn)
-  - Provides def shred. It's my opinion that this is better, because you should really have cap crit (even accounting for instance nerfs) at this level if you take into consideration other crit sources. Additionally, it's a decent amount of flat def shred (2.5k of it almost) over the % cap.
-- [Night Owl Arrow](https://www.aurakingdom-db.com/item/21613-night-owl-arrow)
-  - Provides 10% crit rate. Clearly still decent, especially if you're crit capped. 
+- [S5 Night Owl Arrow](https://www.aurakingdom-db.com/item/21617-night-owl-arrow-of-the-fierce-soul)
+  - The upgrade makes the night owl arrow better than golden horn. It now provides a chance to provide not only 15% crit rate, but also 8% detail damage against bosses! This is great.
+- [S5 Golden Horn](https://www.aurakingdom-db.com/item/21616-golden-horn-of-the-warrior-soul)
+  - This upgrade honestly makes golden horn worse, unless you are holy element class. If you have golden horn from s1, I would consider keeping it. Instead of having def shred, the upgrade has some raw stats proc, and an 8% holy damage bonus. This is still reasonably strong if you are a holy element user, but otherwise is just worse than the s1 version.
+- [S5 Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver)
+  - The "pay to win" item in the Holy Spirit slot. Depending on what pen/ele%/d-dmg stats you have, this can be better even than the p2w God holy spirits unlocked at s15, due to the triple shot proc.
+  - Most players acquiring p2w items will be at a very high level of progression in archive, and consequently should prefer this over the element God spirits. 
+  - Provides 10% triple strike chance (!!), some pen, some mspd, a 20% def shred proc, and 20% ele skill dmg proc.
+
 
 These items can be rerolled. Focus on getting good stats like dmg to dark, crit damage, etc that you're lacking.
 
@@ -549,8 +567,6 @@ These items can be rerolled. Focus on getting good stats like dmg to dark, crit 
 
 # Level S10-S14 
 
-WORKING ON THIS PART:
-
 **Summary:** Upgrading armor should be a very serious consideration. Optional upgrade to weapon, lots of new consumable unlocks, almost mandatory trophy upgrade.
 
 As leveling starts to slow down, we gain access to much better (and much more expensive) armor and trophies as soon as we hit s10. Because of how much slower leveling is at this point, you will be using this gear for a long time - and thus may want to invest in it. 
@@ -567,7 +583,9 @@ As leveling starts to slow down, we gain access to much better (and much more ex
 
 **Note:** Gold weapon bonuses are not consistent. Some gold weapons are not particularly good! Look carefully at the class specific weapon you have to decide if it's better than orange.
 
-At this point, if you are still using your level 90 weapon for a sub, you should really upgrade to s10. It will provide you with a huge bonus amount of pen and raw stats. Given how long you will have this, it's almost certainly a good idea to have the highest level orange.
+At this point, if you are still using your level 90 weapon for a sub, you should really upgrade to s5 or s10. Weapons tend to be particularly important for pen, because they actually have a base pen value on top of the enchantment card. Given how long you will have this, it's almost certainly a good idea to have the highest level weapon you can. Once again, Destroyer is the best main weapon core. 
+
+Due to how core procs work, if you are using an orange main weapon, you can actually use a nocturnal main weapon and a destroyer sub core.
 
 **Top Armor**
 
@@ -580,7 +598,8 @@ At this point, if you are still using your level 90 weapon for a sub, you should
   - Provides 15% detail damage, 35% crit damage to bosses. It is strictly better than s5 eternia, and the only reason why you'd stick with eternia is if you wanted to be a little cheap about gear upgrades. 
   - Both Guardian Knight and Ninja sets (the other orange sets) are not strictly offensive, with Ninja providing p-heal and Guardian Knight being a defensive set. Thus, this is clearly the best.
 - [S5 Gazing Time](https://www.aurakingdom-db.com/item/19744-eternias-time-travel-hat) - This is a free set, which is super nice. Because you can exchange for tons of copies of this from VOE (which you should have been running), you can also easily get this to a very high star for free. Use LP to get each to 3 stars, then combine those.
-  - Provides 10% dmg%, 10% detail damage to all elements. 
+  - Provides 10% dmg%, 10% damage dealt to all elements. 
+  - Provides you the same amount of pen as s1 gear while being much cheaper
   - This upgrade loses you all of the cdmg from holy chant, along with 2% d-dmg, BUT: Allows you to use s1 enchant cards (eg more pen) and higher base stats. This makes it a compelling upgrade for those at s5 who need a minor power boost, while being almost completely free.
 
 **Bottom Armor**
@@ -597,37 +616,37 @@ At this point, if you are still using your level 90 weapon for a sub, you should
 - [S1 Timber Fairy Blood](https://www.aurakingdom-db.com/item/19457-forest-belt). Orange, also known as Forest set
   - 10% dmg, 35% cdmg to bosses. 
   - +20 the set, use s1 cards
-  - This set is compelling if and only if you a.) made it at s1 b.) have it at a reasonably high fortification level, and c.) are lacking crit damage. At this point in the game, detail damage becomes the second scaling stat in the game to become significant due to instance "damage dealt" nerfs. Consequently, the 12% from s10 is actually considered to maybe be better than 10% dmg and the extra crit damage, especially if you have a lot of it from elsewhere already.
+  - This set is compelling if and <u>only</u> if you a.) made it at s1 b.) have it at a reasonably high fortification level, and c.) are lacking crit damage. At this point in the game, detail damage becomes the second scaling stat in the game to become significant due to instance "damage dealt" nerfs. Consequently, the 12% from s10 is actually considered to maybe be better than 10% dmg and the extra crit damage, especially if you have a lot of it from elsewhere already.
 
 
 **Trophy**
 
-Very little changes here, with the exception of Fatima's Thunder Boost becoming technically better than Souler. However, this being worth building is rare due to the fort costs.
+New orange s10 trophies make the old base trophies completely irrelevant.
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
 | (+20) [Level 95 Cultural Relic](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Cultural+Relic&q%5Btype_id_eq%5D=1039) | (+20) [Level 95 Cultural Relic](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Cultural+Relic&q%5Btype_id_eq%5D=1039) | (+30) [Time and Destiny Set (there's 2!)](https://www.aurakingdom-db.com/item/46851-time-and-years) | 
-| (+20) [S5 Fatima's Thunder Boost](https://www.aurakingdom-db.com/item/19593-fatimas-thunder-boost) | (+20) [S5 Fatima's Thunder Boost](https://www.aurakingdom-db.com/item/19593-fatimas-thunder-boost) | (+30) [Genki Skyforged Set (there's 2!)](https://www.aurakingdom-db.com/item/46462-secret-stone-of-divine-element-celestial-rune) |
-| (+20) [Level 95 Delfonia's Exquisite Earrings](https://www.aurakingdom-db.com/item/18321-delfonias-exquisite-earrings) | (+20) [S1 Souler - Deadly Ice Ring](https://www.aurakingdom-db.com/item/19588-souler-deadly-ice-ring) | (+30) [Bond Set (there's 2!)](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) |
+| (+20) [S10 Godly - Restored Codebook](https://www.aurakingdom-db.com/item/21380-godly-restored-codebook) | (+20) [S10 Godly - Restored Codebook](https://www.aurakingdom-db.com/item/21380-godly-restored-codebook) | (+30) [Genki Skyforged Set (there's 2!)](https://www.aurakingdom-db.com/item/46462-secret-stone-of-divine-element-celestial-rune) |
+| (+20) [S10 Wiccan Ritual - Pearl Chain](https://www.aurakingdom-db.com/item/21378-wiccan-ritual-pearl-chain) | (+20) [S10 Wiccan Ritual - Pearl Chain](https://www.aurakingdom-db.com/item/21378-wiccan-ritual-pearl-chain) | (+30) [Bond Set (there's 2!)](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) |
 
 - [Level 95 Cultural Relic](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Cultural+Relic&q%5Btype_id_eq%5D=1039)
   - By far one of the best trophies in the game. Keep working on +30ing it. Use if you don't use Bond. This is better due to the 20% attribute damage, and is especially good if you are a dark class. Elemental damage can sometimes be hard to come by, and you need to keep it's scaling up to par with the other elements of the dps formula
-- [S5 Fatima's Thunder Boost](https://www.aurakingdom-db.com/item/19593-fatimas-thunder-boost)
-  - Grants 25% CDMG and a 10% chance to grant 50% dmg on the next attack. This is clearly better than Delfonia's and thus knocks it off the list.
-  - This is better than Souler because of the CDMG. However, building a new gold trophy may be questionable.
-- [S1 Souler - Deadly Ice Ring](https://www.aurakingdom-db.com/item/19588-souler-deadly-ice-ring)
-  - A decent def shred crafted trophy. +20 it. Use if you don't use Bond and have some money.
-  - Def shred becomes really powerful after a certain point. Reducing a mob's defense value from .8 to .75 (by just 6%)is enough to 1.5x your damage under certain circumstances.
-
-- [Level 95 Delfonia's Exquisite Earrings](https://www.aurakingdom-db.com/item/18321-delfonias-exquisite-earrings)
-  - A +35% dmg on next attack trophy. It's very strong, however requires 10% chance on a crit (which should be 100% of the time) and can occur at most every other attack.
+- [S10 Godly - Restored Codebook](https://www.aurakingdom-db.com/item/21380-godly-restored-codebook)
+  - Grants a good amount of raw stats, but more importantly has a 15% proc for 10% boss damage. At this stage of the game your detail damage becomes important as your crit damage slowly becomes diminishing returns.
+  - +30 this if you intend to keep it past s20, and +20 it otherwise.
+  - Use as the 2nd trophy in a pair with cultural relic. 
+- [S10 Wiccan Ritual - Pearl Chain](https://www.aurakingdom-db.com/item/21378-wiccan-ritual-pearl-chain)
+  - A decent cdmg crafted trophy. +20 it. Use if you don't use Bond and have some money.
+  - Essentially just grants 50% crit damage and some crit rate. Assuming you have 400% or less crit damage (make sure you're calculating crit damage correctly, not just looking at the profile stats) or higher, 50% *may* be worth it compared to Codebook. However:
+  - Most players with archive will have so much crit damage that they're capped anyway. Also, you will get more cdmg in the future. For this reason, if you have 400% or more cdmg, you are getting capped over agni's and it's not worth it. Also, you are likely lacking in detail damage, which Codebook grants.
 - [Bond Trophies](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Bond&q%5Btype_id_eq%5D=1039)
   - A collection of trophies that are pretty decent, but are extremely expensive. Provides pen and armor piercing scaling stats. Most players will not afford this set.
+  - Although bond is frequently seen as a pvp set, it is better than cultural relic + orange crafted due to it's high dmg dealt multiplier and additional d-dmg from set bonus.
   - There are multiple bond sets. The [Flower Sprite](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) set is likely the best set that's accessible, but the [Otherworld Link](https://www.aurakingdom-db.com/item/32888-bond-cyclone-link) set is theoretically not bad either. 
 - P2W sets (Genki Skyforged Set, Time & Destiny Set)
   - Probably worth hundreds of thousands of gold. Clearly better but literally only use it if you're 1.) an alt 2.) rich as heck. I think that which one is better is technical and build specific, but generally Time & Destiny set should be better in most situations.
 
-In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to support bond being better than relic.
+In general, `P2W > Bond > Relic + Codebook`, assuming you have the damage to support bond being better than relic.
 
 **Accessories**
 
@@ -644,10 +663,10 @@ Nothing changes!
   - This is *really important*. Players have a huge amount of crit damage sources, but typically only 300% base cdmg cap. You can get another 80-100 from various sources but >~400% cdmg cap is nowhere near enough to account for the 500+ that most players end up getting. Agni's is thus, for almost all high level players in almost all situations, essentially a 150% crit damage buff.
 - [Level 95 Wild Howl](https://www.aurakingdom-db.com/item/20228-ladias-alchemy):
   - If you do not have the crit damage to overcap your crit damage by at least 50%, wild howl is still likely better for you to *use*. However, this is typically not an excuse to not build agni's. You can continue using this, but build agni's on the side.
-- [Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
+- [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
   - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
-- [Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
+- [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
 
@@ -661,38 +680,213 @@ Nothing changes!
 - Reroll using reroll pots to get dmg%. Aim for the highest percent possible with current pots. dmg% rerolls (with the exception of 7% on lava main) are actually detail damage, which is an important scaling stat.
 
 **Emblem**
-- Highest ELE% possible on an emblem. Goes up to 8+17=25%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8%.
+- Highest ELE% possible on an emblem. Goes up to 8+17=25% with the base elemental emblems, but can be upgraded to be maxed out at 29%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8/12%.
 - You can choose to work on other stats as well at this point, but elemental damage will *always* be the main objective for emblems.
-- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are clearly better than the base emblems.
+- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are better than the base emblems if you need pen or armor piercing.
 
 **Holy Spirit**
 
-A new armor slot unlocked by being in awakening levels. All Holy Spirits are acquired from DT, with the exception of the gold upgrades which are unlocked from combining the former orange and a recipe dropped from nightmare dungeons. This means that you need to either run DT or buy the item from someone else.
+At s10, you are once again given the choice of orange Holy Spirits. If you have an s5 holy spirit, you can skip strictly the orange step, but may want to consider making a gold s15 holy spirit and thus must prepare by making the orange. 
+
+**Note**: You need an orange base holy spirit to upgrade. If you upgrade to a gold, you will <u>lose all your fortification levels.</u>
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20) [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn) |
-| N/A | (+20) [Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) | (+30) [Night Owl Arrow](https://www.aurakingdom-db.com/item/21612-golden-horn) |
+| N/A | (+20) [S10 Scorching Rainforest](https://www.aurakingdom-db.com/item/23748-scorching-rainforest) | (+30) [S5 Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver) |
+| N/A | (+20) [S10 Netherworld Jade](https://www.aurakingdom-db.com/item/23749-netherworld-jade) | (+30) [S10 Scorching Rainforest](https://www.aurakingdom-db.com/item/23748-scorching-rainforest) |
 
-- [Golden Horn](https://www.aurakingdom-db.com/item/21612-golden-horn)
-  - Provides def shred. It's my opinion that this is better, because you should really have cap crit (even accounting for instance nerfs) at this level if you take into consideration other crit sources. Additionally, it's a decent amount of flat def shred (2.5k of it almost) over the % cap.
-- [Night Owl Arrow](https://www.aurakingdom-db.com/item/21613-night-owl-arrow)
-  - Provides 10% crit rate. Clearly still decent, especially if you're crit capped. 
+- [Scorching Rainforest](https://www.aurakingdom-db.com/item/23748-scorching-rainforest)
+  - This is the go to upgrade for those who don't have insane amounts of crit damage thanks to archive. This grants a flat def shred (very helpful considering the 50% percent debuff cap) and 5% damage received.
+  - The upgrade at s15, later on, strictly just improves the base proc of the holy spirit. 
+  - Because of how dmg received calculations work, this tends to be better than Netherworld Jade at orange
+- [Netherworld Jade](https://www.aurakingdom-db.com/item/23749-netherworld-jade)
+  - The main feature of this holy spirit is it's ability to raise max cdmg. At orange, it only provides a 10% max cdmg increase. This is largely insignificant at the moment, but the upgrade allows +30% max cdmg at +30. For extremely strong players, this will make this ever so slightly better after s15.
+- [Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver)
+  - The "pay to win" item in the Holy Spirit slot. Depending on what pen/ele%/d-dmg stats you have, this can be better even than the p2w God holy spirits unlocked at s15, due to the triple shot proc.
+  - Most players acquiring p2w items will be at a very high level of progression in archive, and consequently should prefer this over the element God spirits. 
+  - Provides 10% triple strike chance (!!), some pen, some mspd, a 20% def shred proc, and 20% ele skill dmg proc.
 
 ### Consumables
 
 **Food:**
-- [Cheesy Tomato Ciabatta](https://www.aurakingdom-db.com/item/19099-cheesy-tomato-ciabatta) provides MSPD and XP%
 - [Oriental Beauty Steamed Milk](https://www.aurakingdom-db.com/item/21048-oriental-beauty-steamed-milk) provides 15% d-dmg
+- [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) provides MSPD and XP%
+- [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) provides 15% triple strike
 
 **Drink:** 
 - [Petal Water](https://www.aurakingdom-db.com/item/19282-petal-water) provides Mounted MSPD and XP%
-- [Gold Essence Tea](https://www.aurakingdom-db.com/item/21060-gold-essence-tea) 15% triple strike.
 - [Sunshine Iced Tea](https://www.aurakingdom-db.com/item/19662-sunshine-iced-tea) 15% mspd
 - [Spicy Ginger Soup](https://www.aurakingdom-db.com/item/21052-spicy-ginger-soup) 15% mspd
-- [Golden Latte](https://www.aurakingdom-db.com/item/18157-golden-latte) provides 12% detail damage (not dmg, that's a mistl)
+- [Lime Roasted Coffee](https://www.aurakingdom-db.com/item/21857-lime-roasted-coffee) 10% acc, 10% d-dmg
+- [King Tree Juice](https://www.aurakingdom-db.com/item/22447-king-tree-juice) 15% triple strike
+- [Fantasy Noble Herbal Tea](https://www.aurakingdom-db.com/item/22459-fantasy-noble-herbal-tea) 15% d-dmg
 
 # Level S15-S19
+
+**Summary:** Optional upgrade to weapon. Darkflame accessory set becomes available, but is inferior to Agni's in most cases. s15 holy spirits unlocked, and most else remains the same.
+
+### Gear
+
+**Weapon**
+
+| Low End | Mid End | High End |
+| ------- | ------- | -------- | 
+| (+20) S15 Gold - DP book | (+25~30) S15 Gold - DP book | (+30) S10 Evil God Weapon - Blacksmithing |
+| N/A | (+25~30) S10 Evil God Weapon - Blacksmithing | (+30) S15 Gold - DP book |
+| N/A | SUB: (+20) S10 Nocturnal Evil God - Blacksmithing | SUB: (+30) S10 Nocturnal Evil God - Blacksmithing |
+
+**Note:** Gold weapon bonuses are not consistent. Some gold weapons are not particularly good! Look carefully at the class specific weapon you have to decide if it's better than orange.
+
+The s15 weapon is unlocked. Upgrade if you have an s5 weapon and want to do more damage! Weapons tend to be particularly important for pen, because they actually have a base pen value on top of the enchantment card. Given how long you will have this, it's almost certainly a good idea to have the highest level weapon you can. Once again, Destroyer is the best main weapon core. 
+
+Due to how core procs work, if you are using an orange main weapon, you can actually use a nocturnal main weapon and a destroyer sub core.
+
+**Top Armor**
+
+| Low End | Mid End | High End |
+| ------- | ------- | -------- | 
+| (+20) [S10 Evil Aura](https://www.aurakingdom-db.com/item/20899-evil-conqueror-helmet) - Blacksmithing, also known as Evil Conqueror set. | (+20~30) [S10 Evil Aura](https://www.aurakingdom-db.com/item/20899-evil-conqueror-helmet) - Blacksmithing, also known as Evil Conqueror set. | (+30) [S10 Evil Aura](https://www.aurakingdom-db.com/item/20899-evil-conqueror-helmet) - Blacksmithing, also known as Evil Conqueror set. |
+| N/A | (+20~30) [S5 Gazing Time](https://www.aurakingdom-db.com/item/19744-eternias-time-travel-hat) - VOE, also known as Eternia Set | N/A |
+
+- [S10 Evil Aura](https://www.aurakingdom-db.com/item/20899-evil-conqueror-helmet) - At this point, this becomes a little expensive just to craft. Make sure you are getting a core that is at least half decent. Ensure that the armor is dark core if possible to take advantage of the elemental reduction.
+  - Provides 15% detail damage, 35% crit damage to bosses. It is strictly better than s5 eternia, and the only reason why you'd stick with eternia is if you wanted to be a little cheap about gear upgrades. 
+  - Both Guardian Knight and Ninja sets (the other orange sets) are not strictly offensive, with Ninja providing p-heal and Guardian Knight being a defensive set. Thus, this is clearly the best.
+- [S5 Gazing Time](https://www.aurakingdom-db.com/item/19744-eternias-time-travel-hat) - This is a free set, which is super nice. Because you can exchange for tons of copies of this from VOE (which you should have been running), you can also easily get this to a very high star for free. Use LP to get each to 3 stars, then combine those.
+  - Provides 10% dmg%, 10% damage dealt to all elements. 
+  - Provides you the same amount of pen as s1 gear while being much cheaper
+  - This upgrade loses you all of the cdmg from holy chant, along with 2% d-dmg, BUT: Allows you to use s1 enchant cards (eg more pen) and higher base stats. This makes it a compelling upgrade for those at s5 who need a minor power boost, while being almost completely free.
+- [S15 Dazzling Fortune](https://www.aurakingdom-db.com/item/21959-book-of-destiny-ephemeral-cap) - Not really a good recommendation because it's not the best, but is still an ok upgrade. Free set from VOE also, same idea as Gazing Time
+  - All it provides is 10% damage dealt, and an 8% double strike chance. Granted, this is clearly not *terrible*, but s10 is better, and if you had s5 then there's not much point to upgrading other than the pen.
+  - The main thing is that you don't get 10% dmg from this. Zeal is nice, but 10% damage is strictly better and much more consistent (and can actually factor into zeal *multipliers*)
+  - Comes with 2% more pen (1% from each gear item's enchant card)
+
+**Bottom Armor**
+
+| Low End | Mid End | High End |
+| ------- | ------- | -------- | 
+| (+20) [S10 Grand Aura](https://www.aurakingdom-db.com/item/20903-evil-conqueror-belt-armor) - Blacksmithing, also known as Evil Conqueror set. | (+20~30) [S10 Grand Aura](https://www.aurakingdom-db.com/item/20903-evil-conqueror-belt-armor) - Blacksmithing, also known as Evil Conqueror set. | (+30) [S10 Grand Aura](https://www.aurakingdom-db.com/item/20903-evil-conqueror-belt-armor) - Blacksmithing, also known as Evil Conqueror set. |
+
+- [S10 Grand Aura](https://www.aurakingdom-db.com/item/20903-evil-conqueror-belt-armor) - Blacksmithing, also known as Evil Conqueror set.
+  - 12% detail damage and a proc for 15% crit rate to bosses, 15% crit damage to bosses.
+  - This set is better than Guardian Knight (clearly) due to that set being defensive. It's also strictly better than Ninja, which also provides detail damage and crit rate, but less of both and no crit damage.
+- [S15 Night's Fortune Set](https://www.aurakingdom-db.com/item/21963-book-of-destiny-belt-of-travel) - Free from VOE
+  - A pretty weak set. It provides 10% crit rate, 10% movespeed (!!), and procs that provide up to 10% detail damage.
+  - This is just strictly worse than s10 in every way (less d-dmg, less crit rate, lacking cdmg). Most players will argue that this isn't even an option worth considering. HOWEVER, consider: zoom and/or free. If you're leeching or questing your way to s20, the movespeed is funny, *and* it doesn't cost anything, right? smile
+
+
+**Trophy**
+
+There are no gold s15 trophies that are better than the previously mentioned cultural relic/codebook combo.
+
+| Low End | Mid End | High End |
+| ------- | ------- | -------- |
+| (+20) [Level 95 Cultural Relic](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Cultural+Relic&q%5Btype_id_eq%5D=1039) | (+20) [Level 95 Cultural Relic](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Cultural+Relic&q%5Btype_id_eq%5D=1039) | (+30) [Time and Destiny Set (there's 2!)](https://www.aurakingdom-db.com/item/46851-time-and-years) | 
+| (+20) [S10 Godly - Restored Codebook](https://www.aurakingdom-db.com/item/21380-godly-restored-codebook) | (+20) [S10 Godly - Restored Codebook](https://www.aurakingdom-db.com/item/21380-godly-restored-codebook) | (+30) [Genki Skyforged Set (there's 2!)](https://www.aurakingdom-db.com/item/46462-secret-stone-of-divine-element-celestial-rune) |
+| (+20) [S10 Wiccan Ritual - Pearl Chain](https://www.aurakingdom-db.com/item/21378-wiccan-ritual-pearl-chain) | (+20) [S10 Wiccan Ritual - Pearl Chain](https://www.aurakingdom-db.com/item/21378-wiccan-ritual-pearl-chain) | (+30) [Bond Set (there's 2!)](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) |
+
+- [Level 95 Cultural Relic](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Cultural+Relic&q%5Btype_id_eq%5D=1039)
+  - By far one of the best trophies in the game. Keep working on +30ing it. Use if you don't use Bond. This is better due to the 20% attribute damage, and is especially good if you are a dark class. Elemental damage can sometimes be hard to come by, and you need to keep it's scaling up to par with the other elements of the dps formula
+- [S10 Godly - Restored Codebook](https://www.aurakingdom-db.com/item/21380-godly-restored-codebook)
+  - Grants a good amount of raw stats, but more importantly has a 15% proc for 10% boss damage. At this stage of the game your detail damage becomes important as your crit damage slowly becomes diminishing returns.
+  - +30 this if you intend to keep it past s20, and +20 it otherwise.
+  - Use as the 2nd trophy in a pair with cultural relic. 
+- [S10 Wiccan Ritual - Pearl Chain](https://www.aurakingdom-db.com/item/21378-wiccan-ritual-pearl-chain)
+  - A decent cdmg crafted trophy. +20 it. Use if you don't use Bond and have some money.
+  - Essentially just grants 50% crit damage and some crit rate. Assuming you have 400% or less crit damage (make sure you're calculating crit damage correctly, not just looking at the profile stats) or higher, 50% *may* be worth it compared to Codebook. However:
+  - Most players with archive will have so much crit damage that they're capped anyway. Also, you will get more cdmg in the future. For this reason, if you have 400% or more cdmg, you are getting capped over agni's and it's not worth it. Also, you are likely lacking in detail damage, which Codebook grants.
+- [Bond Trophies](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Bname_cont%5D=Bond&q%5Btype_id_eq%5D=1039)
+  - A collection of trophies that are pretty decent, but are extremely expensive. Provides pen and armor piercing scaling stats. Most players will not afford this set.
+  - Although bond is frequently seen as a pvp set, it is better than cultural relic + orange crafted due to it's high dmg dealt multiplier and additional d-dmg from set bonus.
+  - There are multiple bond sets. The [Flower Sprite](https://www.aurakingdom-db.com/item/32880-bond-eternal-sorrow) set is likely the best set that's accessible, but the [Otherworld Link](https://www.aurakingdom-db.com/item/32888-bond-cyclone-link) set is theoretically not bad either. 
+- P2W sets (Genki Skyforged Set, Time & Destiny Set)
+  - Probably worth hundreds of thousands of gold. Clearly better but literally only use it if you're 1.) an alt 2.) rich as heck. I think that which one is better is technical and build specific, but generally Time & Destiny set should be better in most situations.
+
+In general, `P2W > Bond > Relic + Codebook`, assuming you have the damage to support bond being better than relic.
+
+**Accessories**
+
+Battle Soul (aka Darkflame set) appears!
+
+| Low End | Mid End | High End |
+| ------- | ------- | -------- | 
+| N/A | (+30) [S5 Demonic Release](https://www.aurakingdom-db.com/item/20646-crown-of-agni) - DP book, EST, commonly known as Agni's Set. | (+30) [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain) - ""holy crap"" |
+| N/A |  (+30) [S15 Battle Soul](https://www.aurakingdom-db.com/item/21986-faiths-tusk-of-fighting-soul) - DP book, commonly known as Darkflame Set | (+30) [S5 Endless Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles) - aka Abyss set |
+| N/A | N/A | (+30) [S5 Demonic Release](https://www.aurakingdom-db.com/item/20646-crown-of-agni) - DP book, EST, commonly known as Agni's Set. |
+
+- [S5 Demonic Release (Agni's)](https://www.aurakingdom-db.com/item/20646-crown-of-agni): BY FAR the best vanilla set in the game. It can be exchanged for with 15k GDP and 25 sky tower sigils per piece (so 45k GDP and 75 sigils total)
+  - Provides an 8% chance to give 150% cdmg cap.
+  - At this point you should be +30ing Agni's, given how long you've had it.
+  - This is *really important*. Players have a huge amount of crit damage sources, but typically only 300% base cdmg cap. You can get another 80-100 from various sources but >~400% cdmg cap is nowhere near enough to account for the 500+ that most players end up getting. Agni's is thus, for almost all high level players in almost all situations, essentially a 150% crit damage buff.
+- [S15 Battle Soul](https://www.aurakingdom-db.com/item/21986-faiths-tusk-of-fighting-soul):
+  - The newly unlocked s15 set provides a weaker agni proc. 
+  - 6% chance to increase cdmg cap by 60%, dmg to all targets by 20%.
+  - While the 20% dmg dealt multiplier is great, the loss of 90% cdmg cap is crippling compared to agni's assuming you fulfill all of your crit damage cap. On both a theory and practical tests, this loses to agni's in almost every single situation.
+  - Because Agni's is +30'd at this point, Battle Soul must also be +30 to be viable in return
+  - This *does* have a use case! If you are running f7-f9 of VOE, or any of the other rare instances where there is a crit damage nerf, it's possible for your crit damage to be nerfed hard enough that you don't *need* the extra 90% crit damage cap, and thus Battle Soul becomes strictly better. 
+  - However, this use case is incredibly rare! It's hard to find a crit damage nerf instance. Because they exist (and one of those cases is the most run instance in the game LOL), however, if you are very strong you should consider building both agni's and darkflame if you don't have abyss.
+- [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
+  - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
+  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+- [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
+  - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
+  - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
+
+**Mount**
+- Use a Level 4 Elemental Dmg % mount (or whatever is highest level).
+- You might want to start acquiring an Almighty mount. You may need it at later levels. They tend to be much more expensive than ele%, but can be useful to help cap stats when instances start nerfing you really hard.
+
+**Secret Stones**
+- Weapon - Lava Secret Stones
+- Armor - Purple Secret Stones (upgraded from Orange)
+- Reroll using reroll pots to get dmg%. Aim for the highest percent possible with current pots. dmg% rerolls (with the exception of 7% on lava main) are actually detail damage, which is an important scaling stat.
+
+**Emblem**
+- Highest ELE% possible on an emblem. Goes up to 8+17=25% with the base elemental emblems, but can be upgraded to be maxed out at 29%. You should be using one of the special types (eg Darkshadow Gaia Emblem) which guarantee the 8/12%.
+- You can choose to work on other stats as well at this point, but elemental damage will *always* be the main objective for emblems.
+- If you're rich, you should buy one of the Eido Blessing emblems, or the ones with the fancy swirly pentagon logos like [War Roar](https://www.aurakingdom-db.com/item/33339-war-roar-emblem), or [Mistress of Moonshadow](https://www.aurakingdom-db.com/item/23752-mistress-of-moonshadow-emblem). These are better than the base emblems if you need pen or armor piercing.
+
+**Holy Spirit**
+
+Oh boy.
+
+If you are a high end player, s15 becomes crazy for you. To everyone else, just upgrade your orange to gold.
+
+**Note**: You need an orange base holy spirit to upgrade. If you upgrade to a gold, you will <u>lose all your fortification levels.</u>
+
+| Low End | Mid End | High End |
+| ------- | ------- | -------- |
+| N/A | (+20~30) [S15 Sizzling Rainforest](https://www.aurakingdom-db.com/item/22676-sizzling-rainforest) | (+30) [S5 Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver) |
+| N/A | (+20~30) [S15 Dark Netherworld Jade](https://www.aurakingdom-db.com/item/22677-dark-netherworld-jade) | (+30) [Dark Netherworld Jade](https://www.aurakingdom-db.com/item/22677-dark-netherworld-jade) |
+
+- [S15 Sizzling Rainforest](https://www.aurakingdom-db.com/item/22676-sizzling-rainforest)
+  - Stronger 3k of def shred, 8% dmg received
+  - Remember when I said the upgrade strictly just improves the base proc of the holy spirit? Yeah it's just that, more def shred and dmg received. The +30 proc is very nice, but it's up to you if you want to do that in an equip slot that's replaced so often
+- [S15 Dark Netherworld Jade](https://www.aurakingdom-db.com/item/22677-dark-netherworld-jade)
+  - A 30% cdmg cap HS at +30. Good for those with a ton of cdmg and a lot of dmg received (eg very strong players) but for mid end players sizzling rainforest is better probably.
+- A comparison of the p2w holy spirits
+  at +30, assuming you have all the prerequisites to fulfill procs (eg having manual). During calculations I assumed you have max archive or close to it, so pen is irrelevant
+  - [Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver) provides 5% mspd, 5% dmg, much lower raw stats, 10% triple shot, 3% pen, 7% proc for 20% def shred, 7% proc for 20% skill damage
+  - [Angel's Arrival](https://www.aurakingdom-db.com/item/22694-angels-arrival) provides 10% cdmg cap, 7% pen, a 10% proc for 5% cdmg/5% dmg, 10 armor piercing. It's other procs are healing/def related (so if you're a tank build this is better, but this is a dps guide). This is objectively worse than:
+  - [Heart of Ruthless Hunting](https://www.aurakingdom-db.com/item/22991-heart-of-ruthless-hunting) provides 40% cdmg cap, 10% cdmg, 5% pen, 10% proc for 10% cdmg, 10% almighty, 5% proc for 20% received cdmg, and more procs that amount to up to 10+50% cdmg, 10+50% cdmg cap extra.
+  - [Elemental God Soul Crystals](https://www.aurakingdom-db.com/items?q%5Bs%5D=min_lvl_nl+desc&q%5Btype_id_eq%5D=1042&q%5Bquality_eq%5D=6&q%5Bmin_lvl_gteq%5D=115&q%5Bmin_lvl_lteq%5D=115) provide 25% d-dmg, a 10% proc for 5% ele skill dmg% stacking twice, and ele cdmg%, 5% dark dmg, 1500 almighty, 10% pen
+  - First, it's clear that Angel's Arrival is strictly worse than Heart of Ruthless Hunting. Kurt's Revolver actually continues to hold it's own because of it's triple shot and 20% skill damage chance. 
+  - Which of Kurt's Revolver, Ruthless Hunting, and God Soul Crystals is best for you depends heavily on *which* archive you have, what class you are playing, due to how thin the margins are. For instance, if your class is built to stack zeals and you have significant skill damage, Ruthless Hunting becomes the best. If you are lacking elemental damage, God Soul becomes the best. If you are overloaded on raw stats and have no zeal or skill dmg, Kurt's Revolver is best.
+  - In general, `Ruthless Hunting > God Soul > Kurt's Revolver`. However, I really don't want to say one is better than the others. It's so context specific that any one of the 3 is very powerful.
+
+### Consumables
+
+**Food:**
+- [Oriental Beauty Steamed Milk](https://www.aurakingdom-db.com/item/21048-oriental-beauty-steamed-milk) provides 15% d-dmg
+- [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) provides MSPD and XP%
+- [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) provides 15% triple strike
+
+**Drink:** 
+- [Petal Water](https://www.aurakingdom-db.com/item/19282-petal-water) provides Mounted MSPD and XP%
+- [Sunshine Iced Tea](https://www.aurakingdom-db.com/item/19662-sunshine-iced-tea) 15% mspd
+- [Spicy Ginger Soup](https://www.aurakingdom-db.com/item/21052-spicy-ginger-soup) 15% mspd
+- [Lime Roasted Coffee](https://www.aurakingdom-db.com/item/21857-lime-roasted-coffee) 10% acc, 10% d-dmg
+- [King Tree Juice](https://www.aurakingdom-db.com/item/22447-king-tree-juice) 15% triple strike
+- [Fantasy Noble Herbal Tea](https://www.aurakingdom-db.com/item/22459-fantasy-noble-herbal-tea) 15% d-dmg
 
 # Level S20-S24
 
