@@ -855,7 +855,7 @@ If you are a high end player, s15 becomes crazy for you. To everyone else, just 
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20~30) [S15 Sizzling Rainforest](https://www.aurakingdom-db.com/item/22676-sizzling-rainforest) | (+30) [S5 Kurt's Revolver](https://www.aurakingdom-db.com/item/21655-kurts-revolver) |
+| N/A | (+20~30) [S15 Sizzling Rainforest](https://www.aurakingdom-db.com/item/22676-sizzling-rainforest) | (+30) P2W HS (see below) |
 | N/A | (+20~30) [S15 Dark Netherworld Jade](https://www.aurakingdom-db.com/item/22677-dark-netherworld-jade) | (+30) [Dark Netherworld Jade](https://www.aurakingdom-db.com/item/22677-dark-netherworld-jade) |
 
 - [S15 Sizzling Rainforest](https://www.aurakingdom-db.com/item/22676-sizzling-rainforest)
