@@ -67,6 +67,12 @@ Most players will elect to put at least 15 into MSPD, and you should highly prio
 
 The rest is up to you to make up for deficiencies in your build (for instance, I like to put points into Crit because it tends to be nerfed below the cap in instances for me, but late game players may want to put into SPD for higher overcap Zeal chance).
 
+# Enchantment Cards
+
+At most levels, just use whatever enchantment card is highest level. Orange > Green > Blue, but all of them give the same amount of pen. For armor, Dmg is typically considered to be the best, but Crit is definitely worth it because capping crit in instances is an eternal struggle. 
+
+For weapon enchantment cards, we like Dmg > Crit > Crit Damage for dps reasons, but MSPD cards are also fine. It depends on what you want! For the sub proc, preferably use the zeal (or double damage) proc, but the crit and spd procs are also acceptable.
+
 # Costumes
 
 All you really need is orange costumes. You may not have the gold capital to get the costumes you want yet. Depending on how much DP you have, buy the Blue cards from the DP shop, and you can buy Premium enchantments from LP. 
