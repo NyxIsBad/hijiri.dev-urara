@@ -18,7 +18,7 @@ flags:
    - A guide on how to complete the weekly guild instances
 5. [WIP Dictionary](./dictionary/)
    - An in progress attempt to document the most commonly used acronyms that I get asked about
-6. [WIP (don't use this rn lol) Gear Guide](./gearguide/)
+6. [Gear Guide](./gearguide/)
    - List of optimal gears for every major level unlock stage, along with reasoning for *why* they are the best.
    - This guide is not concise. If you want a short list of what's simply best (albeit authored and opinioned by others), try the `AK.TO References -> Gear` sheet below. It will be translated very differently from AKUS, but you should be able to get the gist of it.
 
