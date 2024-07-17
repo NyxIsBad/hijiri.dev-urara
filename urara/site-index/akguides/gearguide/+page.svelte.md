@@ -1051,6 +1051,7 @@ New orange unlocks, but they're kinda bad, so this is the first time the BIS is 
 - [Salted Sakura Stuffed Mochi](https://www.aurakingdom-db.com/item/22893-salted-sakura-stuffed-mochi) provides 15% d-dmg
 - [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) provides MSPD and XP%
 - [Sakura Honey Lava Cheese](https://www.aurakingdom-db.com/item/22897-sakura-honey-lava-cheese) provides 15% triple strike
+- [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) provides 15% triple strike
 
 **Drink:** 
 - [Herbal Peppermint Sparkling Water](https://www.aurakingdom-db.com/item/22881-herbal-peppermint-sparkling-water) provides 15% mspd, 7% crit rate
@@ -1229,6 +1230,7 @@ The new s25 crimson shadow drill of darkness!
 - [Salted Sakura Stuffed Mochi](https://www.aurakingdom-db.com/item/22893-salted-sakura-stuffed-mochi) provides 15% d-dmg
 - [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) provides MSPD and XP%
 - [Sakura Honey Lava Cheese](https://www.aurakingdom-db.com/item/22897-sakura-honey-lava-cheese) provides 15% triple strike
+- [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) provides 15% triple strike
 
 **Drink:** 
 - [Forgotten Age Fantasy Whiskey](https://www.aurakingdom-db.com/item/35030-forgotten-age-fantasy-whiskey) provides 15% triple strike
