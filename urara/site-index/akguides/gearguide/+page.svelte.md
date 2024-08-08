@@ -1201,10 +1201,10 @@ The new s25 crimson shadow drill of darkness!
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20~30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness) | (+30) P2W HS (see below) |
-| N/A | (+20~30) Ele specific HS (see below) | (+30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness) |
+| N/A | (+20~30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness) | (+30) P2W HS (see below) |
+| N/A | (+20~30) Ele specific HS (see below) | (+30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness) |
 
-- [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness)
+- [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness)
   - Besides the minor amount of pen, this gives a massive defensive debuff, along with 8% crit rate to you and 10% cdmg cap (stacking up to 3 times at +30).
   - The devil is in the details (aka the fortification buffs) here! 
   - The other s25 options are not as universal For instance [Golden Emperors Holy Fruit in Eden](https://www.aurakingdom-db.com/item/23139-golden-emperors-holy-fruit-in-eden) turns defensive.
@@ -1373,13 +1373,13 @@ New orange unlocks, but they're kinda bad v2
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20~30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness) | (+30) P2W HS (see below) |
-| N/A | (+20~30) Ele specific HS (see below) | (+30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness) |
+| N/A | (+20~30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness) | (+30) P2W HS (see below) |
+| N/A | (+20~30) Ele specific HS (see below) | (+30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness) |
 
 - the new orange unlocks:
   - [Eyes of the Brilliant Light](https://www.aurakingdom-db.com/item/23189-eyes-of-the-brilliant-light) gives 15% cdmg cap and 10% cdmg, and is just worse than drill of darkness
   - [War Rune Spirit Bead](https://www.aurakingdom-db.com/item/23188-war-rune-spirit-bead) most importantly gives 7% d-dmg and 7% d-dmg cap, but this is not useful because hitting the d-dmg cap is a myth.
-- [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness)
+- [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness)
   - Besides the minor amount of pen, this gives a massive defensive debuff, along with 8% crit rate to you and 10% cdmg cap (stacking up to 3 times at +30).
   - The devil is in the details (aka the fortification buffs) here! 
   - The other s25 options are not as universal For instance [Golden Emperors Holy Fruit in Eden](https://www.aurakingdom-db.com/item/23139-golden-emperors-holy-fruit-in-eden) turns defensive.
@@ -1550,10 +1550,10 @@ No new unlocks
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- |
-| N/A | (+20~30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness) | (+30) P2W HS (see below) |
-| N/A | (+20~30) Ele specific HS (see below) | (+30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness) |
+| N/A | (+20~30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness) | (+30) P2W HS (see below) |
+| N/A | (+20~30) Ele specific HS (see below) | (+30) [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness) |
 
-- [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/22681-demon-drill-of-darkness)
+- [S25 Crimson Shadow Demon Drill of Darkness](https://www.aurakingdom-db.com/item/23137-crimson-shadow-demon-drill-of-darkness)
   - Besides the minor amount of pen, this gives a massive defensive debuff, along with 8% crit rate to you and 10% cdmg cap (stacking up to 3 times at +30).
   - The devil is in the details (aka the fortification buffs) here! 
   - The other s25 options are not as universal For instance [Golden Emperors Holy Fruit in Eden](https://www.aurakingdom-db.com/item/23139-golden-emperors-holy-fruit-in-eden) turns defensive.
