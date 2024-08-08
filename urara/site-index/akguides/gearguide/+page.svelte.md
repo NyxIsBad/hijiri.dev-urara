@@ -7,6 +7,11 @@ flags:
   - unlisted
 ---
 
+# Abridged Version
+I have summarized the article on google sheets for those who don't want to read the entirety of Tolstoy in order to know how to make your numbers in AK slightly larger:
+
+[Link to Sheet](https://docs.google.com/spreadsheets/d/1xNScZ-7QZzzMvU6C4HS7ng_ewRLrntcOHTNUCOdAuIE/edit?gid=541890420#gid=541890420)
+
 # Intro
 
 This is a set of recommendations for gear at each major stage of the game. I'll cite my reasons for some sets and why I dq'd others. It will be subdivided into sections for Gear, and Food per level. Additionally, I will be subdividing gear sections into
