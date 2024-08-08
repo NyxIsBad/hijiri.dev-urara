@@ -324,8 +324,9 @@ Most players will choose to skip this step entirely and wait until s5 to build a
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- | 
-| (+20) [Level 90 Abyssal Naught](https://www.aurakingdom-db.com/item/18009-magic-sundering-belt-of-the-abyss) - Blacksmithing, also known as Magic Sundering set. | (+20~30) [Level 90 Abyssal Naught](https://www.aurakingdom-db.com/item/18009-magic-sundering-belt-of-the-abyss) - Blacksmithing, also known as Magic Sundering set. | (+30) [S1 Timber Fairy Blood](https://www.aurakingdom-db.com/item/19457-forest-belt) - Blacksmithing |
+| (+20) [Level 90 Abyssal Naught](https://www.aurakingdom-db.com/item/18009-magic-sundering-belt-of-the-abyss) - Blacksmithing, also known as Magic Sundering set. | (+20~30) [Level 90 Abyssal Naught](https://www.aurakingdom-db.com/item/18009-magic-sundering-belt-of-the-abyss) or [Level 90 Holy Anthem](https://www.aurakingdom-db.com/item/17994-holy-spirits-belt-of-the-blazing-night) | (+30) [S1 Timber Fairy Blood](https://www.aurakingdom-db.com/item/19457-forest-belt) - Blacksmithing |
 - [Level 90 Abyssal Naught](https://www.aurakingdom-db.com/item/18009-magic-sundering-belt-of-the-abyss). Orange, also known as Magic Sundering set.
+  - Once again, Holy Spirit IS better! But you likely carried over Abyssal Naught from level 90 instead of Holy Spirit. If you have that carried over, use it instead
   - 10% dmg% and 40% cdmg to bosses. Highly meta, especially with the relatively powerful proc skill.
   - +20 the set and use level 90 enchantment cards.
 - [S1 Timber Fairy Blood](https://www.aurakingdom-db.com/item/19457-forest-belt). Orange, also known as Forest set
