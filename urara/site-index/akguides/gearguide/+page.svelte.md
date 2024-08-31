@@ -392,7 +392,7 @@ In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to suppo
 
 **Holy Spirit**
 
-A new armor slot unlocked by being in awakening levels. All Holy Spirits are acquired from DT, with the exception of the gold upgrades which are unlocked from combining the former orange and a recipe dropped from nightmare dungeons. This means that you need to either run DT or buy the item from someone else.
+A new armor slot unlocked by being in awakening levels. Most normal Holy Spirits are acquired from DT, with the exception of the gold upgrades which are unlocked from combining the former orange and a recipe dropped from nightmare dungeons, along with some other exclusive Holy Spirits acquired from para for instance. This means that you will likely need to either run DT or buy the item from someone else.
 
 **Note**: When you create a gold holy spirit later on, you *will* lose all of the fortification levels you make on this holy spirit. Thus, if you intend to use an s5 holy spirit, DON'T fortify this holy spirit much (or only as much as you are happy with losing later)
 
