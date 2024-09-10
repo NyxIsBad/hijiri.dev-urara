@@ -527,7 +527,7 @@ In general, `P2W > Bond > Relic + Souler`, assuming you have the damage to suppo
   - If you do not have the crit damage to overcap your crit damage by at least 50%, wild howl is still likely better for you to *use*. However, this is typically not an excuse to not build agni's. You can continue using this, but build agni's on the side.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
@@ -681,7 +681,7 @@ Nothing changes!
   - If you do not have the crit damage to overcap your crit damage by at least 50%, wild howl is still likely better for you to *use*. However, this is typically not an excuse to not build agni's. You can continue using this, but build agni's on the side.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
@@ -842,7 +842,7 @@ Battle Soul (aka Darkflame set) appears!
   - However, this use case is incredibly rare! It's hard to find a crit damage nerf instance. Because they exist (and one of those cases is the most run instance in the game LOL), however, if you are very strong you should consider building both agni's and darkflame if you don't have abyss.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
@@ -1006,7 +1006,7 @@ Surprise, nothing changes
   - However, this use case is incredibly rare! It's hard to find a crit damage nerf instance. Because they exist (and one of those cases is the most run instance in the game LOL), however, if you are very strong you should consider building both agni's and darkflame if you don't have abyss.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
@@ -1179,7 +1179,7 @@ Surprise, nothing changes
   - However, this use case is incredibly rare! It's hard to find a crit damage nerf instance. Because they exist (and one of those cases is the most run instance in the game LOL), however, if you are very strong you should consider building both agni's and darkflame if you don't have abyss.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
@@ -1351,7 +1351,7 @@ Surprise, nothing changes. Orange sets have been useless the whole time and that
   - However, this use case is incredibly rare! It's hard to find a crit damage nerf instance. Because they exist (and one of those cases is the most run instance in the game LOL), however, if you are very strong you should consider building both agni's and darkflame if you don't have abyss.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
@@ -1528,7 +1528,7 @@ Surprise, nothing changes. No new unlocks
   - However, this use case is incredibly rare! It's hard to find a crit damage nerf instance. Because they exist (and one of those cases is the most run instance in the game LOL), however, if you are very strong you should consider building both agni's and darkflame if you don't have abyss.
 - [S5 Heavenly Seal](https://www.aurakingdom-db.com/item/47015-path-of-inquiry-soul-chain): 
   - Putting this on here is unironically a joke because you actually need the Abyss set in order to get the Heavenly Seal set (and more!). It's strictly an upgrade to Abyss, but is literally impossible to get because you need a formula that's *also* para only.
-  - Provides (if you include procs) 48% cdmg, 52% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 50% def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
+  - Provides (if you include procs) 48% cdmg, 24% d-dmg, 20% mspd, 40 armor piercing, 20% pen, 20% attribute d-dmg, 30% total def shred, 150% cdmg cap, 30% skill d-dmg, 20% almighty nerf. 
 - [S5 Abyss Set](https://www.aurakingdom-db.com/item/46790-abyss-soul-shackles)
   - An extremely powerful set that provides tons of base stats, pen/armor piercing/mspd, crit damage cap (and is consequently a strictly better upgrade than Agni's), tons of detail damage from/to elements, and 2 very powerful debuffs.
   - However, it's para only and are really expensive to get. There is demand for it but frequently no market.
