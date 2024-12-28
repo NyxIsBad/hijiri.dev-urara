@@ -1422,9 +1422,9 @@ New orange unlocks, but they're kinda bad v2
 - [King Tree Juice](https://www.aurakingdom-db.com/item/22447-king-tree-juice) 15% triple strike
 - [Fantasy Noble Herbal Tea](https://www.aurakingdom-db.com/item/22459-fantasy-noble-herbal-tea) 15% d-dmg
 
-# Level S35-??
+# Level S35-S40
 
-**Summary:** The current level cap as of writing. The only newly unlocked content at s35 compared to s30 is to do with trophies, so you can skip everything else if you've read the s30-34 bit.
+**Summary:** The current level cap as of writing. The only newly unlocked content at s35 compared to s30 is to do with trophies and gold weapons, so you can skip everything else if you've read the s30-34 bit.
 
 ### Gear
 
@@ -1432,8 +1432,8 @@ New orange unlocks, but they're kinda bad v2
 
 | Low End | Mid End | High End |
 | ------- | ------- | -------- | 
-| (+20) S25 Gold - DP book | (+30) S25 Gold - DP book | (+30) S30 Ultimate Weapon - Blacksmithing |
-| N/A | (+30) S30 Ultimate Weapon - Blacksmithing | (+30) S25 Gold - DP book |
+| (+20) S35 Gold - DP book | (+30) S35 Gold - DP book | (+30) S30 Ultimate Weapon - Blacksmithing |
+| N/A | (+30) S30 Ultimate Weapon - Blacksmithing | (+30) S35 Gold - DP book |
 | N/A | SUB: (+20) S30 Nocturnal Ultimate - Blacksmithing | SUB: (+30) S30 Nocturnal Ultimate - Blacksmithing |
 
 **Note:** Gold weapon bonuses are not consistent. Some gold weapons are not particularly good! Look carefully at the class specific weapon you have to decide if it's better than orange.
