@@ -52,7 +52,7 @@ Phys is incredibly difficult to write. First of all, the entire top half is fair
 
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
-| Lightning | [Build](https://www.aurakingdom-db.com/envoy/guardian?build=0000000000000111000000010000000110000001010000010100000110000011111) | [Build](https://www.aurakingdom-db.com/envoy/guardian?build=0000000000000111000001110000000110000001110000011100001111110011111) | This is a case where literally anything works. There's no objectively correct answer as long as you pick up the 3 grey tiles. In fact, don't even take my necessary tiles seriously; many of them are just the easiest path to the tiles |
+| Lightning | [Build](https://www.aurakingdom-db.com/envoy/guardian?build=0000000000000111000001110000000110000001010000010100000110000011111) | [Build](https://www.aurakingdom-db.com/envoy/guardian?build=0000000000000111000001110000000110000001110000011100001111110011111) | This is a case where literally anything works. There's no objectively correct answer as long as you pick up the 3 grey tiles. In fact, don't even take my necessary tiles seriously; many of them are just the easiest path to the tiles |
 
 Some people who play tank builds should note that this is for dps; tank builds operate completely differently and are practically inverted. Also, many people choose healing tiles just for QOL reasons because it makes things easier. For instance, this is one [tank possibility](https://www.aurakingdom-db.com/envoy/guardian?build=0011000011000100100001111000000010111100100000011000000100100011111)
 
