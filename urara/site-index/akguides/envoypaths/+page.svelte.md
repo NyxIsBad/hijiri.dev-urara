@@ -95,7 +95,7 @@ Not much to say here, gren is one of the easiest things here to come up with for
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
 | Flame | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=001011011110000000111111000101111110000001000000010000000000000000000) | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=001011011110000000111111000101111110011001000001010000000000000000000) | Crazy envoy shape; top and right greys are essential, so is bottom left. 3 free points, you can move the connections around. |
-| Dark | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=111000111111000000011111000011111110100001000000010000000000000000000) | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=111001111111000000011111000011111110100001000000010000000000000000000) | 1 free point, DMG or CDMG both work. |
+| Dark | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=111111100011000000011111000011111110100001000000010000000000000000000) | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=111111100011000000011111000011111110100001000000010000000100000000000) | 1 free point, Blood Seal for clearing is nice |
 
 Why on earth did X-Legend make the shape like this :deth:
 
