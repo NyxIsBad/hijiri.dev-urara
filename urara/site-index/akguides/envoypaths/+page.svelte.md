@@ -94,7 +94,7 @@ Not much to say here, gren is one of the easiest things here to come up with for
 
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
-| Flame | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=001011011110000000111111000101111110000001000000010000000000000000000) | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=001011011110000000111111000101111110011001000001010000000000000000000) | Crazy envoy shape; top and right greys are essential, so is bottom left. 3 free points, you can move the connections around. |
+| Flame | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=001011011110000000111111000101111110000001000000010000000000000000000) | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=001011011110000000011111100001111110111001000001010000000000000000000) | Crazy envoy shape; top and right greys are essential, so is bottom left. 3 free points, you can move the connections around. |
 | Dark | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=111111100011000000011111000011111110100001000000010000000000000000000) | [Build](https://www.aurakingdom-db.com/envoy/sorcerer?build=111111100011000000011111000011111110100001000000010000000100000000000) | 1 free point, Blood Seal for clearing is nice |
 
 Why on earth did X-Legend make the shape like this :deth:
@@ -158,8 +158,8 @@ Soon to be outdated due to the rework. Holy is weak enough that I'm not going to
 
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
-| Dark | [Build](https://www.aurakingdom-db.com/envoy/lancer?build=000010010000111000010100001001110111010000010110000010110000110011) | See Notes | Not really much room, see flame notes. |
-| Lightning | [Build](https://www.aurakingdom-db.com/envoy/lancer?build=000010010000111000010100001001110111010000010110000010110000110011) | See Notes | Not really much room, we also just dupe dark envoy cause you really don't have that much of a choice. |
+| Dark | [Build](https://www.aurakingdom-db.com/envoy/lancer?build=000010000000111000010100001001110111010000010110000010110000110011) | [Build](https://www.aurakingdom-db.com/envoy/lancer?build=000010010000111000010100001001110111010000010110000010110000110011) | Not really much room, see flame notes. |
+| Lightning | [Build](https://www.aurakingdom-db.com/envoy/lancer?build=000010010000111000010100001001110111010000010110000010110000110011) | See Notes | Not really much room, we also just dupe dark envoy cause you really don't have that much of a choice. Basically after hitting the lancer dmg tiles, the required grey tiles, with reasonably optimal pathing, you really just don't have that much space to move, I guess. |
 | Flame | [Build](https://www.aurakingdom-db.com/envoy/lancer?build=000010011000111000010100001001110111010000010010000010110000110011) | See Notes | It's hard to really do this better; you could give up a lance dmg tile for the bottom left max cdmg tile (but realistically using Agni's should help you on that and any higher is always diminishing returns) |
 
 # Guitar
