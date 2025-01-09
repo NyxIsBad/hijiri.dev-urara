@@ -38,7 +38,6 @@ Elements are assumed using the following list:
 
 # Duelist
 
-## Envoy Paths
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
 | Physical | [Build](https://www.aurakingdom-db.com/envoy/duelist?build=111011100111011110000010000000000001111100000000111000010000010) | [Build](https://www.aurakingdom-db.com/envoy/duelist?build=111011100111011110000010000000000001111100001000111000010000010) | This is really complicated; built for the dwink build. A point is free if you want to put that somewhere else. |
