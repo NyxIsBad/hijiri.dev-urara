@@ -1,6 +1,7 @@
 ---
-title: Advanced Data Structures - The Binary Search Tree
-created: 2024-06-07
+title: Advanced Data Structures - The AVL Tree
+created: 2024-09-10
+flags:
   - unlisted
 tags: 
   - Data Structures
@@ -8,22 +9,29 @@ tags:
 ---
 
 # Intro
-This will be the first in a series on data structures and algorithms. We start with the most basic implementation of the basic BST in python, and will move onto a few more complex structures. 
+We now move on to a slightly more complex data structure, the AVL tree. The AVL tree is a self-balancing binary search tree, and is a more efficient version of the BST.
 
-# Binary Search Tree
-The BST is, as anyone with a touch of interest in CS might know, absolutely essential. It's the basis for most of our advanced structures for searching and sorting. It's also the basis for many of the data structures we'll discuss. 
+# AVL
+The AVL tree, named after its inventors Adelson-Velsky and Landis, is a self-balancing binary search tree. It's a more efficient version of the BST, and is guaranteed to have a height of `O(log n)`. This is because the AVL tree is balanced, meaning that the height of the left and right subtrees of any node differ by at most 1. Otherwise, it functions exactly like a BST.
 
-First, let us define what a BST is:
 ## Definition
-Let a BST be a tree (if you don't know what a tree in CS is, you should probably figure that out before attempting advanced data structures) where each node has at most 2 children, and the left child is less than the parent, and the right child is greater than the parent.
-
-If you know how traversals work, an inorder traversal of a BST should yield a sorted list of elements.
+AVL trees hold the exact definition of a BST, with the added condition that the height of the left and right subtrees of any node differ by at most 1. That is, a tree is an AVL tree if it is both a binary search tree and satisfies the AVL property.
 
 ## Use Cases
-The BST is a basic data structure commonly used to search for elements. Because each level essentially divides the search space in half, the BST can be `O(log n)` sometimes. I say sometimes, because the tree can be `O(n)` very easily.
+The AVL tree is used in situations where we need to maintain a sorted list of elements, but also need to insert and delete elements. The AVL tree is more efficient than the BST in this case, because it is guaranteed to have a height of `O(log n)`, and so we get `O(log n)` insertions and deletions as opposed to potentially `O(n)` in the BST.
 
 ## Functionality
-The BST has 2 main functions, to insert and delete. Searching is so trivial to implement on a BST (check a node, if less call the search function on the left child, same for greater and right node) that we don't really have to mention it.
+Although AVL trees also primarily maintain functionality via insert and delete, the AVL tree has an additional operation called "rebalancing", in order to maintain the AVL property. We do this via a function called rotate.
+
+The primary function of rotate is to shift around nodes within a branch in such a way that it preserves BST order while using minimal operations. We have the following rotations:
+- A right rotation takes a parent node y, and two child trees with parent nodes x and z, and creates a new structure by shifting the entire axis right along the center node y. To illustrate, I will be using excerpts of the tex notes by Justin Wyss Gallifent at UMD
+
+![The right rotation](right.png)
+
+- A left rotation is the same as a right rotation, but in the opposite direction.
+![The left rotation](left.png)
+
+
 
 ## Preliminaries
 We'd like to create an overarching structure to use for the tree, and then implement methods to turn that tree into a BST. Since a tree can be represented as a collection of linked nodes with children, we'll start with that.
