@@ -1,8 +1,9 @@
 ---
-title: N-Gram Models in Machine Learning and LMs
+title: N-Gram Model Prediction in Machine Learning and LMs
 created: 2025-02-01
 tags: 
   - Machine Learning
+  - N-Gram
   - DevPost
 ---
 
@@ -131,3 +132,9 @@ Recall from your high school maths that $\log(ab)=\log(a)+\log(b)$; thus, we can
 ```math
 p_1\cdot p_2\cdot p_3\cdot p_4\cdot p_5\approx \exp(\log(p_1)+\log(p_2)+\log(p_3)+\log(p_4)+\log(p_5))
 ```
+
+# Next
+
+We'll discuss a broad overview of training and evaluation, along with entropy next, to continue the N-Gram series. We will eventually advance to neural models and modern attention, transformer, and scaling ideas.
+
+I hope to continue this series alongside working on the ADS series and covering other mid level ML concepts.
