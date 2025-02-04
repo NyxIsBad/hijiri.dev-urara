@@ -73,7 +73,7 @@ $$ P(\text{computer}|\text{The student opened their}) $$
 
 We can decompose this sequence using the chain rule of probability as
 
-```math
+```
 \begin{align*}
 P(x_1\dots x_n)&=P(x_1)P(x_2|x_1)P(x_3|x_1x_2)\dots P(x_n|x_1\dots x_{n-1})\\
 &=\Pi_{i=1}^n P(x_i|x_1\dots x_{i-1})
@@ -86,13 +86,13 @@ The Markov Assumption is that context is only dependent on the last few words to
 
 It should be intuitively clear that this results in a loss of information, and thus accuracy. However, for the sake of computation, we have to let this go for now. Thus, assume for a 2-gram model for instance, that
 
-```math
+```
 P(x_n|x_1\dots x_{n-1})\approx P(x_n|x_{n-1})
 ```
 
 and in general for some $N$-gram model
 
-```math
+```
 P(x_i|x_1\dots x_{i-1})\approx P(x_i|x_{i-N+1}\dots x_{i-1})
 ```
 
@@ -101,7 +101,7 @@ P(x_i|x_1\dots x_{i-1})\approx P(x_i|x_{i-N+1}\dots x_{i-1})
 The question remains of how we will get these base probability values; we will do so via the Maximum Likelihood Estimation (MLE) method. We get an MLE estimate by counting from the dataset, and then normalizing the counts to get a probability distribution (so that they are in between 0 and 1)
 
 We will find $P(x_n|x_{n-1})$, for instance, by computing 
-```math
+```
 P(x_n|x_{n-1})=\frac{C(x_{n-1}x_n)}{\sum_{x}C(x_{n-1}x)}
 ```
 
@@ -109,7 +109,7 @@ where $C(x_{n-1}x_n)$ is the number of times the bigram $x_{n-1}x_n$ appears in 
 
 Since the sum of all bigram counts that start with $x_{n-1}$ is the same as the unigram count of $x_{n-1}$, this can be simplified to 
 
-```math
+```
 P(x_n|x_{n-1})=\frac{C(x_{n-1}x_n)}{C(x_{n-1})}
 ```
 
@@ -117,7 +117,7 @@ To elaborate; the sum of all bigram counts is the same as the unigram count beca
 
 For the general case of an n-gram model, we can then compute
 
-```math
+```
 P(x_n|x_{n-N+1}\dots x_{n-1})=\frac{C(x_{n-N+1}\dots x_n)}{C(x_{n-N+1}\dots x_{n-1})}
 ```
 
@@ -129,7 +129,7 @@ In practice, language models are huge. Thus, we may be multiplying together numb
 
 Recall from your high school maths that $\log(ab)=\log(a)+\log(b)$; thus, we can convert our multiplication into addition, which is much more stable. In general, where $p_i$ is some probability, 
 
-```math
+```
 p_1\cdot p_2\cdot p_3\cdot p_4\cdot p_5\approx \exp(\log(p_1)+\log(p_2)+\log(p_3)+\log(p_4)+\log(p_5))
 ```
 
