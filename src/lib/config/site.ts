@@ -11,7 +11,7 @@ export const site: SiteConfig = {
     name: 'Nyx',
     avatar: '/assets/picture.jpg',
     status: '🌸',
-    bio: 'Some random 19 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in Networking, Computer Systems, and for some reason Web Dev?',
+    bio: 'Some random 20 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in ML/AI, Cybersecurity, and for some reason a lot of Web Dev?',
     metadata: [
       {
         text: 'NyxIsBad',
