@@ -20,7 +20,9 @@ flags:
    - An in progress attempt to document the most commonly used acronyms that I get asked about
 6. [Gear Guide](./gearguide/)
    - List of optimal gears for every major level unlock stage, along with reasoning for *why* they are the best.
-   - This guide is not concise. If you want a short list of what's simply best (albeit authored and opinioned by others), try the `AK.TO References -> Gear` sheet below. It will be translated very differently from AKUS, but you should be able to get the gist of it.
+   - This guide is not concise. If you want a short list of what's simply best, try the abbreviated spreadsheet guide linked on there. Keep in mind that this guide easily goes out of date with updates.
+7. [Envoy Paths](./envoypaths/)
+   - A guide on how to build your envoy paths for each class. This is not definitive as usual
 
 ### External Links
 
