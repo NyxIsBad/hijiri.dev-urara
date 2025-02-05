@@ -9,7 +9,7 @@ tags:
 
 # Intro
 
-So we have our N-Gram model (see [N-Gram Model Prediction in Machine Learning and LMs](./ml-ngram-prediction)). Now, how do we evaluate it? And why do we need to evaluate it?
+So we have our N-Gram model (see [N-Gram Model Prediction in Machine Learning and LMs](../ml-ngram-prediction/)). Now, how do we evaluate it? And why do we need to evaluate it?
 
 Well, to make any progress in the field we would like to be able to compare new models. Thus, we need some kind of metric to compare models. We now set out to find methods to evaluate models, and then discuss training and testing data.
 
