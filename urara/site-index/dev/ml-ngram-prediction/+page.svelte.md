@@ -55,9 +55,13 @@ We would consider
 
 > "opened their \_\_\_\_"
 
-This would require us to store far less data, since we could just precompute every single 2-gram in the English language (given a vocabulary of $V$ words, this would require $O(V^2)$ space, which is still very unreasonable but much better than the infinite amount of data we would need to store otherwise).
+This would require us to store far less data, since we could just precompute every single 2-gram in the English language (given a vocabulary of $V$ words, this would require $O(V^2)$ space, which is still very unreasonable but much better than the infinite amount of data we would need to store otherwise). Note that we compute 2-grams for a 3-gram model, since we need to compute the probability of the last word in a chain of 3 words, given the previous 2 words.
 
 It would also allow us to give responses to much more unique prompts, since we would not have to have seen the entire prompt before to give a response, only the last 2 words.
+
+An example of something like this that you've almost certainly seen a lot is your phone autocomplete! You may have noticed that your phone will often try to guess the next word you are going to type, and does a pretty good job on a small scale. If you keep spamming the autocomplete result, however, the phone might give you a super long run on sentence, that makes no sense.
+
+This is because it's just an N-gram model! (ok this is complicated; a lot of newer phones have started implementing full on tiny LLMs, but this is a story for another article). Thus, it does pretty good only with the context of one or two words, but as soon as you start typing a longer sentence, or something that exceeds the size N of the N-gram, it will start to fail.
 
 # Prediction
 
