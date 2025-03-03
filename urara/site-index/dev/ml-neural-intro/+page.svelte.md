@@ -185,7 +185,7 @@ The most common one is the ReLU, which is used in most modern neural networks. T
 
 There's a lot of reasons why you might use one over the other (and softmax in particular is only really used in the output layer of non-regression models), but it actually turns out that with enough compute and data you can pretty much use any activation function and get similar results.
 
-# Conclusion
+# Fin
 
 Well, that's it for this one, just a quickie. This basic setup of nodes allows you to "learn" and regress to very basic functions, like polynomial math equations. 
 
