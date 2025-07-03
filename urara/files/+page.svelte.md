@@ -15,3 +15,4 @@ flags:
 6. [Hernstein](./Herstein.pdf)
 7. [Fitzpatrick](./Fitzpatrick.pdf)
 8. [Katz](./Katz.pdf)
+9. [Dixit](./Dixit.pdf)
