@@ -11,16 +11,16 @@ export const site: SiteConfig = {
     name: 'Nyx',
     avatar: '/assets/picture.jpg',
     status: '🌸',
-    bio: 'Some random 21 year old researcher on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in ML/AI, Cybersecurity, and for some reason a lot of Web Dev?',
+    bio: 'Some random 20 year old on the internet at the University of Maryland. Majoring in CS and Math, with passion projects in ML/AI, Cybersecurity, and for some reason a lot of Web Dev?',
     metadata: [
       {
         text: 'NyxIsBad',
-        icon: 'lucide:github', // see https://icon-sets.iconify.design/heroicons/, components
+        icon: 'mdi:github', // see https://icon-sets.iconify.design/heroicons/, components
         link: 'https://github.com/nyxisbad'
       },
       {
         text: 'Nyx',
-        icon: 'lucide:youtube',
+        icon: 'mdi:youtube',
         link: 'https://www.youtube.com/channel/UCx747M7g2UAN1LP7T5OaS2w'
       }
     ]
