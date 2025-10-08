@@ -1,5 +1,6 @@
 <script lang='ts'>
   import { site } from '$lib/config/site'
+  import Icon from '@iconify/svelte';
 </script>
 
 <div
@@ -33,7 +34,7 @@
               rel={rel ?? 'me noopener noreferrer external'}
               target='_blank'>
               {#if icon}
-                <span class='!w-5 !h-5'>{icon}</span>
+                <Icon {icon} class="!w-5 !h-5" />
               {/if}
               {#if text}
                 {text}
@@ -42,7 +43,7 @@
           {:else}
             <button class='btn btn-sm btn-ghost normal-case gap-2' class:btn-square={!text}>
               {#if icon}
-                <span class='!w-5 !h-5'>{icon}</span>
+                <Icon {icon} class="!w-5 !h-5" />
               {/if}
               {#if text}
                 {text}
