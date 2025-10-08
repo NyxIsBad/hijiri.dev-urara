@@ -1,41 +1,41 @@
-// svelte adapter
 import adapterAuto from '@sveltejs/adapter-auto'
 import adapterNode from '@sveltejs/adapter-node'
 import adapterStatic from '@sveltejs/adapter-static'
-// svelte preprocessor
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte'
 import { mdsvex } from 'mdsvex'
+
 import mdsvexConfig from './mdsvex.config.js'
-import { vitePreprocess } from '@sveltejs/kit/vite'
 
 const adapter = {
   auto: adapterAuto(),
   node: adapterNode(),
   static: adapterStatic({
-    pages: 'build',
     assets: 'build',
-    fallback: undefined
-  })
+    fallback: undefined,
+    pages: 'build',
+  }),
 }
 
-/** @type {import("@svletejs/kit".Config)} */
+/** @type {import("@sveltejs/kit").Config} */
 export default {
-  extensions: ['.svelte', ...mdsvexConfig.extensions],
-  preprocess: [mdsvex(mdsvexConfig), vitePreprocess()],
+  extensions: ['.svelte', ...(mdsvexConfig.extensions ?? [])],
   kit: {
-    adapter: 
+    adapter:
       process.env.ADAPTER
+        // @ts-expect-error adapter types
         ? adapter[process.env.ADAPTER.toLowerCase()]
-        : Object.keys(process.env).some(key => ['VERCEL', 'CF_PAGES', 'NETLIFY', 'GITHUB_ACTION_REPOSITORY', 'SST'].includes(key))
-          ? adapter['auto']
-          : adapter['static'],
-    prerender: {
-      handleMissingId: 'warn'
-    },
+        : Object.keys(process.env).some(key => ['NETLIFY', 'VERCEL'].includes(key))
+          ? adapter.auto
+          : adapter.static,
     csp: {
-      mode: 'auto',
       directives: {
-        'style-src': ['self', 'unsafe-inline', 'https://giscus.app']
-      }
-    }
-  }
+        'style-src': ['self', 'unsafe-inline', 'https://giscus.app'],
+      },
+      mode: 'auto',
+    },
+    prerender: {
+      handleMissingId: 'warn',
+    },
+  },
+  preprocess: [mdsvex(mdsvexConfig), vitePreprocess()],
 }

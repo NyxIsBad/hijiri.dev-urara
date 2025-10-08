@@ -15,7 +15,7 @@ export const site: SiteConfig = {
     metadata: [
       {
         text: 'NyxIsBad',
-        icon: 'mdi:github',
+        icon: 'mdi:github', // see https://icon-sets.iconify.design/heroicons/, components
         link: 'https://github.com/nyxisbad'
       },
       {
