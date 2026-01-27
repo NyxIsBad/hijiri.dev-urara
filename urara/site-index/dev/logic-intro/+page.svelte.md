@@ -75,7 +75,9 @@ That is, $B$ contains $1$ if $1 \not\in f(1)$, contains $2$ if $2 \not\in f(2)$,
 
 For instance, $\mathbb{N}, \mathbb{Z}, \mathbb{Q}$ are countable, while $\mathbb{R}$ is uncountable.
 
-**Note:** One interesting fun note is that the continuum hypothesis states that there exists no set $X$ such that $\mathbb{N} \prec X \prec \mathbb{R}$. In other words, there is no set with cardinality strictly between that of the integers and the real numbers. This was shown to be independent of the standard axioms of set theory (ZFC, or the Zermelo-Fraenkel set theory with the axiom of choice), meaning that it can neither be proven nor disproven using those axioms. That is to say, both the continuum hypothesis and its negation are consistent with ZFC, assuming ZFC itself is consistent.
+**Note:** One interesting fun note is that the continuum hypothesis, which states that there exists no set $X$ such that $\mathbb{N} \prec X \prec \mathbb{R}$. In other words, there is no set with cardinality strictly between that of the integers and the real numbers. This was shown to be independent of the standard axioms of set theory (ZFC, or the Zermelo-Fraenkel set theory with the axiom of choice), meaning that it can neither be proven nor disproven using those axioms. That is to say, both the continuum hypothesis and its negation are consistent with ZFC, assuming ZFC itself is consistent.
+
+That is to say, ZFC is not capable of deciding the truth value of the continuum hypothesis within its own system. This tells us that a seemingly good set of axioms can still be incomplete in some sense. We'll get into this more later!
 
 For fun, you may want to read up on ZFC [here](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory).
 
