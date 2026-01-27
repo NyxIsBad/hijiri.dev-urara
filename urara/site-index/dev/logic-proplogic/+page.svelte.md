@@ -102,9 +102,9 @@ $$
 $$
 
 These two notations are equivalent. We will use the first. In order for it to be well defined, let's have that 
-- For $B\in Var$, then $$ B[\psi/A] = \begin{cases} \psi & \text{if } B = A \\ B & \text{if } B \neq A \end{cases} $$
-- For $(\neg \phi)$, then $$ (\neg \phi)[\psi/A] = \neg (\phi[\psi/A]) $$
-- For $(\phi_1 \wedge \phi_2)$, then $$ (\phi_1 \wedge \phi_2)[\psi/A] = (\phi_1[\psi/A] \wedge \phi_2[\psi/A]) $$
+- For $B\in Var$, then $B[\psi/A] = \psi$ if $B = A$, $B$ if $B \neq A$
+- For $(\neg \phi)$, then $(\neg \phi)[\psi/A] = \neg (\phi[\psi/A])$
+- For $(\phi_1 \wedge \phi_2)$, then $(\phi_1 \wedge \phi_2)[\psi/A] = (\phi_1[\psi/A] \wedge \phi_2[\psi/A])$
 - ... and so on for the other connectives.
 - Nothing else.
 
@@ -191,15 +191,25 @@ Let $\mathbb{A}$ be the set of all truth assignments. Then, we should intuitivel
 
 **Definition (Truth Function):** A function $f: \mathbb{A}\to \{T,F\}$ is a truth function if there exists a finite set of variables $\{A_1,\dots, A_n\}\subseteq Var$ such that for all assignments $\mathcal{A}, \mathcal{B}$ we have that if 
 
-$$ \mathcal{A}(A_i) = \mathcal{B}(A_i) \text{ for all } i=1,\dots,n $$
+$$ 
+\mathcal{A}(A_i) = \mathcal{B}(A_i) \forall i=1,\dots,n 
+$$
 
 Then, we have that $f(\mathcal{A}) = f(\mathcal{B})$. In this case, we can call $\{A_1,\dots, A_n\}$ the set of variables that $f$ depends on, or the *support* of $f$. 
 
 Then, given some formula $\phi$ we can define the function for $\phi$ in the most obvious way:
 
-$$ f_{\phi}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathtt{val}_{\mathcal{A}}(\phi) $$
+$$ 
+f_{\phi}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathtt{val}_{\mathcal{A}}(\phi) 
+$$
 
-Note that every propositional variable implies a truth function, where $$ f_{P}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathcal{A}(P) $$ The support of this function is just $\{P\}$.
+Note that every propositional variable implies a truth function, where 
+
+$$ 
+f_{P}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathcal{A}(P) 
+$$ 
+
+The support of this function is just $\{P\}$.
 
 Additionally, all truth functions can be described by a finite truth table. This is because the support of a truth function is finite, and thus there are only finitely many combinations of truth values for the variables in the support. Thus, we can enumerate all possible combinations of truth values for the variables in the support, and then define the output of the function for each combination. This is of course impractical for large supports, but it is theoretically possible, and might remind you that we are working with finite, countable objects here.
 
