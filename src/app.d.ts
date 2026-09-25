@@ -1,6 +1,7 @@
 /// <reference types="@sveltejs/kit" />
 
 import type { FFFBase, FFFMedia, FFFMention } from 'fff-flavored-frontmatter'
+import type { Component } from 'svelte'
 
 interface ImportMetaEnv extends Readonly<Record<string, string>> {
   readonly URARA_SITE_DOMAIN?: string
@@ -77,15 +78,7 @@ declare global {
         title?: string
       }
       interface Module {
-        default: {
-          render: () => {
-            css: {
-              code: string
-            }
-            head: string
-            html: string
-          }
-        }
+        default: Component
         metadata: Frontmatter
       }
     }

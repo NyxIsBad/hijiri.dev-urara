@@ -1,4 +1,5 @@
 import type { FFFFlavoredFrontmatter } from 'fff-flavored-frontmatter'
+import { render } from 'svelte/server'
 
 interface GenPostsOptions {
   /** hide posts with 'unlisted' flag */
@@ -57,8 +58,7 @@ export const genPosts: GenPostsFunction = ({
       ...module.metadata,
       html:
         postHtml || typeOfPost(module.metadata) !== 'article'
-          ? module.default
-            .render()
+          ? render(module.default)
             .html // eslint-disable-next-line no-control-regex
             .replace(/[\u0000-\u001F]/g, '')
             .replace(/[\r\n]/g, '')

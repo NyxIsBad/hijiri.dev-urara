@@ -3,13 +3,14 @@
 
   import { toSnake } from '$lib/utils/case'
 
+  type CommentProvider = Exclude<keyof CommentConfig, 'style' | 'use'>
+
   export let post: Urara.Post
   export let config: CommentConfig
   const comments = import.meta.glob<any>('/src/lib/components/comments/*.svelte', { eager: true, import: 'default' })
-  let currentComment: string | undefined
-  let currentConfig: undefined | unknown
-  currentComment = localStorage.getItem('comment') ?? toSnake(config.use[0])
-  // @ts-ignore No index signature with a parameter of type 'string' was found on type 'CommentConfig'. ts(7053)
+  let currentComment: CommentProvider | undefined
+  let currentConfig: CommentConfig[CommentProvider] | undefined
+  currentComment = (localStorage.getItem('comment') ?? toSnake(config.use[0])) as CommentProvider
   $: if (currentComment)
     currentConfig = config[currentComment]
 </script>
@@ -29,7 +30,7 @@
             class='flex-1 tab transition-all'
             class:tab-active={currentComment === toSnake(name)}
             on:click={() => {
-              currentComment = toSnake(name)
+              currentComment = toSnake(name) as CommentProvider
               localStorage.setItem('comment', toSnake(name))
             }}>
             {name}

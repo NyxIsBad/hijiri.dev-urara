@@ -2,7 +2,7 @@ import { lex, parse as parseFence } from 'fenceparser'
 import Slugger from 'github-slugger'
 import { toString } from 'mdast-util-to-string'
 import { escapeSvelte } from 'mdsvex'
-import { join, parse } from 'node:path'
+import { join, parse, posix, resolve } from 'node:path'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeExternalLinks from 'rehype-external-links'
 import rehypeSlug from 'rehype-slug'
@@ -23,7 +23,7 @@ const remarkUraraFm
         data.fm = {}
       // Generate slug & path
       data.fm.slug = filepath
-      data.fm.path = join(dir, `/${name}`.replace('/+page', '').replace('.svelte', ''))
+      data.fm.path = posix.join(dir, `/${name}`.replace('/+page', '').replace('.svelte', ''))
       // Generate ToC
       if (data.fm.toc !== false) {
         const [slugs, toc] = [new Slugger(), []]
@@ -80,7 +80,7 @@ export default {
     },
   },
   layout: {
-    _: './src/lib/components/post_layout.svelte',
+    _: resolve('./src/lib/components/post_layout.svelte'),
   },
   rehypePlugins: [
     rehypeSlug,
