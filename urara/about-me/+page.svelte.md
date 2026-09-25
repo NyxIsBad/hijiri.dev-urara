@@ -1,10 +1,10 @@
 ---
 title: About Me
 created: 2022-07-08
-tags: 
+tags:
   - About Me
 summary: Who am I anyway?
-flags: 
+flags:
   - unlisted
 ---
 

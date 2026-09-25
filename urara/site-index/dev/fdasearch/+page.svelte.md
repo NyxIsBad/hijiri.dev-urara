@@ -7,7 +7,7 @@ flags:
 ---
 
 # FDA 510K Database Searching
-The US FDA, or Food and Drug Administration, has this huge responsibility which is approving medical devices for use in the United States. The 510K database is a collection of all the devices that have been approved for use in the US. Maintained online, it's extremely primitive and is, honestly, horrible to work with as a developer. There is no API, and the only real way to do anything is web scraping (which I hate to do on a government website, so ideally we will want to keep this to a minimum). 
+The US FDA, or Food and Drug Administration, has this huge responsibility which is approving medical devices for use in the United States. The 510K database is a collection of all the devices that have been approved for use in the US. Maintained online, it's extremely primitive and is, honestly, horrible to work with as a developer. There is no API, and the only real way to do anything is web scraping (which I hate to do on a government website, so ideally we will want to keep this to a minimum).
 
 ## What is a 510K?
 A 510k is the submission form made to the FDA to get a medical device approved for use in the US. It's a long, detailed form that includes a lot of information about the device, its intended use, and the testing that was done to prove that it's safe and effective. More importantly, this information can include the intended use, restrictions, etc.
@@ -25,7 +25,7 @@ The idea is essentially to scrape the site using regular URL patterns. I used BS
 ```python
 # data related libs
 import pandas as pd
-import csv 
+import csv
 import pickle
 # ocr
 from tempfile import TemporaryDirectory
@@ -66,10 +66,10 @@ KEYWORD = ['fitzpatrick','scale','type']
 # DB Link (510k)
 DBPREFIX = 'https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID='
 ```
-I end up writing this script to have 3 modes. 
+I end up writing this script to have 3 modes.
 - The first one is a first pass, which just creates a list of the possible 510k files of interest. It will sort out the ones that don't have a public summary file (eg there's almost no details publicly available, so isn't very useful).
 - The second one goes through the lists of the 510k files and scans them for keywords. It will OCR the PDFs and save the text files in the data directory.
-- The third one goes through the text files and scans them for the keywords. I ended up not implementing this because it's actually slightly redundant given the second step. 
+- The third one goes through the text files and scans them for the keywords. I ended up not implementing this because it's actually slightly redundant given the second step.
 
 In my above example code I also have some basic file/directory names, the delimiter for the CSV that the FDA publishes (which is |). Then I speciy my search conditions. Here we will look for any one of the keywords if and only if the statement has the conditional keyword, and we will search all files under those product codes.
 
@@ -78,7 +78,7 @@ In my above example code I also have some basic file/directory names, the delimi
 # -------------------------
 # DATA/FILE SAVING/LOADING
 # -------------------------
-# Load codes from csv    
+# Load codes from csv
 def load_csv(input):
     data = pd.read_csv(input, sep=DELIM, header=0, keep_default_na=False)
     return data # returns df
@@ -99,7 +99,7 @@ def write_txt(out, lst):
     with open(out, "w") as f:
         for item in lst:
             f.write(f"{item}\n")
-# write an object to file 
+# write an object to file
 def write_obj(out, obj):
     with open(out, "wb") as f:
         pickle.dump(obj,f)
@@ -147,24 +147,24 @@ However other than CDRH's 510ks, there are other departments, sometimes there ar
 # READ/OCR PDF
 # -------------------------
 # Reading the text. There are multiple cases to this.
-# Case 1: OCR correctly reads text. In this case, we concatenate all text and 
+# Case 1: OCR correctly reads text. In this case, we concatenate all text and
 #       save it as a .txt file in PDFDIR/ocr/{code}.txt. Also return "success" or 1
-# Case 2: We can't read it. Then, we return "fail" or 0. This will get concatenated to the 
+# Case 2: We can't read it. Then, we return "fail" or 0. This will get concatenated to the
 #       "none_knums" variable and outputted as a text file.
 def pdfscanner(type, prefix, code):
     # vars
     img_lst = []
     # open the file online and then create a pdfreader instance
     url = getlink(type, prefix, code)
-    if url == "": 
+    if url == "":
         return 0
     # get the actual content.
     pdf = requests.get(url, stream=True).content
-    # We use OCR to recognize the text. 
+    # We use OCR to recognize the text.
     # We can use PdfReader to find the DPI.
     # reader = PdfReader(bytes_stream)
     print(f"{type} of {code}: URL {url} | DB URL: {prefix}{code}")
-    
+
     # Implementation of case 1:
     with TemporaryDirectory() as tempdir:
         # Step 1, turn the pdf into images.
@@ -176,7 +176,7 @@ def pdfscanner(type, prefix, code):
             img_lst.append(fname)
         # Step 2, read the images
         # open the txt file output
-        with open(f'{PDFDIR}/ocr/{code}.txt','w') as f: 
+        with open(f'{PDFDIR}/ocr/{code}.txt','w') as f:
             for img in img_lst:
                 # OCR the page
                 # image preprocessing can be put under here
@@ -201,7 +201,7 @@ if mode==1:
     csv = read_multiple(DATA)
     # find results by product code
     results = filter_by_col_arr(csv, 'PRODUCTCODE', VALID_CODE)
-    
+
     # find results with summary
     results_summary = filter_by_col(results, 'STATEORSUMM', 'Summary')
     results_statement = filter_by_col(results, 'STATEORSUMM', 'Statement')
@@ -241,7 +241,7 @@ elif mode==2:
             failed.append(knum)
     write_txt(f'{DATADIR}converted_to_txt.txt', success)
     write_txt(f'{DATADIR}failed_to_txt.txt', failed)
-elif mode==3: 
+elif mode==3:
     print("Implement mode 3")
 else:
     print("How did you get here? Wrong mode #.")

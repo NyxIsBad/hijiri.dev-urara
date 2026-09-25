@@ -1,9 +1,9 @@
 ---
 title: Aura Kingdom Dungeon Lag Fix
 created: 2024-05-10
-tags: 
+tags:
   - PersonalPost
-flags: 
+flags:
   - unlisted
 ---
 
@@ -26,8 +26,8 @@ Dungeon lag is that dumb thing that happens when you are in a dungeon/instance a
 That's it. You should no longer have archive lag. You can do this without restarting the game, since the error occurs from the game attempting to write to it a bajillion times.
 
 ## What causes this
-The game writes to `error.log` every time anything really happens in the game. You can find a list of your deaths/revives/etc. The trouble is that Aura Kingdom is kind of a single-threaded game, so it can't write to the file and do other things at the same time. This causes the game to lag while it writes to the file. Something about instances (and riding your mount into wood barriers) causes the game to freak out and start sending constant errors. 
+The game writes to `error.log` every time anything really happens in the game. You can find a list of your deaths/revives/etc. The trouble is that Aura Kingdom is kind of a single-threaded game, so it can't write to the file and do other things at the same time. This causes the game to lag while it writes to the file. Something about instances (and riding your mount into wood barriers) causes the game to freak out and start sending constant errors.
 
-Of course, once this starts happening, the game feels the need to write it all to the file, and thus your game lags while it waits for the file to be written to. 
+Of course, once this starts happening, the game feels the need to write it all to the file, and thus your game lags while it waits for the file to be written to.
 
 By making the file read-only, we prevent the game from writing to it, and thus prevent the lag. The game will still try to write to it, but the OS will refuse to give the process write access and the game logic will fail out, allowing us to progress without crippling lag.

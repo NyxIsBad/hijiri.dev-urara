@@ -47,26 +47,26 @@ const error = (err: { code: string, message: unknown }) => {
 const cpFile = (src: string, { dest = path.join(check(path.parse(src).ext.slice(1)), src.slice(6)), stat = 'copy' } = {}) =>
   config.extensions.images.includes(path.parse(src).ext.slice(1))
     ? fs
-      .copyFile(src, path.join('src/static', src.slice(6)))
-      .then(() => fs.copyFile(src, path.join('static', src.slice(6))))
-      .then(() => log('green', `${stat} file`, dest))
-      .catch(error)
+        .copyFile(src, path.join('src/static', src.slice(6)))
+        .then(() => fs.copyFile(src, path.join('static', src.slice(6))))
+        .then(() => log('green', `${stat} file`, dest))
+        .catch(error)
     : fs
-      .copyFile(src, dest)
-      .then(() => log('green', `${stat} file`, dest))
-      .catch(error)
+        .copyFile(src, dest)
+        .then(() => log('green', `${stat} file`, dest))
+        .catch(error)
 
 const rmFile = (src: string, { dest = path.join(check(path.parse(src).ext.slice(1)), src.slice(6)) } = {}) =>
   config.extensions.images.includes(path.parse(src).ext.slice(1))
     ? fs
-      .rm(path.join('src/static', src.slice(6)))
-      .then(() => fs.rm(path.join('static', src.slice(6))))
-      .then(() => log('yellow', 'remove file', dest))
-      .catch(error)
+        .rm(path.join('src/static', src.slice(6)))
+        .then(() => fs.rm(path.join('static', src.slice(6))))
+        .then(() => log('yellow', 'remove file', dest))
+        .catch(error)
     : fs
-      .rm(dest)
-      .then(() => log('yellow', 'remove file', dest))
-      .catch(error)
+        .rm(dest)
+        .then(() => log('yellow', 'remove file', dest))
+        .catch(error)
 
 const mkDir = (
   src: string,
@@ -117,7 +117,7 @@ const cleanDir = (src: string) =>
   fs.readdir(src, { withFileTypes: true }).then((files) => {
     files.forEach((file) => {
       const dest = path.join(src, file.name)
-      // eslint-disable-next-line ts/no-unused-expressions
+
       file.isDirectory()
         ? rmDir(dest)
         : file.name.startsWith('.')
@@ -139,6 +139,12 @@ const clean = () => {
 }
 
 switch (process.argv[2]) {
+  case 'build':
+    build()
+    break
+  case 'clean':
+    clean()
+    break
   case 'watch':
     {
       const watcher = chokidar.watch('urara', {
@@ -166,12 +172,6 @@ switch (process.argv[2]) {
           log('red', 'exit')
         })
     }
-    break
-  case 'build':
-    build()
-    break
-  case 'clean':
-    clean()
     break
   default:
     log('red', 'error', 'invalid arguments')

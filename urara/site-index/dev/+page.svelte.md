@@ -1,10 +1,10 @@
 ---
 title: Developer Posts
 created: 2022-07-08
-tags: 
+tags:
   - DevPost
 summary: A List of all Developer Posts
-flags: 
+flags:
   - unlisted
 ---
 

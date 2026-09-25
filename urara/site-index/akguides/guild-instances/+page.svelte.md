@@ -1,9 +1,9 @@
 ---
 title: Guild Instance Guide
 created: 2024-06-07
-tags: 
+tags:
   - PersonalPost
-flags: 
+flags:
   - unlisted
 ---
 
@@ -82,12 +82,12 @@ This is the first "party" instance. You can bring a party into this instance by 
 
 Enter the instance and talk to Yeshe. Click the "Let me find them! (Begin)" option.
 
-You then have to help the other rescued so far. Go behind you and walk up to each one. 
+You then have to help the other rescued so far. Go behind you and walk up to each one.
 
 ![4-1](https://i.imgur.com/luGARuv.png)
 
 - For Rehia, you just need to kill the evil mobs that spawn after watching a short cutscene
-- For Moe, you need to either pay 1 gold to him, or click "Don't mind them, let's make a run for it!", at which point you just kill the evil mobs as well. 
+- For Moe, you need to either pay 1 gold to him, or click "Don't mind them, let's make a run for it!", at which point you just kill the evil mobs as well.
 
 Then, after a short bit, you get a grey screen text box, and start the cooking phase.
 
@@ -97,15 +97,15 @@ Then, after a short bit, you get a grey screen text box, and start the cooking p
 
 Essentially, you are presented with a ton of ingredients. You talk to Zinnia to start this phase by selecting the "I am ready, let's begin" option. Then, Zinnia will announce ingredients she needs above her head. It will be repeated as a banner at the top of the screen. You must select the ingredient and then walk over Moe, Yeshe, or Rehia, depending on whose pile you are taking the ingredient from.
 
-![4-3](https://i.imgur.com/AI4sMc6.png) 
+![4-3](https://i.imgur.com/AI4sMc6.png)
 
-For instance here, Zinnia wants a mushroom. You go over to Moe's pile, pick up a Mushroom (you will get a buff status that indicates you did so), and then walk over Moe, who will say a line to indicate he got it, and then Zinnia will indicate if you got it right or not. Repeat this until the noodles are done. 
+For instance here, Zinnia wants a mushroom. You go over to Moe's pile, pick up a Mushroom (you will get a buff status that indicates you did so), and then walk over Moe, who will say a line to indicate he got it, and then Zinnia will indicate if you got it right or not. Repeat this until the noodles are done.
 
 There's a translation bug to do with the mushrooms specifically. The "Flavoring Mushroom" that Zinnia wants are the "Fresh Mushrooms" that are in the pile. When Zinnia wants mushrooms for color, she means the "Dew Mushrooms".
 
 This likely stems from mushrooms and herbs having very similar names in the TW version? Not sure. Either way, getting this one wrong a few times doesn't even matter that much because its overall performance that matters.
 
-Then, Ancient Evil Cole will spawn, who you then kill. 
+Then, Ancient Evil Cole will spawn, who you then kill.
 
 ## Rescue Operation - Grass Kingdom
 
@@ -137,13 +137,13 @@ After breaking the orb, Moe will come out
 
 ![5-4](https://i.imgur.com/3XMrVAg.png)
 
-Talk to him, learn how to break the blue curse, and break the large blue barrier. 
+Talk to him, learn how to break the blue curse, and break the large blue barrier.
 
 ### Rehia
 
 Then, start looking for Rehia in the new area unlocked..
 
-This is sometimes a blue orb and sometimes a red orb. If it's a red orb, go back to Yeshe and ask for the red skill. 
+This is sometimes a blue orb and sometimes a red orb. If it's a red orb, go back to Yeshe and ask for the red skill.
 
 Then talk to Rehia and learn how to break the green curse.
 
@@ -153,7 +153,7 @@ Then, break the large green barrier.
 
 ### Cole
 
-Now, start looking for Cole in the new area unlocked. Once again, if the orb he's in is not green, just go back and get the right color. 
+Now, start looking for Cole in the new area unlocked. Once again, if the orb he's in is not green, just go back and get the right color.
 
 ![5-6](https://i.imgur.com/C7Kp53a.png)
 

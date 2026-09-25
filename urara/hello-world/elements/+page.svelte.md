@@ -2,7 +2,7 @@
 title: Elements
 created: 2021-12-12
 tags: ['Urara', 'Elements']
-flags: 
+flags:
   - unlisted
 ---
 
@@ -122,6 +122,7 @@ type NameOrId<T extends number | string> = T extends number ? IdLabel : NameLabe
 
 // ---cut---
 function createLabel<T extends number | string>(idOrName: T): NameOrId<T> {
+  // eslint-disable-next-line no-throw-literal -- tutorial placeholder
   throw 'unimplemented'
 }
 

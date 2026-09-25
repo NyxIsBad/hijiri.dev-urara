@@ -1,7 +1,7 @@
 ---
 title: A July Trip to Korea
 created: 2022-09-01
-tags: 
+tags:
   - PersonalPost
 summary: And some pictures
 image: /site-index/personal/koreatrip/bunni.jpg
@@ -37,7 +37,7 @@ All in all, entry was super smooth. Just make sure to do your K-ETA and Q-Code a
 
 # Trip
 
-**Night: Cheonggyecheon Stream**, and got dinner at Burger King because nothing else was open. This was a lesson - a lot of places in Korea don't stay open late past like 20:00, and they don't open until late too, until 8:00 to 10:00. 
+**Night: Cheonggyecheon Stream**, and got dinner at Burger King because nothing else was open. This was a lesson - a lot of places in Korea don't stay open late past like 20:00, and they don't open until late too, until 8:00 to 10:00.
 
 ![Under the rainbow bridge](./IMG_20220711_232350.jpg)
 
@@ -57,7 +57,7 @@ All in all, entry was super smooth. Just make sure to do your K-ETA and Q-Code a
 
 **July 17: Morning/Afternoon: Visited a friend down in Suwon. Night: N Seoul Tower.** Booked tickets on Klook, they're cheaper by like half! N Seoul Tower was pretty.
 
-**July 18: Morning: Flight to Jeju Island via Gimpo.** This is where our planning starts to go weird. **Afternoon/Night: Yongduam/Yongyeon Park/Rock.** In Jeju, we didn't have an international drivers license or anything, so taxis are key (get your own car if you're planning on going to Jeju if you can!). If you can't speak Korean like us, taxi drivers rarely understand english, so you will either have to pull up the place you want to go to in Korean or, to save both time and effort, use a booking app like Kakao T. It's fast, you don't have to flag a taxi and can just call it, and most importantly, you can book your destination on the app. This app and Naver carried our trip. 
+**July 18: Morning: Flight to Jeju Island via Gimpo.** This is where our planning starts to go weird. **Afternoon/Night: Yongduam/Yongyeon Park/Rock.** In Jeju, we didn't have an international drivers license or anything, so taxis are key (get your own car if you're planning on going to Jeju if you can!). If you can't speak Korean like us, taxi drivers rarely understand english, so you will either have to pull up the place you want to go to in Korean or, to save both time and effort, use a booking app like Kakao T. It's fast, you don't have to flag a taxi and can just call it, and most importantly, you can book your destination on the app. This app and Naver carried our trip.
 
 **July 19: Morning: Arte Museum. Afternoon: Dodu-dong Rainbow Coastal Road + messing around on the rocks**. This day was so relaxing. The Arte Museum is a bit of a pain to get to if you don't have your own car. We ended up taking a taxi, as the bus would have taken 90 minutes. Also be aware of buses that have the same number but split later on - they announce the split in Korean, which we don't understand, and this led to confusion and big time loss once.
 

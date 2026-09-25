@@ -2,17 +2,16 @@ import { lex, parse as parseFence } from 'fenceparser'
 import Slugger from 'github-slugger'
 import { toString } from 'mdast-util-to-string'
 import { escapeSvelte } from 'mdsvex'
-import { join, parse, posix, resolve } from 'node:path'
+import { parse, posix, resolve } from 'node:path'
 import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import rehypeExternalLinks from 'rehype-external-links'
+import rehypeKatex from 'rehype-katex-svelte'
 import rehypeSlug from 'rehype-slug'
 import remarkFFF from 'remark-fff'
 import remarkFootnotes from 'remark-footnotes'
+import remarkMath from 'remark-math'
 import { createShikiHighlighter, renderCodeToHTML, runTwoSlash } from 'shiki-twoslash'
 import { visit } from 'unist-util-visit'
-
-import remarkMath from 'remark-math'
-import rehypeKatex from 'rehype-katex-svelte'
 
 const remarkUraraFm
   = () =>
@@ -62,7 +61,7 @@ export default {
       try {
         fence = parseFence(lex([lang, meta].filter(Boolean).join(' ')))
       }
-      catch (error) {
+      catch {
         throw new Error(`Could not parse the codefence for this code sample \n${code}`)
       }
       if (fence?.twoslash === true)

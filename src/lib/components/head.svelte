@@ -4,7 +4,9 @@
   import { head } from '$lib/config/general'
   import { site } from '$lib/config/site'
 
+  // eslint-disable-next-line no-undef-init -- Svelte uses this default to make the prop optional
   export let post: undefined | Urara.Post = undefined
+  // eslint-disable-next-line no-undef-init -- Svelte uses this default to make the prop optional
   export let page: undefined | Urara.Page = undefined
 </script>
 
@@ -32,6 +34,7 @@
   {/if}
   {#if head.custom}
     {#each head.custom({ dev, page, post }) as tag}
+      <!-- eslint-disable-next-line svelte/no-at-html-tags -- configured trusted head markup -->
       {@html tag}
     {/each}
   {/if}

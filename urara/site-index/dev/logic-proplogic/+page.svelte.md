@@ -1,7 +1,7 @@
 ---
 title: An Introduction to Propositional Logic
 created: 2026-01-17
-tags: 
+tags:
   - Logic
   - Mathematics
   - DevPost
@@ -35,11 +35,11 @@ To put it another way, think of the typical Algebra 1 expressions you work with.
 | $\rightarrow$ | Implies | Implication | `\rightarrow` |
 | $()$ | Parentheses | Grouping | `()` |
 
-Note that we are defining grouping here! 
+Note that we are defining grouping here!
 
 If you have ever taken a programming languages course, you will know that grouping is very important for defining order of operations. We will not define a "parser" here, but know that parentheses are very important, and that when we evaluate expressions, we will always evaluate it as if there *was* a parser.
 
-For instance, we will always evaluate the innermost parentheses first. Additionally, we must group every expression with parentheses. For example, instead of writing $A \wedge B \rightarrow C$, we will write $((A \wedge B) \rightarrow C)$. 
+For instance, we will always evaluate the innermost parentheses first. Additionally, we must group every expression with parentheses. For example, instead of writing $A \wedge B \rightarrow C$, we will write $((A \wedge B) \rightarrow C)$.
 
 If I do not write parentheses, it should be obvious from context that I am omitting them for brevity, and that it can be grouped in a way that makes sense.
 
@@ -95,20 +95,20 @@ The notion of substitution is something that we should all understand to some de
 
 The idea is that we can replace things in propositional logic too. They can be from within the same universe of discourse, or from different ones. For example, if we have the formula $(P \wedge Q)$, and we know that $P$ is equivalent to $(R \vee S)$, then we can replace $P$ with $(R \vee S)$ to get $((R \vee S) \wedge Q)$.
 
-**Definition (Substitution):** Let $A\in Var$ (recall that this is the set of all propositional variables), and let $\phi$ be a propositional formula. Let $\psi$ be another propositional formula. Then, we define the substitution of $A$ with $\psi$ in $\phi$ as 
+**Definition (Substitution):** Let $A\in Var$ (recall that this is the set of all propositional variables), and let $\phi$ be a propositional formula. Let $\psi$ be another propositional formula. Then, we define the substitution of $A$ with $\psi$ in $\phi$ as
 
 $$
 \phi[\psi/A] = \phi[A := \psi]
 $$
 
-These two notations are equivalent. We will use the first. In order for it to be well defined, let's have that 
+These two notations are equivalent. We will use the first. In order for it to be well defined, let's have that
 - For $B\in Var$, then $B[\psi/A] = \psi$ if $B = A$, $B$ if $B \neq A$
 - For $(\neg \phi)$, then $(\neg \phi)[\psi/A] = \neg (\phi[\psi/A])$
 - For $(\phi_1 \wedge \phi_2)$, then $(\phi_1 \wedge \phi_2)[\psi/A] = (\phi_1[\psi/A] \wedge \phi_2[\psi/A])$
 - ... and so on for the other connectives.
 - Nothing else.
 
-A shorthand we're going to make here is that 
+A shorthand we're going to make here is that
 $$
 \phi[\psi_1/A_1, \psi_2/A_2, \ldots, \psi_n/A_n] = \phi[\psi_1/A_1][\psi_2/A_2] \ldots [\psi_n/A_n]
 $$
@@ -117,7 +117,7 @@ Next, we will define a lemma, which basically just states that substitution on a
 
 **Lemma:** If $A\notin Vars$, then $$\phi[\psi/A]=\phi$$
 
-**Proof:** We will use induction on the structure of formulas. 
+**Proof:** We will use induction on the structure of formulas.
 
 __Base case__: Let $\phi=B\in Var$. Then, assuming that $A\notin Vars(B)$, eg that $A\neq B$, then $\phi[\psi/A]=B$.
 
@@ -150,7 +150,7 @@ Then, truth functions map ${F,T}^{|S|} \to {F,T}$, where $S$ is some set of prop
 
 If you are unfamiliar with the basic definitions of our connectives, here is a quick refresher: the conjunction $(P \wedge Q)$ is true if both $P$ and $Q$ are true, and false otherwise. The disjunction $(P \vee Q)$ is true if at least one of $P$ or $Q$ is true, and false otherwise. The negation $(\neg P)$ is true if $P$ is false, and false if $P$ is true. The implication $(P \rightarrow Q)$ is false only when $P$ is true and $Q$ is false; otherwise, it is true. These can be summarized in truth tables as well.
 
-Note that we have ex falso quodlibet here: from a contradiction, anything follows. That is to say, $F \rightarrow x$ is always true, regardless of the truth value of $x$. 
+Note that we have ex falso quodlibet here: from a contradiction, anything follows. That is to say, $F \rightarrow x$ is always true, regardless of the truth value of $x$.
 
 **Definition (Truth Assignment):** A truth assignment is a function $\mathcal{A}$ which assigns each propositional variable a truth value. That is, $\mathcal{A}: Var \to \{T,F\}$. This gives a *meaning* to propositional formulas.
 
@@ -158,7 +158,7 @@ Then, we can define the evaluation of a propositional formula under a truth assi
 
 **Definition (Valuation Function):** Then, we can define the valuation function $\mathtt{val}$ as
 - $\mathtt{val}_{\mathcal{A}}(P) = \mathcal{A}(P)$ for any propositional variable $P$, eg $P \in Var$.
-- Let $\phi_1$ and $\phi_2$ be propositional sentences (a reminder that in our current system a propositional sentence is equivalent to a propositional formula). Then, 
+- Let $\phi_1$ and $\phi_2$ be propositional sentences (a reminder that in our current system a propositional sentence is equivalent to a propositional formula). Then,
   - $\mathtt{val}_{\mathcal{A}}((\neg \phi_1)) = f_{\neg}(\mathtt{val}_{\mathcal{A}}(\phi_1))$
   - $\mathtt{val}_{\mathcal{A}}((\phi_1 \wedge \phi_2)) = f_{\wedge}(\mathtt{val}_{\mathcal{A}}(\phi_1), \mathtt{val}_{\mathcal{A}}(\phi_2))$
   - ... and so on for the other connectives.
@@ -167,7 +167,7 @@ We write $\phi[\mathcal{A}]$ as shorthand for $\mathtt{val}_{\mathcal{A}}(\phi)$
 
 **Definition (Models):** We say that a truth assignment $\mathcal{A}$ is a model of a propositional formula $\phi$ if $\mathtt{val}_{\mathcal{A}}(\phi) = T$. Then, we write that $\mathcal{A} \models \phi$. In other words, the formula evaluates to true under the truth assignment. Similarly $\mathcal{A}\not\models \phi$ if $\mathtt{val}_{\mathcal{A}}(\phi) = F$.
 
-**Definition (Tautology):** A formula $\phi$ is a tautology if for ALL assignments $\mathcal{A}$, we have that $\mathcal{A} \models \phi$. In other words, the formula is always true regardless of the truth values of its propositional variables. We denote this as $\models \phi$. 
+**Definition (Tautology):** A formula $\phi$ is a tautology if for ALL assignments $\mathcal{A}$, we have that $\mathcal{A} \models \phi$. In other words, the formula is always true regardless of the truth values of its propositional variables. We denote this as $\models \phi$.
 
 An example of a tautology is $(P \vee \neg P)$, which is true regardless of whether $P$ is true or false. (you can choose any valuation for $P$, and it will always be true)
 
@@ -189,25 +189,25 @@ It's a fun exercise to prove that if $\phi$ and $\psi$ are formulas, then the fo
 
 Let $\mathbb{A}$ be the set of all truth assignments. Then, we should intuitively be able to define a function from truth assignments to truth values for any propositional formula. This is called a truth function.
 
-**Definition (Truth Function):** A function $f: \mathbb{A}\to \{T,F\}$ is a truth function if there exists a finite set of variables $\{A_1,\dots, A_n\}\subseteq Var$ such that for all assignments $\mathcal{A}, \mathcal{B}$ we have that if 
+**Definition (Truth Function):** A function $f: \mathbb{A}\to \{T,F\}$ is a truth function if there exists a finite set of variables $\{A_1,\dots, A_n\}\subseteq Var$ such that for all assignments $\mathcal{A}, \mathcal{B}$ we have that if
 
-$$ 
-\mathcal{A}(A_i) = \mathcal{B}(A_i) \forall i=1,\dots,n 
+$$
+\mathcal{A}(A_i) = \mathcal{B}(A_i) \forall i=1,\dots,n
 $$
 
-Then, we have that $f(\mathcal{A}) = f(\mathcal{B})$. In this case, we can call $\{A_1,\dots, A_n\}$ the set of variables that $f$ depends on, or the *support* of $f$. 
+Then, we have that $f(\mathcal{A}) = f(\mathcal{B})$. In this case, we can call $\{A_1,\dots, A_n\}$ the set of variables that $f$ depends on, or the *support* of $f$.
 
 Then, given some formula $\phi$ we can define the function for $\phi$ in the most obvious way:
 
-$$ 
-f_{\phi}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathtt{val}_{\mathcal{A}}(\phi) 
+$$
+f_{\phi}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathtt{val}_{\mathcal{A}}(\phi)
 $$
 
-Note that every propositional variable implies a truth function, where 
+Note that every propositional variable implies a truth function, where
 
-$$ 
-f_{P}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathcal{A}(P) 
-$$ 
+$$
+f_{P}: \mathbb{A} \to \{T,F\} = \mathcal{A} \mapsto \mathcal{A}(P)
+$$
 
 The support of this function is just $\{P\}$.
 
@@ -215,7 +215,7 @@ Additionally, all truth functions can be described by a finite truth table. This
 
 **Definition (Adequacy of Truth Functions):** Let $\mathcal{F}$ be a set of truth functions. We will say that $\mathcal{F}$ is adequate if for every truth function $f$, there exists a formula $\phi$ such that the truth function induced by $\phi$ is equal to $f$, and $\phi$ only uses truth functions from $\mathcal{F}$.
 
-That is, every truth function $g:\{T,F\}^n \to \{T,F\}$ can be expressed as a propositional formula using only the truth functions in $\mathcal{F}$ under composition. 
+That is, every truth function $g:\{T,F\}^n \to \{T,F\}$ can be expressed as a propositional formula using only the truth functions in $\mathcal{F}$ under composition.
 
 **Theorem:** I don't really do theorems in this because I didn't want to bloat the post with proofs, but it's worth stating that the set of truth functions $\{\wedge, \vee, \neg\}$ is adequate. It might be a fun exercise to show that the remaining functions $\rightarrow$ and $\leftrightarrow$ can be expressed in terms of these three functions.
 

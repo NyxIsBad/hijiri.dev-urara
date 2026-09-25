@@ -1,4 +1,5 @@
 import type { FFFFlavoredFrontmatter } from 'fff-flavored-frontmatter'
+
 import { render } from 'svelte/server'
 
 interface GenPostsOptions {
@@ -45,6 +46,10 @@ export const typeOfPost = (
 /**
  * Generate Posts List
  * @param options - An optional configuration object
+ * @param options.filterUnlisted - Whether to omit unlisted posts
+ * @param options.modules - Preloaded route modules to process
+ * @param options.postHtml - Whether to render post HTML
+ * @param options.postLimit - Maximum number of posts to return
  * @returns - posts list
  */
 export const genPosts: GenPostsFunction = ({

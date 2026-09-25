@@ -1,10 +1,10 @@
 ---
 title: Personal Posts
 created: 2022-07-08
-tags: 
+tags:
   - PersonalPost
 summary: A List of all Personal Posts
-flags: 
+flags:
   - unlisted
 ---
 

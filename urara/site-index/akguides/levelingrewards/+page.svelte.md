@@ -1,9 +1,9 @@
 ---
 title: X-Legend Character Leveling Rewards
 created: 2024-05-05
-tags: 
+tags:
   - PersonalPost
-flags: 
+flags:
   - unlisted
 ---
 
@@ -31,9 +31,9 @@ An underline means that we're looking at a subpackage. Stars are for what I perc
 | Warp Card | 50 | ❌ |
 | Hero's Emblem | 1 | ❌ |
 | ⭐Proof of Mission | 5 | ✔️ |
-| Level 40 Box | 1 | ✔️ | 
+| Level 40 Box | 1 | ✔️ |
 
-The proof of mission is an item that gives you +20% quest xp for an hour. 
+The proof of mission is an item that gives you +20% quest xp for an hour.
 
 ## Level 40
 
@@ -60,7 +60,7 @@ __Set Bonuses:__
 
 The Aura Armor's 30% XP bonus is extremely powerful for dungeon leeching. Unfortunately you can't get it on your main account if you made it before migration, since the armor is NW.
 
-The Advanced Origin Growth Equipment is an item that allows you to trade for an orange level 40 weapon with a 10% XP bonus. The weapon is NT, but NOT NW, unlike the coupon that you used to exchange it for. This means you can trade for the main weapon of your alt, and trade it over, and use it to hold a free 10% xp boost (or 20% with sub). 
+The Advanced Origin Growth Equipment is an item that allows you to trade for an orange level 40 weapon with a 10% XP bonus. The weapon is NT, but NOT NW, unlike the coupon that you used to exchange it for. This means you can trade for the main weapon of your alt, and trade it over, and use it to hold a free 10% xp boost (or 20% with sub).
 
 The Armor Set box will have its own rank progression, giving you a level 50 chest and so on. Most importantly, it gives you 5 superior fortification transfer scrolls, ***which can be brought over to your other accounts!***. This is stupidly overpowered and allows you to essentially farm infinite fort transfer scrolls
 

@@ -47,7 +47,7 @@ for (auto &it: g) {
         cnt += count(i.begin(), i.end(), '#');
     }
 }
-``` 
+```
 The input method is extremely basic. We just define our vector array of strings, and read them in. We also track how many `#`'s are inputted so we can check if there are 16 of them, as mentioned earlier. I used `auto &i : it`, the easy range for conditional, to make things easier. You could of course do this with a more traditional iterator.
 ```cpp
 auto rotate = [](const array<string, 4> &a) {
@@ -87,13 +87,13 @@ auto fit = [&](long long k, long long x, long long y) {
             }
             if (x_iter < 0 or x_iter > 3 or y_iter < 0 or y_iter > 3) {
                 return 0;
-            }                
+            }
             page[x_iter][y_iter] = '#';
         }
     return 1;
 };
 ```
-It's a pretty simple solution. 
+It's a pretty simple solution.
 
 The DFS function
 ----------------
@@ -110,7 +110,7 @@ auto dfs = [&](auto &&self, long long i) -> bool {
                 if (fit(i, x, y) and self(self, i + 1)) {
                     return 1;
                 }
-                g[i] = rotate(g[i]); 
+                g[i] = rotate(g[i]);
                 page = tmp;
             }
         }
@@ -124,7 +124,7 @@ Then, we try all 4 rotations of the shape and check if it fits. If it doesn't, w
 
 # Solution
 
-Now, let's put it all together. I used a simple check at the end to determine whether or not the polyominos would fit, at which point I would print YES or NO correspondingly. 
+Now, let's put it all together. I used a simple check at the end to determine whether or not the polyominos would fit, at which point I would print YES or NO correspondingly.
 
 ```cpp
 #include <bits/stdc++.h>
@@ -168,7 +168,7 @@ int main() {
                 }
                 if (x_iter < 0 or x_iter > 3 or y_iter < 0 or y_iter > 3) {
                     return 0;
-                }                
+                }
                 page[x_iter][y_iter] = '#';
             }
         return 1;
@@ -186,7 +186,7 @@ int main() {
                     if (fit(i, x, y) and self(self, i + 1)) {
                         return 1;
                     }
-                    g[i] = rotate(g[i]); 
+                    g[i] = rotate(g[i]);
                     page = tmp;
                 }
             }
@@ -194,9 +194,9 @@ int main() {
         return 0;
     };
     // If the count isn't 16, we can auto fail.
-    // Only then do we call dfs. 
-    // Note if cnt isn't 16 then dfs never runs. 
-    if (cnt == 16 and dfs(dfs, 0)) 
+    // Only then do we call dfs.
+    // Note if cnt isn't 16 then dfs never runs.
+    if (cnt == 16 and dfs(dfs, 0))
         printf("Yes\n");
     else
         printf("No\n");
@@ -206,9 +206,8 @@ int main() {
 
 # Thoughts
 
-The problem was really interesting to solve during the time pressure of a competition. In retrospect, the code could have been a lot cleaner. For instance, I could have redesigned the dfs code to not be so for loop intensive, since it deterministically goes through 400 recursions every layer. 
+The problem was really interesting to solve during the time pressure of a competition. In retrospect, the code could have been a lot cleaner. For instance, I could have redesigned the dfs code to not be so for loop intensive, since it deterministically goes through 400 recursions every layer.
 
-Additionally, I think that you can tell the code was very clearly written for competitive programming. After all, there's so much `auto` used. 
+Additionally, I think that you can tell the code was very clearly written for competitive programming. After all, there's so much `auto` used.
 
 I think that the problem demonstrates how "geometric" problems that we typically use human intuition for (should you approach a problem like this in real life, we tend to just "intuit" possible block placements, and don't really think about why our brains can conduct such pattern recognition so efficiently) can be solved more easily through compartmentalization. This problem was relatively simple, with many constraints and a small "puzzle" size. Yet it still required multiple compartmentalizations and solutions for each of them.
-

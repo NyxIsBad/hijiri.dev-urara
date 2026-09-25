@@ -16,15 +16,15 @@ const render = (): string =>
       <loc>${site.protocol + site.domain}</loc>
     </url>
     ${genPosts()
-        .map(
-          post => `
+      .map(
+        post => `
         <url>
             <loc>${site.protocol + site.domain + post.path}</loc>
             <lastmod>${new Date(post.updated ?? post.published ?? post.created).toISOString()}</lastmod>
             <priority>0.5</priority>
         </url>`,
-        )
-        .join('')}
+      )
+      .join('')}
   </urlset>`.trim()
 
 export const prerender = true

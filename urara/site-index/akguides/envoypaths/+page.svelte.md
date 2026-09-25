@@ -1,19 +1,19 @@
 ---
 title: PVE/DPS Envoy Paths
 created: 2024-12-19
-tags: 
+tags:
   - PersonalPost
-flags: 
+flags:
   - unlisted
 ---
 
-None of these envoy paths are necessarily the "best" envoy path, since the meta of the game changes constantly and evolves. This is just one valid sequence for a variety of builds. 
+None of these envoy paths are necessarily the "best" envoy path, since the meta of the game changes constantly and evolves. This is just one valid sequence for a variety of builds.
 
 This post is current by 2024-12-19
 
 Paths will be separated into what I believe is necessary and then a possible completion using the free points. You are free to use free points however you wish.
 
-Elements are assumed using the following list: 
+Elements are assumed using the following list:
 
 - **Duelist:** Physical, weapon element can be ice/holy
 - **Guard:** Lightning
@@ -77,7 +77,7 @@ Wizard is in an odd state because it has some of the most free envoy tiles of an
 
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
-| Storm | [Build](https://www.aurakingdom-db.com/envoy/gunslinger?build=000000000010000000100000000101111000000110000011100000011111110100001) | [Build](https://www.aurakingdom-db.com/envoy/gunslinger?build=000000000010000000100000001101111011000110000011100000011111110100101) | It's really just a question of how you want to connect it. 
+| Storm | [Build](https://www.aurakingdom-db.com/envoy/gunslinger?build=000000000010000000100000000101111000000110000011100000011111110100001) | [Build](https://www.aurakingdom-db.com/envoy/gunslinger?build=000000000010000000100000001101111011000110000011100000011111110100101) | It's really just a question of how you want to connect it.
 
 Yeahh, there's other builds for this as well. You can completely change the method of connecting to the greys. Just make sure you hit all of them as necessary. Also, remember that this is a PVE guide; Gunslinger's PVP ones look totally different.
 
@@ -122,15 +122,15 @@ A pretty straightforward one, you can put the 4 free tiles anywhere but I think 
 
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
-| Dark | [Build](https://www.aurakingdom-db.com/envoy/ranger?build=000011010011010111100010100000111000010010000000010000000011110010) | [Build](https://www.aurakingdom-db.com/envoy/ranger?build=000011010011010111100010100000111000010010000010010000000011110011) | 2 free tiles, only get domineering thunder if you're a bard sub | 
+| Dark | [Build](https://www.aurakingdom-db.com/envoy/ranger?build=000011010011010111100010100000111000010010000000010000000011110010) | [Build](https://www.aurakingdom-db.com/envoy/ranger?build=000011010011010111100010100000111000010010000010010000000011110011) | 2 free tiles, only get domineering thunder if you're a bard sub |
 
-Soon to be outdated due to the rework. Holy is weak enough that I'm not going to post it here, but feel free to DM me on discord if you want an alternative. Domineering Thunder is a rare case of a combo skill worth getting because of just how many iframes this one gives. You can also do frost arrow. 
+Soon to be outdated due to the rework. Holy is weak enough that I'm not going to post it here, but feel free to DM me on discord if you want an alternative. Domineering Thunder is a rare case of a combo skill worth getting because of just how many iframes this one gives. You can also do frost arrow.
 
 # Ronin/Tachi
 
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
-| Storm | [Build](https://www.aurakingdom-db.com/envoy/ronin?build=001111111101000000100000001111000010000001000000001000000011111111000) | See Notes | There's not really a better build here imo. 0 free points | 
+| Storm | [Build](https://www.aurakingdom-db.com/envoy/ronin?build=001111111101000000100000001111000010000001000000001000000011111111000) | See Notes | There's not really a better build here imo. 0 free points |
 
 # Reaper
 
@@ -192,5 +192,5 @@ Soon to be outdated due to the rework. Holy is weak enough that I'm not going to
 | Element | Necessary Tiles | Full Build | Notes |
 | ------- | --------------- | ---------- | ----- |
 | Dark | [Build](https://www.aurakingdom-db.com/envoy/celestial-sphere?build=000101111111000000100000000110000111000001100000111000000100010) | [Build](https://www.aurakingdom-db.com/envoy/celestial-sphere?build=010101111111000000100000001110000111000001100000111000000110011) | Pick up the MSPD tile and some phys skills tiles |
-| Physical | [Build](https://www.aurakingdom-db.com/envoy/celestial-sphere?build=010101111111000000100000001110000111000001100000111000000110011) | See Notes | Honestly this seems like the full dark build might be good enough. 
+| Physical | [Build](https://www.aurakingdom-db.com/envoy/celestial-sphere?build=010101111111000000100000001110000111000001100000111000000110011) | See Notes | Honestly this seems like the full dark build might be good enough.
 | Holy | [Build](https://www.aurakingdom-db.com/envoy/celestial-sphere?build=100101111111100000101100000110000111000001100000111000000100010) | See Notes | Similar to dark, except we pick up the holy skill slots, and that happens to take up all of the tiles |

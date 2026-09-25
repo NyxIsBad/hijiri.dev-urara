@@ -31,7 +31,7 @@
 </script>
 
 <svelte:element
-  class='h-entry card bg-base-100 rounded-none md:rounded-box md:shadow-xl overflow-hidden z-10'
+  class='bg-base-100 md:rounded-box card z-10 h-entry rounded-none md:shadow-xl overflow-hidden'
   class:before:!rounded-none={preview && post.image}
   class:group={preview}
   class:image-full={preview && post.type === 'article' && post.image}
@@ -60,7 +60,7 @@
       <Image
         alt={post.alt ?? post.image}
         class={post.type === 'article'
-          ? 'u-featured object-center h-full w-full absolute group-hover:scale-105 transition-transform duration-500 ease-in-out'
+          ? 'h-full w-full duration-500 ease-in-out absolute u-featured object-center group-hover:scale-105 transition-transform'
           : 'u-photo rounded-xl md:rounded-b-none -mb-6 md:-mb-2'}
         {decoding}
         {loading}
@@ -89,12 +89,12 @@
       {#if post.title}
         {#if preview}
           <h2
-            class='card-title text-3xl mr-auto bg-[length:100%_0%] bg-[position:0_88%] underline decoration-4 decoration-transparent group-hover:decoration-primary hover:bg-[length:100%_100%] hover:text-primary-content bg-gradient-to-t from-primary to-primary bg-no-repeat transition-all ease-in-out duration-300'
+            class='mr-auto transition-all ease-in-out card-title text-3xl bg-[length:100%_0%] bg-[position:0_88%] underline decoration-4 decoration-transparent group-hover:decoration-primary hover:bg-[length:100%_100%] hover:text-primary-content bg-gradient-to-t from-primary to-primary bg-no-repeat duration-300'
             itemprop='name headline'>
             <a class='u-url p-name' href={post.path} itemprop='url'>{post.title ?? post.path.slice(1)}</a>
           </h2>
         {:else}
-          <h1 class='card-title text-3xl mb-8 p-name' itemprop='name headline'>{post.title ?? post.path.slice(1)}</h1>
+          <h1 class='card-title text-3xl p-name mb-8' itemprop='name headline'>{post.title ?? post.path.slice(1)}</h1>
         {/if}
       {/if}
       {#if post.summary}
@@ -103,10 +103,11 @@
         </p>
       {/if}
     </div>
-    <main class='urara-prose prose e-content' class:mt-4={post.type !== 'article'} itemprop='articleBody'>
+    <main class='prose urara-prose e-content' class:mt-4={post.type !== 'article'} itemprop='articleBody'>
       {#if !preview}
         <slot />
       {:else if post.html}
+        <!-- eslint-disable-next-line svelte/no-at-html-tags -- locally rendered post HTML -->
         {@html post.html}
       {/if}
     </main>
@@ -114,7 +115,7 @@
       <div class='divider mt-4 mb-0' />
       <div>
         {#each post.tags as tag}
-          <a class='btn btn-sm btn-ghost normal-case mt-2 mr-2 p-category' href='/?tags={tag}'>
+          <a class='btn btn-sm btn-ghost normal-case mr-2 mt-2 p-category' href='/?tags={tag}'>
             #{tag}
           </a>
         {/each}

@@ -1,175 +1,175 @@
-import type { ThemeConfig, HeadConfig, HeaderConfig, FooterConfig, DateConfig, FeedConfig } from '$lib/types/general'
+import type { DateConfig, FeedConfig, FooterConfig, HeadConfig, HeaderConfig, ThemeConfig } from '$lib/types/general'
 
 export const theme: ThemeConfig = [
   {
     name: 'light',
-    text: '🌕 Light'
+    text: '🌕 Light',
   },
   {
     name: 'dark',
-    text: '🌑 Dark'
+    text: '🌑 Dark',
   },
   {
     name: 'cupcake',
-    text: '🧁 Cupcake'
+    text: '🧁 Cupcake',
   },
   {
     name: 'bumblebee',
-    text: '🐝 Bumblebee'
+    text: '🐝 Bumblebee',
   },
   {
     name: 'emerald',
-    text: '✳️ Emerald'
+    text: '✳️ Emerald',
   },
   {
     name: 'corporate',
-    text: '🏢 Corporate'
+    text: '🏢 Corporate',
   },
   {
     name: 'valentine',
-    text: '🌸 Valentine'
+    text: '🌸 Valentine',
   },
   {
     name: 'synthwave',
-    text: '🌃 Synthwave'
+    text: '🌃 Synthwave',
   },
   {
     name: 'retro',
-    text: '🌇 Retro'
+    text: '🌇 Retro',
   },
   {
     name: 'cyberpunk',
-    text: '🌐 Cyberpunk'
+    text: '🌐 Cyberpunk',
   },
   {
     name: 'halloween',
-    text: '🎃 Halloween'
+    text: '🎃 Halloween',
   },
   {
     name: 'garden',
-    text: '🏡 Garden'
+    text: '🏡 Garden',
   },
   {
     name: 'forest',
-    text: '🌲 Forest'
+    text: '🌲 Forest',
   },
   {
     name: 'aqua',
-    text: '💦 Aqua'
+    text: '💦 Aqua',
   },
   {
     name: 'lofi',
-    text: '🎶 Lo-Fi'
+    text: '🎶 Lo-Fi',
   },
   {
     name: 'pastel',
-    text: '🌈 Pastel'
+    text: '🌈 Pastel',
   },
   {
     name: 'fantasy',
-    text: '🐣 Fantasy'
+    text: '🐣 Fantasy',
   },
   {
     name: 'wirefream',
-    text: '📱 Wireframe'
+    text: '📱 Wireframe',
   },
   {
     name: 'black',
-    text: '🖤 Black'
+    text: '🖤 Black',
   },
   {
     name: 'luxury',
-    text: '💰 Luxury'
+    text: '💰 Luxury',
   },
   {
     name: 'dracula',
-    text: '🧛 Dracula'
+    text: '🧛 Dracula',
   },
   {
     name: 'cmyk',
-    text: '🖨️ CMYK'
+    text: '🖨️ CMYK',
   },
   {
     name: 'autumn',
-    text: '🍂 Autumn'
+    text: '🍂 Autumn',
   },
   {
     name: 'business',
-    text: '🗄️ Business'
+    text: '🗄️ Business',
   },
   {
     name: 'acid',
-    text: '🌧️ Acid'
+    text: '🌧️ Acid',
   },
   {
     name: 'lemonade',
-    text: '🍋 Lemonade'
+    text: '🍋 Lemonade',
   },
   {
     name: 'night',
-    text: '🌃 Night'
+    text: '🌃 Night',
   },
   {
     name: 'coffee',
-    text: '☕ Coffee'
+    text: '☕ Coffee',
   },
   {
     name: 'winter',
-    text: '❄️ Winter'
-  }
+    text: '❄️ Winter',
+  },
 ]
 
 export const head: HeadConfig = {}
 
 export const header: HeaderConfig = {
-  search: {
-    provider: 'duckduckgo'
-  },
   nav: [
     {
+      link: '/site-index/personal',
       text: 'Personal Life',
-      link: '/site-index/personal'
     },
     {
+      link: '/site-index/dev',
       text: 'Coding Things',
-      link: '/site-index/dev'
     },
     {
+      link: '/site-index/akguides',
       text: 'AK Things',
-      link: '/site-index/akguides'
     },
     {
+      link: '/site-index/tl',
       text: 'Translations',
-      link: '/site-index/tl'
     },
     {
+      link: '/about-me/',
       text: 'About Me',
-      link: '/about-me/'
-    }
-  ]
+    },
+  ],
+  search: {
+    provider: 'duckduckgo',
+  },
 }
 
 export const footer: FooterConfig = {
   nav: [
     {
+      link: '/atom.xml',
       text: 'Feed',
-      link: '/atom.xml'
     },
     {
+      link: '/sitemap.xml',
       text: 'Sitemap',
-      link: '/sitemap.xml'
-    }
-  ]
+    },
+  ],
 }
 
 export const date: DateConfig = {
   locales: 'en-US',
   options: {
-    year: 'numeric',
-    weekday: 'long',
+    day: 'numeric',
     month: 'short',
-    day: 'numeric'
-  }
+    weekday: 'long',
+    year: 'numeric',
+  },
 }
 
 export const feed: FeedConfig = {}

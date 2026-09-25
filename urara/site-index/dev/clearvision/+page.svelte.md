@@ -1,7 +1,7 @@
 ---
 title: The Clearvision Project
 created: 2022-07-08
-tags: 
+tags:
   - Clearvision
   - DevPost
 image: /site-index/dev/clearvision/6-stable479.png

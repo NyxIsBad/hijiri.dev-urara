@@ -104,35 +104,32 @@
         'mention-of': ['💬 mentioned', 'border-base-300/50', 'text-base-content', 'tooltip-base-content'],
         'repost-of': ['🔄 reposted', 'border-accent/50', 'text-accent', 'tooltip-accent'],
         'rsvp': [
-          `📅 RSVPed ${
-            mention.rsvp
-            && {
-                interested: '💡',
-                maybe: '💭',
-                no: '❌',
-                yes: '✅',
-              }[mention.rsvp]
-          }`,
+          `📅 RSVPed ${mention.rsvp && {
+            interested: '💡',
+            maybe: '💭',
+            no: '❌',
+            yes: '✅',
+          }[mention.rsvp]}`,
           'border-warning/50',
           'text-warning',
           'tooltip-warning',
         ],
       }[mention['wm-property']]}
       {#if mention.url !== null}
-        <div class='{borderColor} border-2 rounded-box p-4'>
+        <div class='{borderColor} rounded-box border-2 p-4'>
           <div class='flex bg-base-200 rounded-btn'>
             {#if mention?.author?.photo}
               <img
                 alt={mention.author?.name ?? new URL(mention.url).host}
-                class='w-12 h-12 flex-none rounded-btn'
+                class='rounded-btn w-12 h-12 flex-none'
                 decoding='async'
                 loading='lazy'
                 src={mention.author.photo} />
             {/if}
-            <div class='flex-1 px-4 py-2 m-auto'>
+            <div class='flex-1 m-auto px-4 py-2'>
               <p>
                 {#if mention?.author?.url}
-                  <a class='font-semibold{textColor} hover:underline' href={mention.author.url}>
+                  <a class='font-semibold {textColor} hover:underline' href={mention.author.url}>
                     {mention.author?.name ?? new URL(mention.url).host}
                   </a>
                 {:else}
@@ -143,7 +140,7 @@
                 </a>
                 this post on
                 <span
-                  class='tooltip tooltip-bottom xl:tooltip-right{tooltipColor}'
+                  class='tooltip tooltip-bottom xl:tooltip-right {tooltipColor}'
                   data-tip={new Date(mention.published ?? mention['wm-received']).toLocaleString()}>
                   {mention.published ? mention.published.slice(0, 10) : mention['wm-received'].slice(0, 10)}
                 </span>
@@ -152,6 +149,7 @@
           </div>
           {#if mention.content}
             <div class='prose max-w-none break-words mt-4'>
+              <!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted, sanitized webmention content -->
               <p>{@html mention.content?.html ?? mention.content?.text}</p>
             </div>
           {/if}

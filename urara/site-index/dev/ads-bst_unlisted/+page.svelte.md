@@ -2,16 +2,16 @@
 title: Advanced Data Structures - The Binary Search Tree
 created: 2024-06-07
   - unlisted
-tags: 
+tags:
   - Data Structures
   - DevPost
 ---
 
 # Intro
-This will be the first in a series on data structures and algorithms. We start with the most basic implementation of the basic BST in python, and will move onto a few more complex structures. 
+This will be the first in a series on data structures and algorithms. We start with the most basic implementation of the basic BST in python, and will move onto a few more complex structures.
 
 # Binary Search Tree
-The BST is, as anyone with a touch of interest in CS might know, absolutely essential. It's the basis for most of our advanced structures for searching and sorting. It's also the basis for many of the data structures we'll discuss. 
+The BST is, as anyone with a touch of interest in CS might know, absolutely essential. It's the basis for most of our advanced structures for searching and sorting. It's also the basis for many of the data structures we'll discuss.
 
 First, let us define what a BST is:
 ## Definition
@@ -45,14 +45,14 @@ class Node():
 This node class is pretty simple.
 
 ## Insertion
-Since our BST is just a simple BST, the insert idea is also very simple. Let's first define a template for our data structure. Ideally, we want a class that can represent all nodes in the tree. This node should have a left and right child, and a key value pair. 
+Since our BST is just a simple BST, the insert idea is also very simple. Let's first define a template for our data structure. Ideally, we want a class that can represent all nodes in the tree. This node should have a left and right child, and a key value pair.
 
 ```python
 # For the tree rooted at root and the key and value given:
 # Insert the key/value pair.
 # The key is guaranteed to not be in the tree.
 def insert(root: Node, key: int, value: int) -> Node:
-    if root is None: 
+    if root is None:
         # if root is none then we are building tree
         return Node(key, value)
     cur = root # traversal setup
@@ -80,13 +80,13 @@ The insert method is pretty simple. We just traverse the tree until we find a pl
 Deletion is a bit more complex. Consider the following:
 - If the node has no children, we can just delete it.
 - If the node has one child, we can just replace the node with the child.
-- If the node has two children (eg it's a true parent node), it gets complex. Say we delete the node. How do we then "rebalance" or move around the 2 child trees so that the BST property is still maintained? It turns out that the easiest option is to find a replacement node from within the tree. Note that this option needs to be in between the left and right child of the node we are deleting. 
+- If the node has two children (eg it's a true parent node), it gets complex. Say we delete the node. How do we then "rebalance" or move around the 2 child trees so that the BST property is still maintained? It turns out that the easiest option is to find a replacement node from within the tree. Note that this option needs to be in between the left and right child of the node we are deleting.
 
 How do we find this replacement node? We can either find the maximum of the left subtree or the minimum of the right subtree. These two are the only nodes guaranteed to be in between any of the nodes of the left tree, and any of the nodes of the right tree.
 
-If you picture the children as sets of numbers on a line, and note that the deleted node is in the center, this may be more apparent. 
+If you picture the children as sets of numbers on a line, and note that the deleted node is in the center, this may be more apparent.
 
-In this method we use what is called the "inorder successor", or the minimum of the right subtree. It's called such because if you were to do an inorder traversal, this number would be immediately succeeding the deleted node. 
+In this method we use what is called the "inorder successor", or the minimum of the right subtree. It's called such because if you were to do an inorder traversal, this number would be immediately succeeding the deleted node.
 
 ```python
 # Helper function to find the inorder successor
@@ -102,18 +102,18 @@ def findminnode(node: Node) -> Node:
 # When replacement is necessary use the inorder successor.
 def delete(root: Node, key: int) -> Node:
     if root is None:
-        return root # base case 
-    # we look by key. key should be inorder so we use bs to find it 
+        return root # base case
+    # we look by key. key should be inorder so we use bs to find it
     if key < root.key:
         root.leftchild = delete(root.leftchild, key)
     elif key > root.key:
         root.rightchild = delete(root.rightchild, key)
-    else: # case that key=root.key 
-        if root.leftchild is None: 
+    else: # case that key=root.key
+        if root.leftchild is None:
             return root.rightchild
         elif root.rightchild is None:
             return root.leftchild
-        # inorder successor nonsense 
+        # inorder successor nonsense
         # set key to smallest of right child
         tmp = findminnode(root.rightchild) # returns a node
         root.key = tmp.key
@@ -125,7 +125,7 @@ def delete(root: Node, key: int) -> Node:
 Note that once we find the inorder successor, we replace the key and value of the node we are deleting with the key and value of the inorder successor. We then delete the inorder successor, which is, as it turns out, guaranteed to be either a leaf node or only have 1 child to the right (since it can't have a left child, as it's the smallest in that set already).
 
 ## Search
-Search is trivial. We just traverse the tree until we find what we want. 
+Search is trivial. We just traverse the tree until we find what we want.
 ```python
 # For the tree rooted at root and the key given:
 # Calculate the list of values on the path from the root down to and including the search key node.
@@ -150,4 +150,4 @@ def search(root: Node, search_key: int) -> str:
 And we have a simple search function that returns the path to the key.
 
 ## Closing Thoughts
-This is a simple implementation of a BST. It's not the most efficient, but it's a good starting point. We can improve this by balancing the tree, which we will discuss in a future post. I hope you learned something; although hopefully the concepts were already familiar to you, since a BST is by far the most basic structure I intend to go over. Also, if I feel good after finishing this series, I may start one on binary exploitation. 
+This is a simple implementation of a BST. It's not the most efficient, but it's a good starting point. We can improve this by balancing the tree, which we will discuss in a future post. I hope you learned something; although hopefully the concepts were already familiar to you, since a BST is by far the most basic structure I intend to go over. Also, if I feel good after finishing this series, I may start one on binary exploitation.

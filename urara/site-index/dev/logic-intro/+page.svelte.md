@@ -1,7 +1,7 @@
 ---
 title: An Introduction to Elementary Logic and Cantor's Theorem
 created: 2026-01-17
-tags: 
+tags:
   - Logic
   - Mathematics
   - DevPost
@@ -9,7 +9,7 @@ tags:
 
 # Intro
 
-Going to aim to keep this introduction as simple as possible. It's heavily inspired by Aris Papadopoulos' course Math445, which I took last semester. 
+Going to aim to keep this introduction as simple as possible. It's heavily inspired by Aris Papadopoulos' course Math445, which I took last semester.
 
 I also want to mention that, yeah, I've been dead. I have an unlisted advanced datastructures series that I want to finish, and additionally I need to keep working on the machine learning stuff. I also want to start a new one on security. But for now, logic.
 
@@ -33,7 +33,7 @@ The gist of this is that there are an equal "number" of elements in both sets. I
 
 ## Theorem (Cantor's Theorem)
 
-For any set, $A$, $A$ is not equinumerous to $\mathcal{P}(A)$. In other words, there is no bijection between a set and its power set. Here, the power set is defined as above. 
+For any set, $A$, $A$ is not equinumerous to $\mathcal{P}(A)$. In other words, there is no bijection between a set and its power set. Here, the power set is defined as above.
 
 **Proof #1:** This proof, more overarching, does not use the diagonal argument.
 
@@ -47,7 +47,7 @@ However, this proof can be a little bit unsatisfying, since it doesn't really gi
 
 **Proof #2 (for $\mathbb{N}$):** Now, we will use the diagonal argument to construct a concrete example of a set that is not in the image of $f$, for the case where $A=\mathbb{N}$.
 
-Take any arbitrary map $f$ from $A$ to $\mathcal{P}(A)$. For the sake of simplicity and without loss of generality let 
+Take any arbitrary map $f$ from $A$ to $\mathcal{P}(A)$. For the sake of simplicity and without loss of generality let
 
 $$
 f(1)=\{1,3\}, f(2)=\{2,4,5\}, f(3)=\{1,4\}, f(4)=\{2\}, f(5)=\{1,3,5\}
@@ -67,7 +67,7 @@ Then, for each diagonal element (i.e. the elements where the row and column indi
 
 That is, $B$ contains $1$ if $1 \not\in f(1)$, contains $2$ if $2 \not\in f(2)$, and so on. Thus, $B$ cannot be equal to any $f(x)$. Note that we must use the diagonal here because if we just flipped the first element of each row, for example, then it is possible that two rows could be identical in all other positions, and thus we wouldn't be able to guarantee that $B$ is not in the image of $f$ because we've inverted them into each other.
 
-**Exercise:** It's an extremely interesting (and kind of annoying, if you want to do it "correctly") exercise to prove that $\mathbb{N}\sim \{0,1\}^\mathbb{N}$ (the set of all infinite binary sequences). You can also do this for $\mathbb{N}\sim \mathbb{Q}$ if you want to go a bit further, but that's further more annoying. 
+**Exercise:** It's an extremely interesting (and kind of annoying, if you want to do it "correctly") exercise to prove that $\mathbb{N}\sim \{0,1\}^\mathbb{N}$ (the set of all infinite binary sequences). You can also do this for $\mathbb{N}\sim \mathbb{Q}$ if you want to go a bit further, but that's further more annoying.
 
 ## Finishing Remarks
 

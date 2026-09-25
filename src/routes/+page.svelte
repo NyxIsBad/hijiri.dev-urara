@@ -55,14 +55,14 @@
     out:fly={{ duration: 300, x: -25 }}>
     {#if allTags && Object.keys(allTags).length > 0}
       <div
-        class='flex xl:flex-wrap gap-2 overflow-x-auto xl:overflow-x-hidden overflow-y-hidden max-h-24 my-auto xl:max-h-fit max-w-fit xl:max-w-full pl-8 md:px-0 xl:pl-8 xl:pt-8'>
+        class='flex xl:flex-wrap gap-2 overflow-x-auto overflow-y-hidden my-auto xl:overflow-x-hidden max-h-24 xl:max-h-fit max-w-fit xl:max-w-full pl-8 md:px-0 xl:pl-8 xl:pt-8'>
         {#each allTags as tag}
           <button
-            class='btn btn-sm btn-ghost normal-case border-dotted border-base-content/20 border-2 mt-4 mb-8 xl:m-0'
+            class='btn btn-sm btn-ghost normal-case border-2 mt-4 mb-8 border-dotted border-base-content/20 xl:m-0'
             class:!btn-secondary={tags.includes(tag)}
             class:shadow-lg={tags.includes(tag)}
             id={tag}
-            on:click={() => (tags.includes(tag) ? (tags = tags.filter(tagName => tagName != tag)) : (tags = [...tags, tag]))}>
+            on:click={() => (tags.includes(tag) ? (tags = tags.filter(tagName => tagName !== tag)) : (tags = [...tags, tag]))}>
             #{tag}
           </button>
         {/each}
@@ -74,7 +74,7 @@
       <!-- {:else} is not used because there is a problem with the transition -->
       {#if loaded && posts.length === 0}
         <div
-          class='bg-base-300 text-base-content shadow-inner text-center md:rounded-box p-10 -mb-2 md:mb-0 relative z-10'
+          class='bg-base-300 text-base-content shadow-inner text-center md:rounded-box -mb-2 relative z-10 p-10 md:mb-0'
           in:fly={{ delay: 500, duration: 300, x: 100 }}
           out:fly={{ duration: 300, x: -100 }}>
           <div class='prose items-center'>
@@ -84,14 +84,14 @@
               {/each}]
             </h2>
             <button class='btn btn-secondary' on:click={() => (tags = [])}>
-              <span class='i-heroicons-outline-trash mr-2' />
+              <span class='mr-2 i-heroicons-outline-trash' />
               tags = []
             </button>
           </div>
         </div>
       {/if}
       <main
-        class='flex flex-col relative bg-base-100 md:bg-transparent md:gap-8 z-10'
+        class='flex flex-col relative bg-base-100 z-10 md:bg-transparent md:gap-8'
         itemprop='mainEntityOfPage'
         itemscope
         itemtype='https://schema.org/Blog'>
@@ -106,7 +106,7 @@
             </div>
           {/if}
           <div
-            class='rounded-box transition-all duration-500 ease-in-out hover:z-30 hover:shadow-lg md:shadow-xl md:hover:shadow-2xl md:hover:-translate-y-0.5'
+            class='rounded-box transition-all duration-500 ease-in-out md:shadow-xl hover:z-30 hover:shadow-lg md:hover:shadow-2xl md:hover:-translate-y-0.5'
             in:fly={{ delay: 500, duration: 300, x: index % 2 ? 100 : -100 }}
             out:fly={{ duration: 300, x: index % 2 ? -100 : 100 }}>
             <Post decoding={index < 5 ? 'auto' : 'async'} loading={index < 5 ? 'eager' : 'lazy'} {post} preview={true} />

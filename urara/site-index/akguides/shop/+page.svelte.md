@@ -1,9 +1,9 @@
 ---
 title: AK Shop
 created: 2024-05-15
-tags: 
+tags:
   - PersonalPost
-flags: 
+flags:
   - unlisted
 ---
 
@@ -13,7 +13,7 @@ First number is if you don't bring the blue (or gathered) mats, second is if you
 
 If you put in an order it may take a while. Plz don't resell, this is meant to be a relatively cheap price for guildies. If you're not a member of Transcendent, add 3g to the price of each item.
 
-## Please note that there may be translation errors in the game! 
+## Please note that there may be translation errors in the game!
 For instance, golden latte is well known by the community to actually give 12% Detail Damage, not 12% Damage. If a food is not well known, its true effects may also be unknown to me since I've never used them.
 
 ## Bonus Shorthands:
@@ -29,11 +29,11 @@ For instance, golden latte is well known by the community to actually give 12% D
 ### Common Foods
 | Item | Level | Main Benefit | Stats | Price/per | Price/per with mats |
 | ---- | ----- | ------------ | ----- |--------- | ------------------- |
-| [Ancient Beef Noodles](https://www.aurakingdom-db.com/item/18153-ancient-beef-noodles) | 80 | 15% Mspd | Def, Eva | 5.6g | 3.3g | 
-| [Cheesy Tomato Ciabatta](https://www.aurakingdom-db.com/item/19099-cheesy-tomato-ciabatta) | 80 | 10% Mspd, 5% XP | HP, Def | 6.3g | 5.2g | 
+| [Ancient Beef Noodles](https://www.aurakingdom-db.com/item/18153-ancient-beef-noodles) | 80 | 15% Mspd | Def, Eva | 5.6g | 3.3g |
+| [Cheesy Tomato Ciabatta](https://www.aurakingdom-db.com/item/19099-cheesy-tomato-ciabatta) | 80 | 10% Mspd, 5% XP | HP, Def | 6.3g | 5.2g |
 | ⭐[Creamy Chicken Pie](https://www.aurakingdom-db.com/item/19270-creamy-chicken-pie) | 90 | 12% Triple Strike | Crit, Spd | 5g | 3.4g |
-| [Oriental Beauty Steamed Milk](https://www.aurakingdom-db.com/item/21048-oriental-beauty-steamed-milk) | s1 | 15% D-Dmg | Dmg, Spd | 5.2g | 3.9g | 
-| [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) | s10 | 15% Mspd, 5% XP | Def, Eva | 6.2g | 4.2g | 
+| [Oriental Beauty Steamed Milk](https://www.aurakingdom-db.com/item/21048-oriental-beauty-steamed-milk) | s1 | 15% D-Dmg | Dmg, Spd | 5.2g | 3.9g |
+| [Special Crispy Pastry](https://www.aurakingdom-db.com/item/22463-special-crispy-pastry) | s10 | 15% Mspd, 5% XP | Def, Eva | 6.2g | 4.2g |
 | [Almond and Walnut Cinnamon Roll](https://www.aurakingdom-db.com/item/21849-almond-and-walnut-cinnamon-roll) | s10 | 15% Triple Strike | Crit, Spd | 4.8g | 4.2g |
 
 ### Common Drinks
@@ -49,9 +49,6 @@ For instance, golden latte is well known by the community to actually give 12% D
 | [King Tree Juice](https://www.aurakingdom-db.com/item/22447-king-tree-juice) | s10 | 15% Triple Strike | Dmg, Spd | 4.9g | 3.9g |
 | [Tropical Style Pear Flowery Tea](https://www.aurakingdom-db.com/item/21841-tropical-style-pear-flowery-tea) | s10 | 15% Mspd, 7% P-Healing | Def, Eva | 4.9g | 3.9g |
 | [Fantasy Noble Herbal Tea](https://www.aurakingdom-db.com/item/22459-fantasy-noble-herbal-tea) | s10 | 15% D-Dmg | Dmg, Spd | 4.6g | 3.9g |
-
-
-
 
 # Other Foods/Drinks
 
@@ -96,7 +93,7 @@ The below foods don't have a stipulated price because they're not as common. If 
 | [Rib Soup Supreme](https://www.aurakingdom-db.com/item/19083-rib-soup-supreme) | 80 | 8% Acc, 5% Crit Rate | Dmg, Crit |
 | [Choco Banana Milk](https://www.aurakingdom-db.com/item/19095-choco-banana-milk) | 80 | 10% HP, 5% P-Healing | Def, Eva |
 | [Ageless](https://www.aurakingdom-db.com/item/18145-ageless) | 80 | 30% Damage Reflect | HP, Eva |
-| [Taste of the Hour](https://www.aurakingdom-db.com/item/18141-taste-of-the-hour) | 80 | 10% P-Healing | HP, Def | 
+| [Taste of the Hour](https://www.aurakingdom-db.com/item/18141-taste-of-the-hour) | 80 | 10% P-Healing | HP, Def |
 | [Sugar-Free Juice](https://www.aurakingdom-db.com/item/19278-sugar-free-juice) | 90 | 30% Damage Reflect | HP, Eva |
 | [Green Milk Tea](https://www.aurakingdom-db.com/item/19262-green-milk-tea) | 90 | 5% XP, -5% Damage Taken | HP, Def |
 | [Sunshine Dream Honey Fruit Tea](https://www.aurakingdom-db.com/item/21044-sunshine-dream-honey-fruit-tea) | s1 | 13% HP, 7% P-Healing | Def, Eva |

@@ -2,6 +2,7 @@
   import { footer as footerConfig } from '$lib/config/general'
   import { site } from '$lib/config/site'
 
+  // eslint-disable-next-line no-undef-init -- Svelte uses this default to make the prop optional
   let className: string | undefined = undefined
   export { className as class }
   export let sticky: boolean = false
@@ -31,15 +32,16 @@
       <br />
       Based on
       <a
-        rel="noopener noreferrer external"
-        target="_blank"
-        class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="🌸 [δ] - Based on MDsveX & SvelteKit 🌸"
-        href="https://github.com/importantimport/urara">
+        class='tooltip tooltip-secondary hover:text-secondary'
+        data-tip='🌸 [δ] - Based on MDsveX & SvelteKit 🌸'
+        href='https://github.com/importantimport/urara'
+        rel='noopener noreferrer external'
+        target='_blank'>
         Urara
-      </a> by importantimport. 
+      </a> by importantimport.
       {#if footerConfig.html}
         <br />
+        <!-- eslint-disable-next-line svelte/no-at-html-tags -- configured trusted footer markup -->
         {@html footerConfig.html}
       {/if}
     </p>
