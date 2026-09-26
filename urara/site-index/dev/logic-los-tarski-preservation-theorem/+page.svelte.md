@@ -25,7 +25,9 @@ Fix a first order logic $L$. Then,
 **Definition (Universal Sentence):** A universal sentence is a sentence logically equivalent to the form 
 $$
 \forall x_1 \cdots \forall x_n\, \psi(x_1, \ldots, x_n)
-$$ where $\psi$ is quantifier free. These formulas are also called $\forall_1$ formulas
+$$
+
+where $\psi$ is quantifier free. These formulas are also called $\forall_1$ formulas
 
 **Definition (Preserved under substructures):** A sentence $\varphi$ is preserved under substructures if whenever $A\subseteq B$ and $B\models \varphi$, we have $A\models \varphi$.
 
