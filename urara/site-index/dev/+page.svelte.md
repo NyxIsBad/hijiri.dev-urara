@@ -20,3 +20,10 @@ flags:
 8. [An Introduction to Elementary Logic and Cantor's Theorem](./logic-intro/)
 9. [An Introduction to Propositional Logic](./logic-proplogic/)
 10. [The Łoś–Tarski Preservation Theorem](./logic-los-tarski-preservation-theorem/)
+11. [An introduction to Propositional Logic Proofs](./logic-propproof/)
+
+### The Logic Series (in order of reading)
+- [An Introduction to Elementary Logic and Cantor's Theorem](./logic-intro/)
+- [An Introduction to Propositional Logic](./logic-proplogic/)
+- [An Introduction to Propositional Logic Proofs](./logic-propproof/)
+- [The Łoś–Tarski Preservation Theorem](./logic-los-tarski-preservation-theorem/)
